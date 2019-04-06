@@ -1,4 +1,4 @@
 # Personal Website
 
-This is my personal website which can be found a https://paul.copplest.one
+This is my personal website which can be found at https://paul.copplest.one
 
