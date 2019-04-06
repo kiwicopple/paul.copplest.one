@@ -14,9 +14,49 @@ module.exports = {
       { text: "Projects", link: "/projects/" }
     ],
     sidebar: {
-      "/blog/": ["email-to-a-friend"],
-      "/gists/": ["vscode-js-snippets"],
-      "/knowledge/": ["soil"],
+      "/blog/": [
+        {
+          title: "Posts",
+          collapsable: false,
+          children: [
+            "desire",
+            "dividing-equity",
+            "augmented-reality",
+            "admirable-startups",
+            "email-to-a-friend"
+          ]
+        },
+        {
+          title: "In Progress",
+          collapsable: false,
+          children: [
+            "effectiveness",
+            "team-communication",
+            "product-distribution-fit",
+          ]
+        }
+      ],
+      "/gists/": [
+        "vscode-js-snippets", 
+        "debounce-and-throttle",
+        "google-analytics",
+      ],
+      "/knowledge/": [
+        {
+          title: "Agronomy",
+          collapsable: false,
+          children: ["soil"]
+        },
+        {
+          title: "Stoicism",
+          collapsable: false,
+          children: ["stoic-virtues"]
+        },
+        {
+          title: "Waste",
+          collapsable: false,
+          children: ["pyrolysis"]
+        }],
       "/projects/": [
         {
           title: "Businesses",
