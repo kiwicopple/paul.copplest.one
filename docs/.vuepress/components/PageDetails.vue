@@ -6,7 +6,6 @@
         </h3>
         <p>
             <template v-if="description">{{description}} <br /></template>
-            {{headers}} <br>
         </p>
         <hr>
     </div>

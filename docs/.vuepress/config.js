@@ -30,9 +30,11 @@ module.exports = {
           title: "In Progress",
           collapsable: false,
           children: [
+            "types-of-intelligence",
             "effectiveness",
             "team-communication",
             "product-distribution-fit",
+            "personal-core-values",
           ]
         }
       ],
@@ -40,6 +42,7 @@ module.exports = {
         "vscode-js-snippets", 
         "debounce-and-throttle",
         "google-analytics",
+        "beanstalk-swap",
       ],
       "/knowledge/": [
         {
@@ -66,7 +69,14 @@ module.exports = {
         {
           title: "Side Projects",
           collapsable: false,
-          children: ["nimbus-for-work", "servishero"]
+          children: [
+            "sheetmetal", 
+            "pollygot",
+            "mentalmodels",
+            "buymeth",
+            "driffft",
+            "braineebox",
+          ]
         }
       ]
     },

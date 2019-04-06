@@ -5,7 +5,7 @@ description: There's plenty of advice about dividing equity for startup founders
 
 There's plenty of advice about dividing equity for startup founders. There are even calculators online that do it for you. This post isn't about _how_ to divide equity. It's about coming to terms with the decision.
 
-## No matter what, discuss.
+## Discuss
 
 It's often said that running a business is like running a marathon. If you start running with a grain of sand in your shoe you'll end the race with a blister.
 
@@ -13,8 +13,8 @@ Important decisions are like grains of sand. If you don't discuss them they will
 
 There's no incorrect way to divide equity. You can agree to use any method you want. Sometimes it's even obvious how the equity should be divided. But agreement isn't the same as alignment. No matter what - even if you use a third-party tool or arbitrator - it's important to discuss founders equity.
 
-* Does everyone understand the how the equity was divided?
-* Does everyone agree with the inputs that lead to the decisions?
+* Does your cofounder understand the how the equity was divided?
+* Does your cofounder agree with the inputs that lead to the decisions?
 * Did the shy founder say everything they need to say?
 * Did the distracted founder forget to mention their hidden talent?
 * Is everyone aware of their shortcomings?
@@ -22,7 +22,7 @@ There's no incorrect way to divide equity. You can agree to use any method you w
 
 These are hard things to talk about, but if left unanswered will cause resentment. The things that aren't discussed are grains of sand in your shoe. Make sure that you remove them before you start running.
 
-## Remove yourself.
+## Remove yourself
 
 Metaphor can help to remove ego from the decision. For example:
 
@@ -45,7 +45,7 @@ See how all the answers have changed?
 The company matters as much as the people. This exercise is a great way be objective. Creating personas helps to extract the relevant skills each founder is brings. Positioning the founder roles as jobs forces you to "hire" yourself.
 
 
-## Logical fallacies.
+## Logical fallacies
 
 Finally, here are a few cognitive biases that can prevent founders from reaching alignment
 
