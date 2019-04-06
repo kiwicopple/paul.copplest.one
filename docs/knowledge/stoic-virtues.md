@@ -2,11 +2,11 @@
 date: 2018-08-22
 description: There are four main virtues in Stoic philosophy - Wisdom, Courage, Justice, and Temperance.
 ---
-
 # Virtues
-There are four main virtues in Stoic philosophy: Wisdom, Courage, Justice, and Temperance. These are reasonably broad however, and since Stoicism is a practical philosophy this post will explore each to discover how we can behave to embody these virtues.
+There are four main virtues in Stoic philosophy: Wisdom, Courage, Justice, and Temperance. 
 
-The [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/stoiceth/) subdivides each Stoic virtue into four or five subdivisions. I have used these as a baseline and stepped deeper into each subdivision below.
+[[toc]]
+
 
 ## Wisdom
 
@@ -56,3 +56,7 @@ Actions: consider all possibilities when faced with a challenge or problem and d
 ## Justice
 
 ## Temperance
+
+## Resources
+
+- The [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/stoiceth/) subdivides each Stoic virtue into four or five subdivisions. I have used these as a baseline and stepped deeper into each subdivision below.

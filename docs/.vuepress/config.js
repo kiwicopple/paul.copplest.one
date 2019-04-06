@@ -34,21 +34,31 @@ module.exports = {
             "effectiveness",
             "team-communication",
             "product-distribution-fit",
-            "personal-core-values",
+            "personal-core-values"
           ]
         }
       ],
       "/gists/": [
-        "vscode-js-snippets", 
+        "vscode-js-snippets",
         "debounce-and-throttle",
         "google-analytics",
-        "beanstalk-swap",
+        "beanstalk-swap"
       ],
       "/knowledge/": [
         {
           title: "Agronomy",
           collapsable: false,
           children: ["soil"]
+        },
+        {
+          title: "Buddhism",
+          collapsable: false,
+          children: ["buddhism-intro", "buddhism-truths"]
+        },
+        {
+          title: "Meditation",
+          collapsable: false,
+          children: ["meditation-obstacles"]
         },
         {
           title: "Stoicism",
@@ -59,7 +69,8 @@ module.exports = {
           title: "Waste",
           collapsable: false,
           children: ["pyrolysis"]
-        }],
+        }
+      ],
       "/projects/": [
         {
           title: "Businesses",
@@ -70,12 +81,12 @@ module.exports = {
           title: "Side Projects",
           collapsable: false,
           children: [
-            "sheetmetal", 
+            "sheetmetal",
             "pollygot",
             "mentalmodels",
             "buymeth",
             "driffft",
-            "braineebox",
+            "braineebox"
           ]
         }
       ]
