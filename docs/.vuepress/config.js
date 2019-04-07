@@ -91,7 +91,8 @@ module.exports = {
         }
       ]
     },
-    repo: "https://github.com/kiwicopple/paul.copplest.one",
+    docsRepo: "https://github.com/kiwicopple/paul.copplest.one/",
+    docsDir: 'docs',
     editLinks: true
   }
 };

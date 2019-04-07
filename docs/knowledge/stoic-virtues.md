@@ -59,4 +59,4 @@ Actions: consider all possibilities when faced with a challenge or problem and d
 
 ## Resources
 
-- The [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/stoiceth/) subdivides each Stoic virtue into four or five subdivisions. I have used these as a baseline and stepped deeper into each subdivision below.
+- [The Internet Encyclopedia of Philosophy](https://www.iep.utm.edu/stoiceth/)
