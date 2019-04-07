@@ -14,7 +14,7 @@ sections:
   label: Knowledge
   create: all
   match: "**/*"
-upload_dir: ".vuepress/public"
+upload_dir: ".vuepress/public/img"
 public_path: ''
 front_matter_path: ''
 use_front_matter_path: false
