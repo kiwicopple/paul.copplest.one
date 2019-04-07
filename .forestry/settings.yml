@@ -14,6 +14,16 @@ sections:
   label: Knowledge
   create: all
   match: "**/*"
+- type: projects
+  path: docs/projects
+  label: Projects
+  create: all
+  match: "**/*"
+- type: gitst
+  path: docs/gists
+  label: Gists
+  create: all
+  match: "**/*"
 upload_dir: docs/.vuepress/public/img
 public_path: ''
 front_matter_path: ''
