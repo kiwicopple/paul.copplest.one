@@ -4,7 +4,7 @@ module.exports = {
   dest: "public",
   plugins: [
     "@vuepress/last-updated",
-    ["@vuepress/google-analytics", { ga: "" }]
+    ["@vuepress/google-analytics", { ga: "UA-93673521-3" }]
   ],
   themeConfig: {
     nav: [
