@@ -34,15 +34,19 @@ module.exports = {
             "effectiveness",
             "team-communication",
             "product-distribution-fit",
-            "personal-core-values"
+            "personal-core-values",
+            "investor-optimisation",
           ]
         }
       ],
       "/gists/": [
         "vscode-js-snippets",
+        "docker",
+        "regex",
         "debounce-and-throttle",
         "google-analytics",
-        "beanstalk-swap"
+        "beanstalk-swap",
+        "kill-processes",
       ],
       "/knowledge/": [
         {
