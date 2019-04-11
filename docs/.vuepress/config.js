@@ -35,7 +35,7 @@ module.exports = {
             "team-communication",
             "product-distribution-fit",
             "personal-core-values",
-            "investor-optimisation",
+            "investor-optimisation"
           ]
         }
       ],
@@ -46,7 +46,7 @@ module.exports = {
         "debounce-and-throttle",
         "google-analytics",
         "beanstalk-swap",
-        "kill-processes",
+        "kill-processes"
       ],
       "/knowledge/": [
         {
@@ -60,9 +60,19 @@ module.exports = {
           children: ["buddhism-intro", "buddhism-truths"]
         },
         {
+          title: "Ethics",
+          collapsable: false,
+          children: ["ethics-intro", "ethics-maci", "ethics-why", "ethics-framework"]
+        },
+        {
           title: "Meditation",
           collapsable: false,
           children: ["meditation-obstacles"]
+        },
+        {
+          title: "Metacognition",
+          collapsable: false,
+          children: ["how-to-learn"]
         },
         {
           title: "Stoicism",
@@ -96,7 +106,7 @@ module.exports = {
       ]
     },
     docsRepo: "https://github.com/kiwicopple/paul.copplest.one/",
-    docsDir: 'docs',
+    docsDir: "docs",
     editLinks: true
   }
 };
