@@ -5,7 +5,7 @@ description: The time I hired a virtual assistant from India called Nirmal and u
 # Email to a friend
 At one point in my life I hired a Virtal Assistant (VA) from India, whose name was “Nirmal N”. A Virtal Assistant is like a personal assistant but they live remotely and all interation is online. And to be clear, they are real humans not robots or chatbots.
 
-A bit of background: I was an early reader of Tim Ferris’ The Four Hour WorkweeK. In the book he expains the mechanics of running a profitable business with only 4 hours of work per week. One of the keys to this is “automating” your business with cheap labour using the benefits of international wage arbitrage.
+A bit of background: I was an early reader of Tim Ferris’ The Four Hour Workweek. In the book he expains the mechanics of running a profitable business with only 4 hours of work per week. One of the keys to this is “automating” your business with cheap labour using the benefits of international wage arbitrage.
 
 The main problems that I found were the terrible work quality and the time to prepare the tasks took as long as completeing them myself.
 
@@ -15,7 +15,9 @@ I sent Nirmal a list of family email addresses and some bullet points of possibl
 
 The following email was sent to my cousin, Michael. It was one of my favourites. I have not modified any of the words or grammar - they are all the genius of Nirmal N.
 
-<blockquote>
+---- 
+
+<i>
 Subject: Email to a friend
 
 Hi Michael,
@@ -36,4 +38,4 @@ Thanks And Regards
 
 Nirmal.N
 
-</blockquote>
+</i>

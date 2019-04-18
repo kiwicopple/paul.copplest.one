@@ -4,13 +4,13 @@ description: A personal approach to meta-learning, or learning how to learn
 
 # How to learn
 
-One morning while I was travelling in Asia, I joined a friend of mine on a beach, throwing a boomerang that he had made. "It's simple to use," he said in his thick Australian accent, "just hold it in your outstretched arm at a 45 degree angle and throw it at a 45 degree angle the wind."
+One morning while I was travelling in Asia, I joined a friend on a beach, throwing a boomerang that he had made. "It's simple to use," he said in his thick Australian accent, "just hold it in your outstretched arm at a 45 degree angle and throw it at a 45 degree angle the wind."
 
-He demonstrated this, throwing it with a flick of his wrist and then running about 30 meters to the left to catch it (with varying success). Three minutes after this detailed boomerang throwing demonstration he departed for work, leaving me with a boomerang and a full day to practice.
+He demonstrated this, throwing it with a flick of his wrist and running about 30 meters to the left to catch it (with varying success). Three minutes after this _detailed_ boomerang throwing demonstration he departed for work, leaving me with a boomerang and a full day to practice.
 
 An hour or so later, I hadn't caught a single throw.
 
-I decided that the boomerang may not withstand a full day of collisions into the sand, and given the tropical heat I thought it would be fun to move into the water to practice throwing.
+I decided that the boomerang may not withstand a full day of collisions into the sandy beach, and given the tropical heat I thought it would be fun to move into the water to practice throwing.
 
 ## Transilience
 

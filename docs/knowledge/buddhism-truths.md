@@ -3,12 +3,14 @@
 
 Outline of the four truths
 
-1. There is suffering, and it is universal
-2. There is a cause of this suffering
-3. There is a way to end this suffering
-4. The way out of suffering - a way for us to live
+> 1. There is suffering, and it is universal
+> 2. There is a cause of this suffering
+> 3. There is a way to end this suffering
+> 4. The way out of suffering - a way for us to live
 
-Not absolute truths - there cannot be absolute suffering if there is also a cessation of sufferingThe format of each truth
+Not absolute truths - there cannot be absolute suffering if there is also a cessation of suffering
+
+## The format of each truth
 
 Each of these statements have 3 aspects to them: 
 

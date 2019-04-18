@@ -1,6 +1,8 @@
 
 # Introduction to Buddhism
 
+> WARNING: This is still in draft
+
 ## Preamble
 
 Completely secular. I'm writing this because I couldn't find anthing that was secular. I will try to focus on the phychological aspects

@@ -8,7 +8,7 @@ description: Useful shortcodes and snippets for VS Code
 
 Go to `Preferences: Configure User Snippets`, choose `Javascript`, then paste the following:
 
-```
+```javascript
 {
 	"Print to console": {
 	  "prefix": "l",
@@ -42,7 +42,7 @@ The snippet above has two snippets
 
 Part one: 
 
-```
+```javascript
 "Print to console": {
 	"prefix": "l",
 	"body": [
@@ -63,6 +63,6 @@ This part of the code will have the following effect:
 
 Take note of the `${1:variable}` — this tells VSCode that there is some further input required. You can add more of these (like `${2:}`) and you can use any word after the colon to remind yourself what to write. For example, I could have done this: `console.log(${1:REPLACE_ME})` which would give an autocomplete like so:
 
-```
+```javascript
 console.log(REPLACE_ME)
 ```
