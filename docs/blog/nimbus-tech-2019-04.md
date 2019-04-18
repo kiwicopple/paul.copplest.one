@@ -62,17 +62,17 @@ Number 2 and 3 are hard to achieve while still maintaining speed and stability. 
 
 #### Database
 
-Using Postgres is almost cheating in 2019. It's robust, well supported by tools (which you'll see is important in the next section), works on every major cloud provider, stores `JSONB` for anytime you need to prototype something like you would using a NoSQL database. It also has a `NOTIFY/SUBSCRIBE` feature where you can attach listeners to table changes (also important soon).
+Using Postgres is almost cheating in 2019. It's robust, well supported by tools (which you'll see is important in the next section), works on every major cloud provider, and stores `JSONB` for anytime you need to prototype something like you would using a NoSQL database. It also has a `NOTIFY/SUBSCRIBE` feature where you can attach listeners to table changes (also important soon).
 
-The Firebase database is my worst decision to be honest. We needed something for our chat that could support all the functionality of whatsapp (especially voice messages). I ruled out a lot of "Chat as a Service" providers because I thought Firebase would give us the flexibility that we required. Unfortunately I used their latest database, Cloud Firestore (their recommendation), and it's simply too slow and too limited (e.g. querying across subcollections). Luckily you can attach serverless functions to CRUD events so we'll use this to as a way to replicate the data into our Postgres database - eventually removing Firestore completely. 
+The Firebase database is my worst decision to be honest. We needed something for our chat that could support all the functionality of whatsapp (especially voice messages). I ruled out a lot of "Chat as a Service" providers because I thought Firebase would give us the flexibility that we required. Unfortunately I used their latest database, Cloud Firestore (their recommendation), and it's simply too slow and too limited (e.g. querying across subcollections). Luckily you can attach serverless functions to Firestore RUD events so we'll use this to as a way to replicate the data into our Postgres database - eventually removing Firestore completely. 
 
 #### API layer
 
-My favourite piece of opensource software is [PostgREST](http://postgrest.org/). Simply start a server, install PostgREST, point it towards your Postgres database, then never touch it again. This gives you a fully fledged, well tested, and high performace API. Hell, you can even [query foreign tables](http://postgrest.org/en/v5.2/api.html#resource-embedding) in one request, just like you would with somthing like GraphQL. Security can be pushed all the way down to the database level, and since Postgres has Row Level Security you end up with a API that's pretty damn good. Much better than any I can build myself. 
+My favourite piece of opensource software is [PostgREST](http://postgrest.org/) (not to be confused with Postgres). Simply start a server, install PostgREST, point it towards your Postgres database, then never touch it again. This gives you a fully-fledged, well tested, and high performace API. Hell, you can even [query foreign relationships](http://postgrest.org/en/v5.2/api.html#resource-embedding) in one request, just like you would with GraphQL. Security can be pushed all the way down to the database level, and since Postgres has Row Level Security you end up with a API that's pretty damn good. Much better than any I can build myself. 
 
 For anything that requires custom logic, we use Serverless functions (mostly AWS Lambda, written in JS). This is where Serverless really shines - small tasks and fringe cases where it wouldn't make sense to spin up a full server. Our typical use cases are integrations with external providers (e.g. Xero) and building data pipelines.
 
-We have a Phoenix (Elixir) server that is used for anything realtime as well as our database migrations.
+We have a Phoenix (Elixir) server that is used for anything realtime, as well as our database migrations.
 
 #### Frontend
 
@@ -82,7 +82,7 @@ Although React and React Native aren't 100% compatible, we have managed a lot of
 
 ## Writing less code
 
-Now comes the interesting part. I have already mentioned some things like compile-time validation to reduce "meta-programming". But that's not where the real time savings are found. There are two areas where it does:
+Now comes the interesting part. I have already mentioned some things like compile-time validation to reduce "meta-programming". But that's not where the real time savings are found. There are two areas where they are:
 
 1. Git submodules
 2. Declative data structures
