@@ -1,6 +1,6 @@
 ---
 date: 2019-04-19
-description: An overview of the tech stack and the decisions making framework used.
+description: An overview of the tech stack and the rationale behind it.
 ---
 
 # Nimbus Tech Stack (2019)
@@ -127,8 +127,8 @@ We don't have any conflict resolution when users are editing the _same_ row at t
 
 There are a few tools and practices that I have left out for the sake of simplicity but they are worth mentioning to wrap up:
 
-- Queues: we use [Bull](https://github.com/OptimalBits/bull) for much of a long-running tasks (sending push notifications, emails etc). This is on a small NodeJS server that listens to changes in Postgres and Firebase and then enqueues any long-running tasks.
+- Queues: we use [Bull](https://github.com/OptimalBits/bull) for our long-running tasks (sending push notifications, emails etc). This is on a small NodeJS server that listens to changes in Postgres and Firebase and then enqueues any long-running tasks.
 - We use [Feature flags](https://martinfowler.com/articles/feature-toggles.html) to push code into production for a small subset of users before releasing to everyone
 - We deploy mostly to [Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html) which has versioning. If anything fails you can roll back to a previous version. All of our deploys are scripted to make ensure a fast feedback loop, and a fast patch route when things go wrong.
-- Kanban: we have switched to full kanban rather than sprints/scrums. We still do weekly planning, presentation, and curation but there isn't a stressful "final push" to meet deadlines or an "early lull" as we (I) build up the motivation to tackle a sprint. Kanban feels much more consistent and smooth.
+- Kanban: we have switched to full kanban rather than sprints/scrums. We still do weekly planning, presentation, and curation but there isn't a stressful "final push" to meet deadlines or an "early lull" as we build up the motivation to tackle a sprint. Kanban feels much more consistent and smooth.
 
