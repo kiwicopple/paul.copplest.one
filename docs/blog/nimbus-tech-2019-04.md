@@ -20,14 +20,14 @@ Our mobile apps:
 
 #### Crew App
 
-An app for our crew to check in & out of their shifts, see their payslips, apply for leave, and chat to all their colleagues, and track attendance bonuses. It's also for our "on the ground" managers to monitor the staff from anywhere and make quick changes whenever there are problems.
+An app for our crew to check in & out of their shifts, see their payslips, apply for leave, chat to their colleagues, and track attendance bonuses. It's also for our "on the ground" managers to monitor the staff from anywhere and make quick changes whenever there are problems.
 
 #### Customer App
 An app that allows our customers to see when cleaners, temp staff, and contractors are arriving and leaving, book new services (ad-hoc cleaning, event support, pest control etc), chat to Nimbus staff and managers, and pay their invoices.
 
 #### HQ
 
-_"HQ"_ is a web admin interface that allows our team to manage everything and quickly fix any operational problems (when it comes to people, there are always problems). This includes reassigning workers each day, seeing an overview of the schedule for the month, seeing who is late, and all the usual account set up.
+__"HQ"__ is a web admin interface that allows our team to manage everything and quickly fix any operational problems (when it comes to people, there are always problems). This includes reassigning workers each day, seeing an overview of the schedule for the month, seeing who is late, and all the usual account set up.
 
 !["HQ", our internal admin interface](/img/web-hq.png)
 <small>"HQ", our internal admin interface</small>
@@ -35,7 +35,7 @@ _"HQ"_ is a web admin interface that allows our team to manage everything and qu
 
 ## Decision framework
 
-Before detailing the tech stack it's worth pointing out the framework I used (and continue to use) in the decision making process. The overarching goal is this:
+Before detailing the tech stack it's worth pointing out the guiding principle I used (and continue to use) in the decision making process. The overarching goal is this:
 
 > Reduce the number of developers we need to hire.
 
@@ -45,11 +45,11 @@ We have been able to achieve high output with less people through several method
 
 1. Use as few languages and frameworks as possible (we use JS/Node _almost_ everywhere)
 1. Minimise the total "surface area" of the tech. This means writing as little code as possible.
-1. Minimise the amount of "meta engineering". Although it has its time and place, a lot of tech time can be wasted on automating everything and chasing 100% code coverage. 
+1. Minimise "meta engineering". Although it has its time and place, a lot of tech time can be wasted on automating everything and chasing 100% code coverage. 
 
 Number 2 and 3 are hard to achieve while still maintaining speed and stability. At Nimbus they have been largely satisfied because of the following:
 
-- We use functional programming *concepts* as much as we can (without going overboard). When Nimbus started we used Phoenix (Elixir). Eventually we decided to build iOS/Android apps which required introducing another language. I chose React Native and started moving our codebase to Javascript. If I was to start again I might use Typescript, but for now I'm happy with es6 and the functional approach to writing code has persisted, even without a functional language.
+- We use functional programming *concepts* as much as we can (without going overboard). When Nimbus started we used Phoenix (Elixir). Eventually we decided to build iOS/Android apps which required introducing another language. I chose React Native and started moving our codebase to Javascript. If I was to start again I might use Typescript, but for now I'm happy with es6. The functional approach to writing code has persisted, even without a functional language.
 - Compile time "validation". Our products all have to be _built_, and in that process they use [Prettier](https://prettier.io/) to format the code consistently. If the build or the formatter fail, it's soft validation that there is a code error. This means that I haven't been chasing unit tests at all. Instead I use [Sentry](https://sentry.io) to capture all errors in Dev and Prod and I patch them immediately (a benefit of React Native is that you can do "over the air" updates to mobile apps without a full App Store deployment).
 - Relying heavily on the database. I'll elaborate on this later but our Postgres database is the work horse of our tech stack. 
 - Using solid and well-tested opensource tools. It's crazy how much free value there is in the tech world and I'm past the stage of reimplementing every cool piece of tech I hear about. 
