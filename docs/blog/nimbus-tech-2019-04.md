@@ -5,27 +5,29 @@ description: An overview of the tech stack and the rationale behind it.
 
 # Nimbus Tech Stack (2019)
 
-Nimbus ([https://nimbusforwork.com](https://nimbusforwork.com)) is an interesting company in that we are operating in a very non-tech industry (cleaning). This has made it easy to be disruptive, however it also presents some unique difficulties for the products. Namely, cleaners are not very tech-savvy. Because of the lack of tech sophistication, we made a decision early on that we would be very deliberate before presenting changes and new features to our cleaners. 
+Nimbus ([https://nimbusforwork.com](https://nimbusforwork.com)) is an interesting company because we are operating in a very non-tech industry (cleaning). This has made it easy to be disruptive, however it also presents some unique difficulties for the products. Namely, cleaners are not very tech-savvy. Because of the lack of tech sophistication, we made a decision early on that we would be very deliberate before presenting changes and new features to our cleaners. 
 
 Surprisingly, without the "next feature fallacy" mentality we have been able to push out more products with less people. The mentality has instead morphed into "slow is smooth, smooth is fast". Our current tech team consists of one full timer (me) and one intern (working two days per week) who is in his second year at university.
 
 ## Products
 
-We did a lot of prototyping at the start of Nimbus, mostly quick and dirty web products and also a surpisingly successful Telegram chatbot. Now we have arrived at three relatively stable products: two mobile apps and a web interface.
+We did a lot of prototyping at the start of Nimbus, mostly quick and dirty web products and also a surpisingly successful Telegram chatbot. Now we have arrived at three relatively stable products - two mobile apps and a web interface.
+
+Our mobile apps: 
 
 ![Crew app on the left, Customer App in the center and right](/img/mobile.png)
 <small>Crew app on the left, Customer App in the center and right</small>
 
 #### Crew App
 
-An app for our crew to check in and out of their work shifts, see their payslips, apply for leave, and chat to all their colleagues, and tracking attendance bonuses. It's also for our "on the ground" managers to monitor the staff from anywhere and make quick changes whenever there are problems.
+An app for our crew to check in & out of their shifts, see their payslips, apply for leave, and chat to all their colleagues, and track attendance bonuses. It's also for our "on the ground" managers to monitor the staff from anywhere and make quick changes whenever there are problems.
 
 #### Customer App
-An app that allows our customers to see when cleaners and temp staff are arriving and leaving, booking new services (ad-hoc cleaning, event support, pest control etc), chat to Nimbus staff and managers, and the ability to view and pay their invoices.
+An app that allows our customers to see when cleaners, temp staff, and contractors are arriving and leaving, book new services (ad-hoc cleaning, event support, pest control etc), chat to Nimbus staff and managers, and pay their invoices.
 
 #### HQ
 
-_"HQ"_ is a web admin interface that allows our main office to manage everything and quickly fix any operational problems (when it comes to people, there are always problems). This includes reassigning workers each day, seeing an overview of the schedule for the month, seeing who is late, and seeing who is checking in on time.
+_"HQ"_ is a web admin interface that allows our team to manage everything and quickly fix any operational problems (when it comes to people, there are always problems). This includes reassigning workers each day, seeing an overview of the schedule for the month, seeing who is late, and all the usual account set up.
 
 !["HQ", our internal admin interface](/img/web-hq.png)
 <small>"HQ", our internal admin interface</small>
@@ -45,10 +47,10 @@ We have been able to achieve high output with less people through several method
 1. Minimise the total "surface area" of the tech. This means writing as little code as possible.
 1. Minimise the amount of "meta engineering". Although it has its time and place, a lot of tech time can be wasted on automating everything and chasing 100% code coverage. 
 
-Number 2 and 3 are hard to achieve while still maintaining speed and stability. They have been largely satisfied because of the following:
+Number 2 and 3 are hard to achieve while still maintaining speed and stability. At Nimbus they have been largely satisfied because of the following:
 
-- We use functional programming *concepts* as much as we can (without going overboard). When Nimbus started we used Phoenix (Elixir). Eventually we decided to build iOS/Android apps which required introducing another language. I chose React Native and started moving our code to Javascript. If I was to start again I would use Typescript, but for now I'm happy with es6 and the functional approach to writing code has persisted.
-- Compile time "validation". Our products all have to be _built_, and in that process they use [Prettier](https://prettier.io/) to format the code consistently. If the build or the formatter fail, it is a soft-check that there is a code error. This means that I haven't been chasing unit tests at all. Instead I use [Sentry](https://sentry.io) to capture all errors in Dev and Prod and I patch them immediately (a benefit of React Native is that you can do "over the air" updates without a full store deployment).
+- We use functional programming *concepts* as much as we can (without going overboard). When Nimbus started we used Phoenix (Elixir). Eventually we decided to build iOS/Android apps which required introducing another language. I chose React Native and started moving our codebase to Javascript. If I was to start again I might use Typescript, but for now I'm happy with es6 and the functional approach to writing code has persisted, even without a functional language.
+- Compile time "validation". Our products all have to be _built_, and in that process they use [Prettier](https://prettier.io/) to format the code consistently. If the build or the formatter fail, it's soft validation that there is a code error. This means that I haven't been chasing unit tests at all. Instead I use [Sentry](https://sentry.io) to capture all errors in Dev and Prod and I patch them immediately (a benefit of React Native is that you can do "over the air" updates to mobile apps without a full App Store deployment).
 - Relying heavily on the database. I'll elaborate on this later but our Postgres database is the work horse of our tech stack. 
 - Using solid and well-tested opensource tools. It's crazy how much free value there is in the tech world and I'm past the stage of reimplementing every cool piece of tech I hear about. 
 
@@ -62,11 +64,11 @@ Number 2 and 3 are hard to achieve while still maintaining speed and stability. 
 
 Using Postgres is almost cheating in 2019. It's robust, well supported by tools (which you'll see is important in the next section), works on every major cloud provider, stores `JSONB` for anytime you need to prototype something like you would using a NoSQL database. It also has a `NOTIFY/SUBSCRIBE` feature where you can attach listeners to table changes (also important soon).
 
-The Firebase database is my worst decision to be honest. We needed something for our chat that could support all the functionality of whatsapp (especially voice messages). I ruled out a lot of "Chat as a Service" providers because I thought Firebase would give us the flexibility that we required. Unfortunately I used their latest database Cloud Firestore (their recommendation) and it's simply too slow and too limited (e.g. querying across subcollections). The good thing is that you can attach serverless functions to database events and so we'll use this to as a way to replicate the data into our Postgres database - eventually removing Firestore completely. 
+The Firebase database is my worst decision to be honest. We needed something for our chat that could support all the functionality of whatsapp (especially voice messages). I ruled out a lot of "Chat as a Service" providers because I thought Firebase would give us the flexibility that we required. Unfortunately I used their latest database, Cloud Firestore (their recommendation), and it's simply too slow and too limited (e.g. querying across subcollections). Luckily you can attach serverless functions to CRUD events so we'll use this to as a way to replicate the data into our Postgres database - eventually removing Firestore completely. 
 
 #### API layer
 
-My favourite piece of opensource software is [PostgREST](http://postgrest.org/). Simply start a server, install PostgREST and point it towards your Postgres database. This gives you a fully fledged, well tested, and high performace API. Hell, you can even [query foreign tables](http://postgrest.org/en/v5.2/api.html#resource-embedding) in one request, just like you would with somthing like GraphQL. Security can be pushed all the way down to the database level, and since Postgres has Row Level Security you end up with a API that's pretty damn good. One that's much better than I can build. 
+My favourite piece of opensource software is [PostgREST](http://postgrest.org/). Simply start a server, install PostgREST, point it towards your Postgres database, then never touch it again. This gives you a fully fledged, well tested, and high performace API. Hell, you can even [query foreign tables](http://postgrest.org/en/v5.2/api.html#resource-embedding) in one request, just like you would with somthing like GraphQL. Security can be pushed all the way down to the database level, and since Postgres has Row Level Security you end up with a API that's pretty damn good. Much better than any I can build myself. 
 
 For anything that requires custom logic, we use Serverless functions (mostly AWS Lambda, written in JS). This is where Serverless really shines - small tasks and fringe cases where it wouldn't make sense to spin up a full server. Our typical use cases are integrations with external providers (e.g. Xero) and building data pipelines.
 
@@ -80,7 +82,7 @@ Although React and React Native aren't 100% compatible, we have managed a lot of
 
 ## Writing less code
 
-Now comes the interesting part. I have already mentioned some things like compile time validation to reduce "meta-programming". But that's not where the real time savings are found. There are two areas where it does:
+Now comes the interesting part. I have already mentioned some things like compile-time validation to reduce "meta-programming". But that's not where the real time savings are found. There are two areas where it does:
 
 1. Git submodules
 2. Declative data structures
@@ -92,6 +94,8 @@ This one is quite obvious.
 We have a git repository called `nimbus-expo` which is shared across our two React Native apps. This contains all the common Expo UI components.
 
 We have another git repository called `nimbus-utils` that we share across all of our products. This includes helpers, libraries, and common Javascript code. For example, we use [MobX](https://mobx.js.org/) for State Management in all three products, so each product has a shell `rootStore.js` which imports whichever "substores" from `nimbus-utils`.
+
+This can only be done because I have foregone any temptation to use other languages. I find that I am often refactoring these submodules to _reduce_ the amount of code in them. If you're going down this path it's very important to design your code for reusability - in particular you'll want to study up on both the [Actor Model](https://duckduckgo.com/?q=actor+model) and [Dependency Injection](https://duckduckgo.com/?q=dependency+injection) to ensure your libraries are largely decoupled.
 
 #### Declative data structures
 
