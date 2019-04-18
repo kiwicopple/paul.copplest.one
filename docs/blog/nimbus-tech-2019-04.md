@@ -93,9 +93,9 @@ This one is quite obvious.
 
 We have a git repository called `nimbus-expo` which is shared across our two React Native apps. This contains all the common Expo UI components.
 
-We have another git repository called `nimbus-utils` that we share across all of our products. This includes helpers, libraries, and common Javascript code. For example, we use [MobX](https://mobx.js.org/) for State Management in all three products, so each product has a shell `rootStore.js` which imports whichever "substores" from `nimbus-utils`.
+We have another git repository called `nimbus-utils` that we share across all of our products. This includes helpers, libraries, and common Javascript code. For example, we use [MobX](https://mobx.js.org/) for State Management in all three products, so each product has a shell `rootStore.js` which imports whichever "substores" it needs from `nimbus-utils`.
 
-This can only be done because I have foregone any temptation to use other languages. I find that I am often refactoring these submodules to _reduce_ the amount of code in them. If you're going down this path it's very important to design your code for reusability - in particular you'll want to study up on both the [Actor Model](https://duckduckgo.com/?q=actor+model) and [Dependency Injection](https://duckduckgo.com/?q=dependency+injection) to ensure your libraries are largely decoupled.
+This can only be done because I have foregone any temptation to use other languages. I find that I am often refactoring these submodules to _reduce_ the amount of code in them. If you're going down this path it's important to design your code for reusability - in particular you'll want to study up on both the [Actor Model](https://duckduckgo.com/?q=actor+model) and [Dependency Injection](https://duckduckgo.com/?q=dependency+injection) to ensure your libraries are largely standalone and decoupled.
 
 #### Declative data structures
 
@@ -103,19 +103,19 @@ This was a concept that I got from using PostgREST. I became enamoured with the 
 
 PostgREST automatically [generates an OpenAPI spec](http://postgrest.org/en/v5.2/api.html#openapi-support), so my first attempts leveraged this with great success. I combined the spec with [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) to generate fully-validated forms which could create and update our database via PostgREST.
 
-There were a few limitations around display and ordering of the fields so I recently [forked](https://github.com/kiwicopple/postgres-schema) and improved a library which will allow me to inspect our database and create a more robust [JSON Schema](https://json-schema.org/). It's still early days, however we are moving towards a product that utilises the following developer workflow:
+There were a few limitations with displaying and ordering of the fields so I recently [forked](https://github.com/kiwicopple/postgres-schema) and improved a library which will allow me to inspect our database and create a more robust [JSON Schema](https://json-schema.org/). It's still early days, however we are moving towards a product that utilises the following developer workflow:
 
-1. Make changes to the database. The API is automatically updated because of PostgREST
-2. Run a script which inspects the database schema and dumps it as valid JSON Schema
-3. Define any layout customisations using an enrichment schema
-4. Push the new schemas to Prod and the UI is updated automatically
+1. Change the DB: Make changes to the database. The API is automatically updated because of PostgREST
+2. Create a JSON Schema: Run a script which inspects the database schema and dumps it as valid JSON Schema
+3. Create an enrichment schema: Define any layout customisations using an enrichment schema
+4. Deploy the schemas: Push the new schemas to Prod and the UI is updated automatically
 
 As an added bonus, our products are all kept in sync in realtime. To achieve this, whenever data changes in the database, Postgres creates a `NOTIFY` event for any insert/update. Our Phoenix server listens to the changes and "shouts" the updates to anyone connected to it via websockets. 
 
 Our data flow looks like this:
 
-1. User A and User B log into HQ. This loads all initial data into the MobX store 
-1. User A updates a row in the database by sending a PUT request to PostgREST
+1. `User A` and `User B` log into HQ. This loads all initial data into the MobX store 
+1. `User A` updates a row in the database by sending a PUT request to PostgREST
 1. Postgres notifies our Phoenix server
 1. The Phoenix server notifies everyone who is logged in
 1. HQ looks at the update and updates the MobX store
