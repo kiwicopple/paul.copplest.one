@@ -101,7 +101,7 @@ This can only be done because I have foregone any temptation to use other langua
 
 This was a concept that I got from using PostgREST. I became enamoured with the idea that I could make changes to the database and then get free API updates "out of the box". So I started investigating whether I could do the same with our web product. 
 
-PostgREST automatically [generates an OpenAPI spec](http://postgrest.org/en/v5.2/api.html#openapi-support), so my first attempts leveraged this with great success. I combined the spec with [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) and out of the box I had fully validated forms for creating and updating new rows in the database.
+PostgREST automatically [generates an OpenAPI spec](http://postgrest.org/en/v5.2/api.html#openapi-support), so my first attempts leveraged this with great success. I combined the spec with [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) to generate fully-validated forms which could create and update our database via PostgREST.
 
 There were a few limitations around display and ordering of the fields so I recently [forked](https://github.com/kiwicopple/postgres-schema) and improved a library which will allow me to inspect our database and create a more robust [JSON Schema](https://json-schema.org/). It's still early days, however we are moving towards a product that utilises the following developer workflow:
 
@@ -132,7 +132,7 @@ We don't have any conflict resolution when users are editing the _same_ row at t
 There are a few tools and practices that I have left out for the sake of simplicity but they are worth mentioning to wrap up:
 
 - Queues: we use [Bull](https://github.com/OptimalBits/bull) for our long-running tasks (sending push notifications, emails etc). This is on a small NodeJS server that listens to changes in Postgres and Firebase and then enqueues any long-running tasks.
-- We use [Feature flags](https://martinfowler.com/articles/feature-toggles.html) to push code into production for a small subset of users before releasing to everyone
-- We deploy mostly to [Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html) which has versioning. If anything fails you can roll back to a previous version. All of our deploys are scripted to make ensure a fast feedback loop, and a fast patch route when things go wrong.
+- We use [Feature flags](https://martinfowler.com/articles/feature-toggles.html) to push code into production for a small subset of users before releasing to everyone. This is another reason why I've been OK with low code coverage so far since we can spot bugs that are occuring and fix them before releasing to everyone.
+- We deploy mostly to [Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html) which has versioning. If anything fails you can roll back to a previous version. All of our deploys are scripted (eg `npm run deploy`) to make ensure a fast feedback loop and a speedy patch when things go wrong.
 - Kanban: we have switched to full kanban rather than sprints/scrums. We still do weekly planning, presentation, and curation but there isn't a stressful "final push" to meet deadlines or an "early lull" as we build up the motivation to tackle a sprint. Kanban feels much more consistent and smooth.
 
