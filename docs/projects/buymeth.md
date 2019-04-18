@@ -4,7 +4,11 @@ description: Misleading Encrypted Thumbnails
 
 # Buy Meth
 
-Misleading Encrypted Thumbnails
+```
+[M]isleading 
+[E]ncrypted 
+[Th]umbnails
+```
 
 ## Links
 
