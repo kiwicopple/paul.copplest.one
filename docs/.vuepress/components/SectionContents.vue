@@ -14,6 +14,7 @@ export default {
       return this.$site.pages
         .filter(p => p.path && p.path.startsWith(path) && p.path !== path)
         .filter(p => !p.frontmatter || (p.frontmatter && p.frontmatter.draft != true))
+        .sort((a, b) => a.frontmatter.date < b.frontmatter.date)
     },
   },
 }

@@ -1,5 +1,5 @@
 ---
-date: 2018-06-23T10:12:36+08:00
+date: 2018-02-23
 description: It's common advice to have a list of heroes who you admire and can emulate. This is my equivalent and ever-changing list of businesseses, and the reasons why I admire them.
 ---
 

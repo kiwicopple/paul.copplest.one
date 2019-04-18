@@ -3,9 +3,7 @@ description: Adding a swap file to small Beanstalk servers so that they don't fa
 ---
 # AWS Beanstalk Swap File
 
-Adding a swap file to small Beanstalk servers so that they don't fail when installing npm packages.
-
-tl;dr: if you are running a t2.nano node server on AWS you will probably run out of RAM during npm install. This article will show how to add a SWAP file to temporarily “increase your RAM”.
+If you are running a t2.nano node server on AWS you will probably run out of RAM during npm install. This article will show how to add a SWAP file to temporarily “increase your RAM”.
 
 ## The problem
 ```

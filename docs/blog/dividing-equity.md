@@ -1,4 +1,5 @@
 --- 
+date: 2017-11-19
 description: There's plenty of advice about dividing equity for startup founders. There are even calculators online that do it for you. This post isn't about _how_ to divide equity. It's about coming to terms with the decision.
 ---
 # Dividing Equity

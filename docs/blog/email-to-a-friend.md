@@ -1,4 +1,5 @@
 ---
+date: 2018-03-11
 description: The time I hired a virtual assistant from India called Nirmal and used him to email my friends and family.
 ---
 
@@ -7,9 +8,12 @@ At one point in my life I hired a Virtal Assistant (VA) from India, whose name w
 
 A bit of background: I was an early reader of Tim Ferris’ The Four Hour Workweek. In the book he expains the mechanics of running a profitable business with only 4 hours of work per week. One of the keys to this is “automating” your business with cheap labour using the benefits of international wage arbitrage.
 
-The main problems that I found were the terrible work quality and the time to prepare the tasks took as long as completeing them myself.
+Unfortunately, for the things I was automating, I found that the VA wasn't a good fit because:
 
-Since I had already paid for the VA I figured I might as well put Nirmal to good use. I am terrible at keeping in touch with my friends and family so I decided that was a good thing for Nirmal to solve.
+1. the work quality was terrible, and 
+1. the time to prepare the tasks took as long as completeing them myself.
+
+Since I had already paid for the VA I figured I might as well put Nirmal to good use. I am awful at keeping in touch with my friends and family so I decided that was a good thing for Nirmal to solve.
 
 I sent Nirmal a list of family email addresses and some bullet points of possible things to write about. In this task, I was not disappointed. None of my friends or family knew that I had a VA - I received a number of messages telling me that my email had been hacked - which made it even more enjoyable for me.
 

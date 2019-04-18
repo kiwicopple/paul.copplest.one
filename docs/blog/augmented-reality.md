@@ -1,4 +1,5 @@
 ---
+date: 2018-05-01
 description: Augmented Reality is simple to explain - it’s the internet, manifested in the physical world. The physical world and digital worlds are converging.
 ---
 
