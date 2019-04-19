@@ -5,7 +5,6 @@ module.exports = {
   plugins: [
     '@vuepress/last-updated',
     ['@vuepress/google-analytics', { ga: 'UA-93673521-3' }],
-    '@vuepress/medium-zoom',
     ['clean-urls', {
       normalSuffix: '',
       indexSuffix: '/',
