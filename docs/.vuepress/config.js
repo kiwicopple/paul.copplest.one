@@ -1,96 +1,94 @@
 module.exports = {
-  title: "Paul Copplestone",
-  description: "Techie and entrepreneur",
-  dest: "public",
+  title: 'Paul Copplestone',
+  description: 'Techie and entrepreneur',
+  dest: 'public',
   plugins: [
-    "@vuepress/last-updated",
-    ["@vuepress/google-analytics", { ga: "UA-93673521-3" }]
+    '@vuepress/last-updated',
+    ['@vuepress/google-analytics', { ga: 'UA-93673521-3' }],
+    '@vuepress/medium-zoom',
+    ['clean-urls', {
+      normalSuffix: '',
+      indexSuffix: '/',
+    }]
   ],
   themeConfig: {
     nav: [
-      { text: "Knowledge", link: "/knowledge/" },
-      { text: "Blog", link: "/blog/" },
-      { text: "Gists", link: "/gists/" },
-      { text: "Projects", link: "/projects/" }
+      { text: 'Knowledge', link: '/knowledge/' },
+      { text: 'Blog', link: '/blog/' },
+      { text: 'Gists', link: '/gists/' },
+      { text: 'Projects', link: '/projects/' },
     ],
     sidebar: {
-      "/blog/": [
-        "nimbus-tech-2019-04",
-        "augmented-reality",
-        "email-to-a-friend",
-        "admirable-startups",
-        "desire",
-        "dividing-equity",
+      '/blog/': [
+        'nimbus-tech-2019-04',
+        'augmented-reality',
+        'email-to-a-friend',
+        'admirable-startups',
+        'desire',
+        'dividing-equity',
       ],
-      "/gists/": [
-        "vscode-js-snippets",
-        "docker",
-        "regex",
-        "ecto-phoenix",
-        "debounce-and-throttle",
-        "google-analytics",
-        "beanstalk-swap",
-        "kill-processes"
+      '/gists/': [
+        'vscode-js-snippets',
+        'docker',
+        'regex',
+        'ecto-phoenix',
+        'debounce-and-throttle',
+        'google-analytics',
+        'beanstalk-swap',
+        'kill-processes',
       ],
-      "/knowledge/": [
+      '/knowledge/': [
         {
-          title: "Agriculture",
+          title: 'Agriculture',
           collapsable: false,
-          children: ["soil-health", "soil-nutrients"]
+          children: ['soil-health', 'soil-nutrients'],
         },
         {
-          title: "Buddhism",
+          title: 'Buddhism',
           collapsable: false,
-          children: ["buddhism-intro", "buddhism-truths"]
+          children: ['buddhism-intro', 'buddhism-truths'],
         },
         {
-          title: "Environment",
+          title: 'Environment',
           collapsable: false,
-          children: ["pyrolysis"]
+          children: ['pyrolysis'],
         },
         {
-          title: "Ethics",
+          title: 'Ethics',
           collapsable: false,
-          children: ["ethics-intro", "ethics-maci", "ethics-why", "ethics-framework"]
+          children: ['ethics-intro', 'ethics-maci', 'ethics-why', 'ethics-framework'],
         },
         {
-          title: "Meditation",
+          title: 'Meditation',
           collapsable: false,
-          children: ["meditation-obstacles"]
+          children: ['meditation-obstacles'],
         },
         {
-          title: "Metacognition",
+          title: 'Metacognition',
           collapsable: false,
-          children: ["how-to-learn"]
+          children: ['how-to-learn'],
         },
         {
-          title: "Stoicism",
+          title: 'Stoicism',
           collapsable: false,
-          children: ["stoic-virtues"]
-        }
+          children: ['stoic-virtues'],
+        },
       ],
-      "/projects/": [
+      '/projects/': [
         {
-          title: "Businesses",
+          title: 'Businesses',
           collapsable: false,
-          children: ["nimbus-for-work", "servishero"]
+          children: ['nimbus-for-work', 'servishero'],
         },
         {
-          title: "Side Projects",
+          title: 'Side Projects',
           collapsable: false,
-          children: [
-            "sheetmetal",
-            "pollygot",
-            "mentalmodels",
-            "buymeth",
-            "driffft",
-            "braineebox"
-          ]
-        }
-      ]
+          children: ['sheetmetal', 'pollygot', 'mentalmodels', 'buymeth', 'driffft', 'braineebox'],
+        },
+      ],
     },
-    docsRepo: "https://github.com/kiwicopple/paul.copplest.one/",
-    docsDir: "docs",
-    editLinks: true
-  }
-};
+    docsRepo: 'https://github.com/kiwicopple/paul.copplest.one/',
+    docsDir: 'docs',
+    editLinks: true,
+  },
+}
