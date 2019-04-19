@@ -1,6 +1,7 @@
 ---
 description: "Working on a team of more than 5 people usually means that you need to set up some sort of communication practice."
 date: "2018-06-06"
+draft: true
 ---
 
 # Team Communication (Draft)

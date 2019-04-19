@@ -1,6 +1,7 @@
 ---
 date: 2017-12-26
-description: people talk about product market fit. This is good for innovation. Business doesn't always have to be about innovation. Sometimes it's about convenience. 
+description: people talk about product market fit. This is good for innovation. Business doesn't always have to be about innovation. Sometimes it's about convenience.
+draft: true 
 ---
 
 # Product Distribution Fit (Draft)

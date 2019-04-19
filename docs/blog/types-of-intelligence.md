@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Types of intelligence (Draft)
 
 Purpose of this post is simply to highlight some surpising areas where 'intelligence' crops up.

@@ -15,34 +15,17 @@ module.exports = {
     ],
     sidebar: {
       "/blog/": [
-        {
-          title: "Posts",
-          collapsable: false,
-          children: [
-            "desire",
-            "dividing-equity",
-            "augmented-reality",
-            "admirable-startups",
-            "email-to-a-friend"
-          ]
-        },
-        {
-          title: "In Progress",
-          collapsable: false,
-          children: [
-            "types-of-intelligence",
-            "effectiveness",
-            "team-communication",
-            "product-distribution-fit",
-            "personal-core-values",
-            "investor-optimisation"
-          ]
-        }
+        "augmented-reality",
+        "email-to-a-friend",
+        "admirable-startups",
+        "desire",
+        "dividing-equity",
       ],
       "/gists/": [
         "vscode-js-snippets",
         "docker",
         "regex",
+        "ecto-migrations",
         "debounce-and-throttle",
         "google-analytics",
         "beanstalk-swap",

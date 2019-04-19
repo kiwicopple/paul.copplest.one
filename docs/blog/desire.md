@@ -3,6 +3,8 @@ description: You are unhappy, and it’s because you want things. This is the mo
 ---
 # Desire
 
+## Why you're unhappy
+
 You are unhappy, and it’s because you want things. This is the most important concept to understand and the most impossible behaviour to change.
 
 You want to be *somewhere* else. You want to be with *someone* else. You want *something* more. This is how you’ve lived for every minute of every day since you were born.

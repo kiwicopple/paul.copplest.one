@@ -1,5 +1,6 @@
 ---
 description: Personal Core Values
+draft: true
 ---
 
 # Personal Core Values (Draft)

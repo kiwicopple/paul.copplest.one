@@ -2,7 +2,11 @@
 sidebar: true
 ---
 
-# Off topic
+# Blog
+
+Some off-topic explorations, personal opionions, and generally anything that will be rendered incorrect by the passage of time.
+
+----
 
 <section-contents />
 

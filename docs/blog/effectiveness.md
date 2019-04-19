@@ -1,6 +1,7 @@
 ---
 description: Effectiveness
 date: 2018-05-24
+draft: true
 ---
 
 # Effectiveness (Draft)
