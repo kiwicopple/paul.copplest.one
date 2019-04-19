@@ -17,7 +17,7 @@ The same is true of soil. The particular order, quantity, combination of nutrien
 
 ## Soil Organic Matter
 
-Soil Organic Matter (SOM) is arguably the most important component of healthy soil. SOM consists of any organic matter that is decomposing in the soil, such as compost, decaying plant material, and animal waste. Once SOM breaks down far enough to resist further decay it is becomes Humus. Humus is able to hold large amounts of water, and this water (called the soil solution) is where almost all nutrients are delivered to the plant. For this article we include Humus in SOM, and it is commonly referred to as ‘Top Soil’.
+Soil Organic Matter (SOM) is arguably the most important component of healthy soil. SOM consists of any organic matter that is decomposing in the soil, such as compost, decaying plant material, and animal waste. Once SOM breaks down far enough to resist further decay it is becomes Humus. Humus is able to hold large amounts of water, and this water (called the soil solution) is where almost all nutrients are delivered to the plant.
 
 
 ## Soil pH
