@@ -64,7 +64,7 @@ Number 2 and 3 are hard to achieve while still maintaining speed and stability. 
 
 Using Postgres is almost cheating in 2019. It's robust, well supported by tools (which you'll see is important in the next section), works on every major cloud provider, and stores JSON for anytime you need to prototype something like you would using a NoSQL database. It also has a `NOTIFY/SUBSCRIBE` feature where you can attach listeners to table changes (also important soon).
 
-The Firebase database is my worst decision to be honest. We needed something for our chat that could support all the functionality of whatsapp (especially voice messages). I ruled out a lot of "Chat as a Service" providers because I thought Firebase would give us the flexibility that we required. Unfortunately I used their latest database, Cloud Firestore (their recommendation), and it's simply too slow and too limited (e.g. querying across subcollections). Luckily you can attach serverless functions to Firestore RUD events so we'll use this to as a way to replicate the data into our Postgres database - eventually removing Firestore completely. 
+The Firebase database is my worst decision to be honest. We needed something for our chat that could support all the functionality of whatsapp (especially voice messages). I ruled out a lot of "Chat as a Service" providers because I thought Firebase would give us the flexibility that we required. Unfortunately I used their latest database, Cloud Firestore (their recommendation), and it's simply too slow and too limited (e.g. querying across subcollections). Luckily you can attach serverless functions to Firestore CRUD events so we'll use this to as a way to replicate the data into our Postgres database - eventually removing Firestore completely. 
 
 #### API layer
 
@@ -135,4 +135,4 @@ There are a few tools and practices that I have left out for the sake of simplic
 - We use [Feature flags](https://martinfowler.com/articles/feature-toggles.html) to push code into production for a small subset of users before releasing to everyone. This is another reason why I've been OK with low code coverage so far since we can spot bugs that are occuring and fix them before releasing to everyone.
 - We deploy mostly to [Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html) which has versioning. If anything fails you can roll back to a previous version. All of our deploys are scripted (eg `npm run deploy`) to make ensure a fast feedback loop and a speedy patch when things go wrong.
 - Kanban: we have switched to full kanban rather than sprints/scrums. We still do weekly planning, presentation, and curation but there isn't a stressful "final push" to meet deadlines or an "early lull" as we build up the motivation to tackle a sprint. Kanban feels much more consistent and smooth.
-
+- We will be writing tests over the next few months. Some tests. Not too many. Mostly integration.
