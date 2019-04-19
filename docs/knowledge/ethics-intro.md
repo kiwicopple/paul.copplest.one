@@ -1,5 +1,7 @@
 # Introduction to Ethics
 
+> WARNING: This is still in draft
+
 Here are some questions worth pondering:
 
 - Why should I even bother acting ethically?
@@ -40,6 +42,6 @@ This field is useful for analysing moral dilemmas. It has the ambition of provid
 
 Source: [Wikipedia](http://en.wikipedia.org/wiki/Descriptive_ethics)
 
-A transient set of criteria based on a group of people's opinions at a given time and place? This doesn't seem like a good imperitave yardstick. Although this field of ethics seems about as useful as cosmology in the 11th century, it may later prove a worthwile study. More importantly, it may be a useful application for the study of Meta Ethics. For example, if Meta Ethics is used to determine what is right and wrong then is that conclusion not based on the opinion of a person (or a group of people)?
+A transient set of criteria based on a group of people's opinions at a given time and place? This doesn't seem like a good imperitive yardstick. Although this field of ethics seems about as useful as cosmology in the 11th century, it may later prove a worthwile study. More importantly, it may be a useful application for the study of Meta Ethics. For example, if Meta Ethics is used to determine what is right and wrong then is that conclusion not based on the opinion of a person (or a group of people)?
 
 

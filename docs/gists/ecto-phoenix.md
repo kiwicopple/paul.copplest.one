@@ -1,9 +1,9 @@
 ---
-description: Useful cheatsheet for Ecto/Elixir migrations
+description: Useful cheatsheet for Ecto/Elixir/Phoenix
 ---
-# Ecto migrations cheatsheet
+# Ecto / Phoenix cheatsheet
 
-Useful cheatsheet for Ecto/Elixir migrations
+Useful cheatsheet for Ecto/Elixir/Phoenix
 
 
 ## Creating tables

@@ -2,6 +2,8 @@
 
 # Why should we act ethically?
 
+> WARNING: This is still in draft
+
 ## Why should we act?
 
 __"Why should we act ethically?"__ is a pretty difficult question to tackle, so let's warm up with an easier question - **"Why should we act?"**

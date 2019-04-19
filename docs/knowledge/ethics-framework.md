@@ -1,6 +1,8 @@
 
 # The Ethical Judgement Framework
 
+> WARNING: This is still in draft
+
 The purpose of the article is to discover how to judge ethical acts, starting with our previous rules:
 
 > 1. When judging whether a _person_ is ethical, we must judge their _motivations_

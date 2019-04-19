@@ -4,14 +4,19 @@ description: Using pyrolysis to deal with waste tires is arguably the most econo
 
 # Pyrolysis
 
-> Disclosure: My family recently started a company called Eneform to find a commercially viable solution to waste tires
+> Disclosure/Foreword: My family recently started a company called Eneform to find a commercially viable solution to waste tires. I use some of their data in this article.
 
-Although it's not a well-known problem, tyre waste is a big one. There are about 1 billion tires that go to waste every year. There aren't many ways to responsibly dispose of tires but the most promising solution seems to be pyrolysis.
+Although it's not a well-known problem, tire waste is a big one. Globally, there are about 1 billion tires that go to waste every year. There aren't many ways to responsibly dispose of tires but the most promising solution seems to be pyrolysis.
 
-To quickly summarise pyrolysis - you put the tires in a vacuumed chamber and heat them to around 500 degrees celsius. The heat causes the tires to break down into 4 useable products: diesel, LPG, steel, and carbon. All of these products are commercial grade; the carbon can actually be used to make new tires. Even the heat is generated from the waste tires. You can sell the outputs directly or you can use them to generate power which can be sold back to the grid.
+## What is pyrolysis
 
-Pyrolysis has been used successfully in several industries. Eneform has improved it by making it a continuous cycle (like a factory line) rather than a batch process. The outputs are cleaner and more consistent using this method. The system also combines many smaller pyrolysis systems together (rather than using one large one). This means that the cost to start a site is low and then sites can scale up once they become commercially sustainable .
+To quickly summarise pyrolysis - you put the tires in a vacuumed chamber and heat them to around 500 degrees celsius. The heat causes the tires to break down into 4 useable products: diesel, LPG, steel, and carbon. All of these products can have commercial value; the carbon can actually be used to make new tires. Even the heat required within the process is generated from the waste tires, so once you start the process it can be self-sustaining. You can sell the outputs directly or you can use them to generate power which can be sold back to the grid.
 
+Pyrolysis has been used successfully in several industries, and can be either done in batches or through a continuous cycle (like a factory line). In a continuous process the tyre stock feeds through a pyrolysis tube at a constant speed. In a batch process the tyre stock is loaded into the tube, then the system is heated.
+
+The outputs are cleaner and more consistent using a continuous process as the heat is maintained at a constant temperature. 
+
+The Eneform system also combines many smaller pyrolysis tubes together (rather than using one large one). This means that the cost to start a site is low and then sites can scale up once they become commercially sustainable.
 
 
 ## No good solutions
@@ -32,14 +37,15 @@ Tire derived fuel (TDF) is composed of shredded tires, commonly mixed with coal 
 
 #### Devulcanization
 
-Vulcanization is a chemical process for converting rubber or related polymers into more durable materials via the addition of sulfur or other equivalent curatives or accelerators. Devulcanization is the reversal of this process to allow for the reuse of the materials. This technology has not produced material that can supplant unvulcanized materials. The main problem is that the carbon-sulfur linkages are not readily broken without the input of costly reagents and heat.
+This is the process of "recycling" rubber. Vulcanization is a chemical process for making rubber/polymers more durable (via the addition of sulfur, curatives, or accelerators). Devulcanization is the reversal of this process. Unfortunately this technology has not produced material that can supplant fresh, unvulcanized materials. The main problem is that the carbon-sulfur linkages require costly reagents and heat to be "broken" before the material can be reused.
 
 
 ## The value in a tire
 
 There is a surprising amount of value left in a tire. The trouble is extracting that value economically and environmentally. While tire derived fuel goes a long way to accessing this potential, pyrolysis offers a much cleaner and efficient solution.
 
-![Pyrolysis outputs](/img/pyrolysis-outputs.png)
+![Analysis of the Eneform process](/img/pyrolysis-outputs.png)
+<small>Analysis of the Eneform process</small>
 
 You can see there is a small quantity of pyrolysate is considered “waste”. While this waste could be used in heavy fuel burners, for financial purposes Eneform consider it a disposal cost. It is expected that this quantity will decrease in production when using a more efficient distillation column, but even so, the total waster for an average car tire has been reduced from 14kg to 420g. All other outputs are valuable.
 

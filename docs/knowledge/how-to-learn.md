@@ -4,22 +4,24 @@ description: A personal approach to meta-learning, or learning how to learn
 
 # How to learn
 
-One morning while I was travelling in Asia, I joined a friend on a beach, throwing a boomerang that he had made. "It's simple to use," he said in his thick Australian accent, "just hold it in your outstretched arm at a 45 degree angle and throw it at a 45 degree angle the wind."
+## How to throw a boomerang
 
-He demonstrated this, throwing it with a flick of his wrist and running about 30 meters to the left to catch it (with varying success). Three minutes after this _detailed_ boomerang throwing demonstration he departed for work, leaving me with a boomerang and a full day to practice.
+One morning while I was travelling in Asia, I joined a friend on a beach. He was throwing a boomerang that he had made using a template he found off the internet. "It's simple to use," he said in his thick Australian accent, "just hold it in your outstretched arm at a 45 degree angle and throw it at a 45 degree offset to the wind."
+
+He demonstrated this, throwing it with a flick of his wrist and running about 30 meters to the left to catch it (with varying success). Two minutes after this _detailed_ boomerang throwing demonstration he departed for work, leaving me with a boomerang and a full day to practice.
 
 An hour or so later, I hadn't caught a single throw.
 
-I decided that the boomerang may not withstand a full day of collisions into the sandy beach, and given the tropical heat I thought it would be fun to move into the water to practice throwing.
+I decided that the boomerang may not withstand a full day of collisions into the sandy beach and, given the tropical heat, I thought it would be fun to move into the water to practice throwing.
 
 ## Transilience
 
-The word transilience means to jump across something (usually geographical). Moving from the sand to the water was an act of learning transileince for me, it was the quantum leap that my boomerang education really required. I waded into the water until I was at waist depth and this changed two things:
+The word transilience means to jump across something (usually geographical). Moving from the sand to the water was an act of _learning transileince_ for me, it was the quantum leap that my boomerang education really required. I waded into the water until I was at waist depth and this changed two things:
 
 1. I could no longer run for the boomerang, so I was forced throw the boomerang so that it would return within a couple of meters of my initial throw
 2. I no longer feared that the boomerang would break when it was landing in the water, so I could throw it with complete disregard
 
-No longer was I content throwing it using the 45-degree- method: I tried throwing it at a 90-degree angle; I tried at different offsets to the wind; I tried throwing it backwards and upside down. Needless to say that most methods were horribly unsuccessful, however as the day progressed, the magnificent human ability for establishing patterns facilitated my slow understanding of the boomerang's behaviour.
+No longer was I content throwing it using the 45-degree method: I tried throwing it at a 90-degree angle; I tried at different offsets to the wind; I tried throwing it backwards and upside down. Needless to say that most methods were horribly unsuccessful, however as the day progressed, the magnificent human ability for establishing patterns facilitated my slow understanding of the boomerang's behaviour.
 I found that I could throw the boomerang at an angle which was the same angle that I faced from the wind; if I faced at a 70-degree offset to the wind, then I should throw the boomerang also at a 70-degree angle.
 I adjusted the strength of the throw based on the the angle of the boomerang.
 I adjusted the height of the release based on the angle of the wind.
@@ -35,9 +37,11 @@ Analysing the steps I used to achieve the results that I did on that day, I can 
 
 ### Step 1 - Reaffirm the Goal
 
-At first I blindly tried throwing the boomerang as my friend had taught me. I unconsciously believed that was the goal; it wasn't. In fact, neither was the goal to throw the boomerang and catch it without moving.
+At first I blindly tried throwing the boomerang as my friend had taught me. I unconsciously believed that "throwing the boomerang" was the goal; it wasn't.
 
-The goal was to learn how to throw the boomerang. What if I was trying to hit a target downwind from me, at a 70-degree offset? I needed to learn how the boomerang behaved at all angles, with all types of wind.
+The goal was to _learn_ how to the boomerang functioned. What if I was trying to hit a target downwind from me, at a 70-degree offset? I needed to learn how the boomerang behaved at all angles, with all types of wind.
+
+When you are performing an activity, decide if you are wanting to learn or just have fun. Once you decide to learn you can operate with intention and methodology.
 
 ### Step 2 - Actively Try to Fail
 

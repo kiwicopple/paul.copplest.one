@@ -25,7 +25,7 @@ module.exports = {
         "vscode-js-snippets",
         "docker",
         "regex",
-        "ecto-migrations",
+        "ecto-phoenix",
         "debounce-and-throttle",
         "google-analytics",
         "beanstalk-swap",
@@ -33,14 +33,19 @@ module.exports = {
       ],
       "/knowledge/": [
         {
-          title: "Agronomy",
+          title: "Agriculture",
           collapsable: false,
-          children: ["soil"]
+          children: ["soil-health", "soil-nutrients"]
         },
         {
           title: "Buddhism",
           collapsable: false,
           children: ["buddhism-intro", "buddhism-truths"]
+        },
+        {
+          title: "Environment",
+          collapsable: false,
+          children: ["pyrolysis"]
         },
         {
           title: "Ethics",
@@ -61,11 +66,6 @@ module.exports = {
           title: "Stoicism",
           collapsable: false,
           children: ["stoic-virtues"]
-        },
-        {
-          title: "Waste",
-          collapsable: false,
-          children: ["pyrolysis"]
         }
       ],
       "/projects/": [

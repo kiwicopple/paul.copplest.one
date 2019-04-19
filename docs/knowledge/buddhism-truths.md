@@ -1,6 +1,8 @@
 
 # The Four Noble Truths
 
+> WARNING: This is still in draft
+
 Outline of the four truths
 
 > 1. There is suffering, and it is universal

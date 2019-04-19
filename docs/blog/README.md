@@ -4,7 +4,7 @@ sidebar: true
 
 # Blog
 
-Some off-topic explorations, personal opionions, and generally anything that will be rendered incorrect by the passage of time.
+Some off-topic explorations, personal opinions, and generally anything that will be rendered incorrect by the passage of time.
 
 ----
 
