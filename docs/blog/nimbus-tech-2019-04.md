@@ -127,7 +127,7 @@ Our data flow looks like this:
 
 We don't have any conflict resolution when users are editing the _same_ row at the same time, but it's a fringe case that doesn't warrant engineering time.
 
-This whole setup isn't too different that something like Django Admin (which I really like). In this case our ORM (the schema) is decoupled from the framework so we can create some very customised pages when we need to.
+This whole setup isn't too different that something like Django Admin (which I really like). In this case our "ORM" (the schema) is decoupled from the framework so we can create some very customised pages when we need to.
 
 ## Worthy mentions
 
