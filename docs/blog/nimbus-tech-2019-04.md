@@ -5,7 +5,7 @@ description: An overview of the tech stack and the rationale behind it.
 
 # Nimbus Tech Stack (2019)
 
-Nimbus ([https://nimbusforwork.com](https://nimbusforwork.com)) is an interesting company because we are operating in a very non-tech industry (cleaning). This has made it easy to be disruptive, however it also presents some unique difficulties for the products. Namely, cleaners are not very tech-savvy. Because of the lack of tech sophistication, we made a decided to be very deliberate before presenting changes and new features to our cleaners. 
+Nimbus ([https://nimbusforwork.com](https://nimbusforwork.com)) is an interesting company because we are operating in a very non-tech industry (cleaning). This has made it easy to be disruptive, however it also presents some unique difficulties for the products. Namely, cleaners are not very tech-savvy. Because of the lack of tech sophistication, we made a decision to be very deliberate before presenting changes and new features to our cleaners. 
 
 Surprisingly, without the "next feature fallacy" mentality we have been able to push out more products with less people. The mentality has instead morphed into "slow is smooth, smooth is fast". Our current tech team consists of one full timer (me) and one intern (working two days per week) who is in his second year at university.
 
