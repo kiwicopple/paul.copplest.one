@@ -85,7 +85,7 @@ Although React and React Native aren't 100% compatible, we have managed a lot of
 Now comes the interesting part. I have already mentioned some things like compile-time validation to reduce "meta-programming". But that's not where the real time savings are found. There are two areas where they are:
 
 1. Git submodules
-2. Declative data structures
+2. Declarative data structures
 
 #### Git submodules
 
@@ -97,7 +97,7 @@ We have another git repository called `nimbus-utils` that we share across all of
 
 This can only be done because I have foregone any temptation to use other languages. I find that I am often refactoring these submodules to _reduce_ the amount of code in them. If you're going down this path it's important to design your code for reusability - in particular you'll want to study up on both the [Actor Model](https://duckduckgo.com/?q=actor+model) and [Dependency Injection](https://duckduckgo.com/?q=dependency+injection) to ensure your libraries are largely standalone and decoupled.
 
-#### Declative data structures
+#### Declarative data structures
 
 This was a concept that I got from using PostgREST. I became enamoured with the idea that I could make changes to the database and then get free API updates "out of the box". So I started investigating whether I could do the same with our web product. 
 
