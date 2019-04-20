@@ -117,8 +117,8 @@ Our data flow looks like this:
 1. `User A` and `User B` log into HQ. This loads all initial data into the MobX store 
 1. `User A` updates a row in the database by sending a PUT request to PostgREST
 1. Postgres notifies our Phoenix server
-1. The Phoenix server notifies everyone who is logged in
-1. HQ looks at the update and updates the MobX store
+1. The Phoenix server notifies everyone who is logged into HQ
+1. HQ updates the MobX store
 1. Everyone sees the same, fresh data with minimal risk of overwriting new changes with old data or race conditions (once again reducing programming effort). 
 
 <p>
