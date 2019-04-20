@@ -13,6 +13,8 @@ footer: Copyright © Paul Copplestone
 
 ### Contact
 
+[Subscribe to updates](http://eepurl.com/dE68jj)
+
 Find me online:
 
 - [LinkedIn](https://www.linkedin.com/in/paulcopplestone/)

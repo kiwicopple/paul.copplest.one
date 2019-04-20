@@ -12,6 +12,7 @@ module.exports = {
       { text: 'Blog', link: '/blog/' },
       { text: 'Gists', link: '/gists/' },
       { text: 'Projects', link: '/projects/' },
+      { text: 'Subscribe', link: 'http://eepurl.com/dE68jj' },
     ],
     sidebar: {
       '/blog/': [
