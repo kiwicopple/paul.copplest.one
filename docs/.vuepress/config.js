@@ -65,6 +65,11 @@ module.exports = {
           children: ['how-to-learn'],
         },
         {
+          title: 'Physics',
+          collapsable: false,
+          children: ['time'],
+        },
+        {
           title: 'Stoicism',
           collapsable: false,
           children: ['stoic-virtues'],
