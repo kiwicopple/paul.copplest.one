@@ -25,6 +25,7 @@ module.exports = {
       ],
       '/gists/': [
         'vscode-js-snippets',
+        'sql-templates',
         'docker',
         'regex',
         'ecto-phoenix',
