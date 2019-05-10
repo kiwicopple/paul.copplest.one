@@ -7,7 +7,7 @@ Some SQL editors allow you to create reusable templates with auto-completion. Fo
 
 ## Creating tables
 
-Sea
+ID upgrade? PG>=10 https://www.2ndquadrant.com/en/blog/postgresql-10-identity-columns/
 
 ```bash
 create sequence "public"."${cursor}_id_seq";
