@@ -12,8 +12,6 @@ A snippet is just a bit of template code that you will frequently type. Instead 
 
 ![ConsoleLog](/img/consolelog.gif)
 
-Snippets can be quite advanced 
-
 ## How do I insert a snippet into VS Code?
 
 Go to `Preferences: Configure User Snippets` then choose your language. Below are the JSON files that I use for each language that I commonly code with.
