@@ -45,6 +45,7 @@ If you want to create your own snippets then I recommend installing the `Snippet
 
 # SQL Snippets
 
+Creating a new table for Postgres with all the standard columns. I might soon move ID columns over to the new [Identity Type](https://www.2ndquadrant.com/en/blog/postgresql-10-identity-columns/).
 ```json
 {
   "Create Table": {
@@ -73,3 +74,5 @@ If you want to create your own snippets then I recommend installing the `Snippet
   }
 }
 ```
+
+![SQL Snippet](/img/sql-snippet.gif)
