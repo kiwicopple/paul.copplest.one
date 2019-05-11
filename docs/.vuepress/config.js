@@ -24,8 +24,7 @@ module.exports = {
         'dividing-equity',
       ],
       '/gists/': [
-        'vscode-js-snippets',
-        'sql-templates',
+        'vscode-snippets',
         'docker',
         'regex',
         'ecto-phoenix',
