@@ -6,19 +6,19 @@ description: Useful shortcodes and snippets for VS Code
 
 Coding involves a lot of repetitive typing. Luckily most code editors provides shortcuts, commonly called `snippets`. For example, DBeaver and Eclipse have [templates](https://github.com/dbeaver/dbeaver/wiki/SQL-Templates), but my preference is to keep all my snippets and templates in VSCode so that I have a single, universal tool.
 
-## What is a snippet?
+### What is a snippet?
 
 A snippet is just a bit of template code that you will frequently type. Instead of typing it, you can have a "trigger" which will pull up a context menu. Once you press tab, it will insert the code. Easier if you just see it:
 
-![ConsoleLog](/img/consolelog.gif)
+![JS Snippets](/img/js-snippet.gif)
 
-## How do I insert a snippet into VS Code?
+### How do I insert a snippet into VS Code?
 
 Go to `Preferences: Configure User Snippets` then choose your language. Below are the JSON files that I use for each language that I commonly code with.
 
 If you want to create your own snippets then I recommend installing the `Snippet Maker` extension. This will be particularly helpful for multiline snippets.
 
-# Javascript Snippets
+## Javascript Snippets
 
 ```json
 {
@@ -41,9 +41,10 @@ If you want to create your own snippets then I recommend installing the `Snippet
 }
 ```
 
-# SQL Snippets
+The GIF in the section "What is a snippet?" display how these JS Snippets work.
 
-Creating a new table for Postgres with all the standard columns. I might soon move ID columns over to the new [Identity Type](https://www.2ndquadrant.com/en/blog/postgresql-10-identity-columns/).
+## SQL Snippets
+
 ```json
 {
   "Create Table": {
@@ -72,5 +73,7 @@ Creating a new table for Postgres with all the standard columns. I might soon mo
   }
 }
 ```
+
+That's quite a long snippet for creating a new table in Postgres with (my) standard columns. I might soon move ID columns over to the new [Identity Type](https://www.2ndquadrant.com/en/blog/postgresql-10-identity-columns/). Easier to see how this one works rather than trying to read the code:
 
 ![SQL Snippet](/img/sql-snippet.gif)
