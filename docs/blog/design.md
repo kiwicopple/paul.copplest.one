@@ -30,11 +30,11 @@ Dribbble
 - flat icon
 - 
 
-
 ## Illustrations
 
 - https://www.humaaans.com/
 - Icon8
+- https://undraw.co/
 
 
 ## Building a landing page
@@ -47,3 +47,25 @@ Choose a "class based" framework. WHerever possible avoid using "locked in" fram
 
 - Bulma
 - Tailwind
+- Moon CSS
+- Water.css
+
+UI Frameworks - https://news.ycombinator.com/item?id=18235887
+
+- https://element.eleme.io/
+- https://ant.design/
+- https://quasar-framework.org/
+- https://at-ui.github.io/at-ui/
+- https://developer.microsoft.com/en-us/fabric
+- https://vmware.github.io/clarity/
+- http://appnexus.github.io/lucid/
+- https://ng-lightning.github.io/ng-lightning/
+- https://blueprintjs.com/
+- http://www.jetbrains.org/ring-ui/
+- https://www.lightningdesignsystem.com/
+- https://elastic.github.io/eui/
+- https://atlaskit.atlassian.com/
+- https://baseweb.design/components/datepicker/
+
+## Other resources
+- Design Tools for Everythinghttps://hn.premii.com/#/comments/19580860
