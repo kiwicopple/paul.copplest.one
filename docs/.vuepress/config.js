@@ -85,7 +85,7 @@ module.exports = {
         {
           title: 'Side Projects',
           collapsable: false,
-          children: ['sheetmetal', 'pollygot', 'mentalmodels', 'buymeth', 'driffft', 'braineebox'],
+          children: ['quick-font', 'sheetmetal', 'pollygot', 'mentalmodels', 'buymeth', 'driffft', 'braineebox'],
         },
       ],
     },
