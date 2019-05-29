@@ -11,6 +11,9 @@ docker build -t appname .
 # Start
 docker run appname
 
+# List all containers
+docker ps -a -q
+
 # Stop all containers
 docker stop $(docker ps -a -q)
 
@@ -22,6 +25,9 @@ docker rm $(docker ps -a -q)
 
 # Remove all docker images
 docker rmi $(docker images -q)
+
+# Enter into interative command line for a given container with environment variables loaded.
+docker exec -it CONTAINER_NAME sh
 ```
 
 ## Docker Compose
