@@ -77,9 +77,10 @@ EOT
 
 
 #   ---------------------------
-#   SEARCHING
+#   COMMANDS
 #   ---------------------------
 
+alias lah="ls -lah"                         # lah:      List all including hidden with detailed info
 alias qfind="find . -name "                 # qfind:    Quickly search for file
 ff () { /usr/bin/find . -name "$@" ; }      # ff:       Find file under the current directory
 ffs () { /usr/bin/find . -name "$@"'*' ; }  # ffs:      Find file whose name starts with a given string
