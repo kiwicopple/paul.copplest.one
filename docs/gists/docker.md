@@ -51,8 +51,6 @@ docker-compose up --force-recreate --build
 #### Create new server
 
 ```bash
-
-
 # Override default profile
 AWS_ACCESS_KEY_ID=$(aws --profile PROFILE_NAME configure get aws_access_key_id)
 AWS_SECRET_ACCESS_KEY=$(aws --profile PROFILE_NAME configure get aws_secret_access_key)

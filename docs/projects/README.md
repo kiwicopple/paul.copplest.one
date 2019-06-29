@@ -10,6 +10,7 @@ sidebar: true
 
 ## Side Projects
 
+[Quick, Font!](/projects/quick-font.html)
 
 [Sheet Metal](/projects/sheetmetal.html)
 

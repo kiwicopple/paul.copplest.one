@@ -41,6 +41,11 @@ module.exports = {
           children: ['soil-health', 'soil-nutrients'],
         },
         {
+          title: 'Business Practices',
+          collapsable: false,
+          children: ['emyth', 'toyota-way'],
+        },
+        {
           title: 'Buddhism',
           collapsable: false,
           children: ['buddhism-intro', 'buddhism-truths'],
@@ -64,6 +69,11 @@ module.exports = {
           title: 'Metacognition',
           collapsable: false,
           children: ['how-to-learn'],
+        },
+        {
+          title: 'People',
+          collapsable: false,
+          children: ['marcus-aurelius'],
         },
         {
           title: 'Physics',
