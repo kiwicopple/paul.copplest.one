@@ -16,6 +16,7 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
+        'design',
         'how-to-learn',
         'nimbus-tech-2019-04',
         'augmented-reality',

@@ -1,4 +1,5 @@
 ---
+date: 2019-06-25
 description: A personal approach to meta-learning, or learning how to learn
 ---
 
