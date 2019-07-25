@@ -27,6 +27,7 @@ module.exports = {
       '/gists/': [
         'vscode-snippets',
         'bash-profile',
+        'postgresql',
         'docker',
         'regex',
         'ecto-phoenix',

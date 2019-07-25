@@ -1,7 +1,7 @@
 ---
 description: Kill multiple common processes in one go
 ---
-# Kill Processes
+# Kill Processes on Windows
 
 Kill multiple common processes in one go
 
