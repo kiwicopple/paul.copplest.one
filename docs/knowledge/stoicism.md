@@ -2,14 +2,15 @@
 date: 2018-08-22
 description: There are four main virtues in Stoic philosophy - Wisdom, Courage, Justice, and Temperance.
 ---
-# Virtues
+# Stoisicm
 
 > WARNING: This is still in draft
 
 There are four main virtues in Stoic philosophy: Wisdom, Courage, Justice, and Temperance. 
 
+## Stoic Virtues
 
-## Wisdom
+### Wisdom
 
 Wisdom is an interesting virtue - many would assume that it's tied to inborn intelligence rather something we can cultivate. That's not true however. Wisdom is a cross-section of knowledge, experience, and good judgment.
 
@@ -17,15 +18,15 @@ To cultivate wisdom though, it's not enough to just *have* experiences. We must 
 
 Wisdom is subdivided into five sub-virtues: good sense; good calculation; quick-wittednes; discretion; and resourcefulness.
 
-### Good sense
+**Good sense**
 
 Good sense, or good judgment, is the ability to weigh all options accurately.
 
-### Good calculation
+**Good calculation**
 
 The ability to assess an individual option.
 
-### Quick-wittedness
+**Quick-wittedness**
 
 The ability to understand quickly, which requires you to be mentally alert.
 
@@ -35,7 +36,7 @@ To be quick witted also requires us to be mentally alert. This obviously means t
 
 Actions: be concise in your speech, and don't be afraid to be proven wrong.
 
-### Discretion
+**Discretion**
 
 The ability to avoid causing offence or revealing confidential information.
 
@@ -43,7 +44,7 @@ In the stoic context, avoiding offensive actions and words is probably the most 
 
 Actions: do not gossip or talk about other individuals, especially where it may cause them upset.
 
-### Resourcefulness
+**Resourcefulness**
 
 The ability to find quick and clever ways to overcome difficulties.
 
@@ -52,11 +53,11 @@ The most obvious way to be resourceful is to be open to many different possibili
 Actions: consider all possibilities when faced with a challenge or problem and do not become personally vested in your first conclusion.
 
 
-## Courage
+### Courage
 
-## Justice
+### Justice
 
-## Temperance
+### Temperance
 
 ## Resources
 

@@ -46,19 +46,9 @@ module.exports = {
           children: ['emyth', 'toyota-way'],
         },
         {
-          title: 'Buddhism',
-          collapsable: false,
-          children: ['buddhism-intro', 'buddhism-truths'],
-        },
-        {
           title: 'Environment',
           collapsable: false,
           children: ['pyrolysis'],
-        },
-        {
-          title: 'Ethics',
-          collapsable: false,
-          children: ['ethics-intro', 'ethics-maci', 'ethics-why', 'ethics-framework'],
         },
         {
           title: 'Meditation',
@@ -76,14 +66,14 @@ module.exports = {
           children: ['marcus-aurelius'],
         },
         {
+          title: 'Philosophy',
+          collapsable: false,
+          children: ['ethics', 'buddhism', 'stoicism'],
+        },
+        {
           title: 'Physics',
           collapsable: false,
           children: ['time'],
-        },
-        {
-          title: 'Stoicism',
-          collapsable: false,
-          children: ['stoic-virtues'],
         },
         {
           title: 'Sociology',
