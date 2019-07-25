@@ -16,6 +16,7 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
+        'how-to-learn',
         'nimbus-tech-2019-04',
         'augmented-reality',
         'email-to-a-friend',
@@ -54,11 +55,6 @@ module.exports = {
           title: 'Meditation',
           collapsable: false,
           children: ['meditation-obstacles'],
-        },
-        {
-          title: 'Metacognition',
-          collapsable: false,
-          children: ['how-to-learn'],
         },
         {
           title: 'People',
