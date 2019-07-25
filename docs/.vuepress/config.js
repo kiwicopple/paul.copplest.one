@@ -85,6 +85,11 @@ module.exports = {
           collapsable: false,
           children: ['stoic-virtues'],
         },
+        {
+          title: 'Sociology',
+          collapsable: false,
+          children: ['mimetic-theory'],
+        },
       ],
       '/projects/': [
         {
