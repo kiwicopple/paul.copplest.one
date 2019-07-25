@@ -1,4 +1,4 @@
-# Obstacles
+# Meditation
 
 ## Obstacles to meditation
 
@@ -7,7 +7,7 @@
 3. Reluctance and resistance
 4. Doubt
 
-## Hinderances
+**Hinderances**
 
 1. Worldly Desire - pursuit of material pleasures
 2. Unification of mind
@@ -15,7 +15,7 @@
 4. Pleasure/Happiness
 5. Laziness (when the cost of an activity outweighs the benefits) and Lethargy (low enerygy and motivation)
 
-## Antidotes
+**Antidotes**
 
 1. Directed Attention - "Just do it"
 2. Agitation due to Worry and Remorse - worry about consquences for past actions

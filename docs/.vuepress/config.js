@@ -52,9 +52,9 @@ module.exports = {
           children: ['pyrolysis'],
         },
         {
-          title: 'Meditation',
+          title: 'Miscellaneous',
           collapsable: false,
-          children: ['meditation-obstacles'],
+          children: ['chess', 'meditation'],
         },
         {
           title: 'People',
