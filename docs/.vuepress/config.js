@@ -41,11 +41,11 @@ module.exports = {
           collapsable: false,
           children: ['soil-health', 'soil-nutrients'],
         },
-        {
-          title: 'Business Practices',
-          collapsable: false,
-          children: ['emyth', 'toyota-way'],
-        },
+        // {
+        //   title: 'Business Practices',
+        //   collapsable: false,
+        //   children: ['emyth', 'toyota-way'],
+        // },
         {
           title: 'Environment',
           collapsable: false,

@@ -5,9 +5,11 @@ description: Physics and time.
 
 # Time 
 
-There are many different times. A large mass causing things to fall towards them, and the closer the thing is to a large mass, the slower the time is.
+> Status: DRAFT
 
-Einstein's theory of General Relativity doesn't depict one time, it involves innumerable. Physics does not describe how things evolve in time, but how they evolve in their own times, and how times evolve relative to eachother.
+- There are many different times. A large mass causing things to fall towards them, and the closer the thing is to a large mass, the slower the time is.
+
+- Einstein's theory of General Relativity doesn't depict one time, it involves innumerable. Physics does not describe how things evolve in time, but how they evolve in their own times, and how times evolve relative to eachother.
 
 Gramatically, time can have many meanings:
 
@@ -19,5 +21,5 @@ Gramatically, time can have many meanings:
 
 ### Resources
 
-- THe Order of Time (Carlo Rovelli)
+- The Order of Time (Carlo Rovelli)
 
