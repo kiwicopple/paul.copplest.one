@@ -56,7 +56,7 @@ module.exports = {
         {
           title: 'Miscellaneous',
           collapsable: false,
-          children: ['chess', 'meditation'],
+          children: ['chess', 'friendship', 'meditation'],
         },
         {
           title: 'People',
