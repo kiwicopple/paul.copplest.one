@@ -118,11 +118,16 @@ Images are much easier than illustrations because the quantity of stock photos i
 
 Once again, images are far more effective on websites that software (which probably goes without saying, but I'm staying it anyway).
 
-It can be difficult to make images feel "part" of the site - quite often they just seem like they are floating in place
+It can be difficult to make images feel "part" of the site - quite often they just seem like they are floating in place. It just takes some small things to mitigate this. Make your images stretch full-width. If your site uses lots of rounded corners, add rounded corners to your floating images. If it uses drop-shadows, add them to your images. 
+
+Adding text onto images is very risky. If you are going to do this, add a very subtle drop shadow to the text. 
+Alternatively 
+- you can consider adding a gradient background
+- or a solid color background.
 
 The best sites I use for images are:
 
-- https://unsplash.com/
+- [unsplash.com](https://unsplash.com/)
 
 ## Branding
 
