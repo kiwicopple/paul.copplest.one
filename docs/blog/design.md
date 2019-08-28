@@ -5,7 +5,7 @@ description: Design tips for developers
 
 # Design tips for developers
 
-Developers aren't well-known for their design skills. I suspect that poor design/UX in opensource projects is the primary reason they aren't more successful. Usually the projects are technically brilliant - fast, well tested, and well maintained. But without a reasonable interface users won't get hooked.
+Developers aren't well-known for their design skills. I suspect that poor design/UX in opensource projects is the primary reason they aren't more successful. Usually the projects are technically brilliant - fast, well tested, and well maintained. But without a loveable interface users won't get hooked.
 
 As with anything, being "20% good" at design will get you 80% of the way there. This article outlines some of the tools and tips I have picked up over the years that will make you a 20% designer.
 
@@ -19,6 +19,7 @@ As with anything, being "20% good" at design will get you 80% of the way there. 
   - [Fonts](#fonts)
   - [Icons](#icons)
   - [Illustrations](#illustrations)
+  - [Images](#images)
   - [Branding](#branding)
   - [Using a CSS framework](#using-a-css-framework)
   - [Design tools](#design-tools)
@@ -40,7 +41,7 @@ You'll also notice the up-and-coming trends. In the past it was soft shadows and
 
 ## Creating a logo
 
-Logos are a great place to start since the design carries over to your software/site. Logos vary for different mediums (print, digital, etc), but since you're reading this you are probably a developer, and so your logo will be used on a website, on an app, or in software. 
+Logos are a great place to start since the design carries over to your software/site. Logos vary for different mediums (print, digital, etc), but since you're reading I'll assume you're a developer, and so your logo will be used on a website, on an app, or in software. 
 
 If this describes your use-case it means your logo should consist of two parts, and should follow a few basic rules. You should start with:
 
@@ -51,23 +52,23 @@ If this describes your use-case it means your logo should consist of two parts, 
 
 Here are some useful rules:
 
-- **Square::** Make sure it fits evenly into a square. This is important because it will be in a `favicon` or possibly an app icon. 
-- **Symetrical::** By symetrical, I mean that it should take up an even amount of space within the square. Logos can look a bit awkard when they are squashed to one side or if there is lots of space in one area of the square.
-- **Simple::** This is by far the most important rule. There is no such thing as an icon which is too simple. Make sure it is legible when scaled down to 32x32 px. This is how it will look in the tab of a browser. Also keep the colors simple - you can use color, but it's best if you stick with just one.
+- **Square** <br />Make sure it fits evenly into a square. This is important because it will be in a `favicon` or possibly an app icon. 
+- **Symetrical**  <br />By symetrical, I mean that it should take up an even amount of space within the square. Logos can look a bit awkard when they are squashed to one side or if there is lots of space in one area of the square.
+- **Simple**  <br />This is by far the most important rule. There is no such thing as an icon which is too simple. Make sure it is legible when scaled down to 32x32 px. This is how it will look in the tab of a browser. Also keep the colors simple - you can use color, but it's best if you stick with just one.
 
 ### Designing the logo text/name
 
-You have a bit more freedom with this one. I would recommend, however, that you make this just a simple color - for example, black or dark grey. Let the icon carry the logo, and let font that you choose for the text set the brand. Whichever font you chose for the text, you should (probably) use it in all the headings of your site/app/software.
+You have a bit more freedom with this one. I would recommend, however, that you make this just a simple color - for example, black or dark grey. Let the icon carry the logo, and let font that you choose for the text set the brand. Whichever font you choose for the text, you should (probably) use it in all the headings of your site/app/software.
 
 ## Colors
 
 The best advice I can give for colors is to choose one which is vibrant and that's all. Every other color should be white or black.
 
-Ok, now that I have got that out of the way, you *can* use other colors for things like alerts, warnings, etc. 
+Ok, now that I have got that out of the way, you *can* use other colors (for things like alerts, warnings, etc), and a few different grey tones.
 
-If I'm building a tech product, I usually begin my designs with what I call "startup blue". You've probably seen this color on a million different tech sites. The hex code for startup blue is <span style="background-color:#2B70F6;color: #fff; padding:3px;border-radius:3px;">#2B70F6</span>, or somewhere close. There are lots of reasons for this, but none more important than it's safe. After you have created your site, feel free to play with this color.
+If I'm building a tech product, I usually begin my designs with what I call "startup blue". You've probably seen this color on a million different tech sites. The hex code for startup blue is somewhere close to<span style="background-color:#2B70F6;color: #fff; padding:3px;border-radius:3px;">#2B70F6</span>. There are lots of reasons for this, but none more important than it's safe. After you have created your site, feel free to play with this color.
 
-There is only one resource you need to know more about colors and that is [Building your color pallete](https://refactoringui.com/previews/building-your-color-palette/) by Refactoring UI. 
+There's only one resource you need to know more about colors and that is [Building your color pallete](https://refactoringui.com/previews/building-your-color-palette/) by Refactoring UI. 
 
 ## Fonts
 
@@ -82,15 +83,15 @@ There are three guildines I could give here:
 - Headings should (probably) be bold, symetrical, and sans-serif
 - Content can be serif but it's fine to be san-serif
 
-As I mentioned in the logo section, you probably want your heading font to match your logo font, but that's also not critical.
+As I mentioned in the logo section, you (probably) want your heading font to match your logo font, but that's also not critical.
 
-Fonts are something that you have to play with a lot to find something you like. [Google Fonts](https://fonts.google.com/) is useful here (if you don't have an aversion to Google) since you don't have to go through the hassle of downloading/uploading the font to try it out. I'm personally trying to move away from Google so I have created a similar site called [Quick, Font!](https://quickfont.xyz/) to acheive the same thing, except the fonts are served from GitHub.  
+Fonts are something that you have to play with a lot to find something you like. [Google Fonts](https://fonts.google.com/) is useful here (if you don't have an aversion to Google) since you don't have to go through the hassle of downloading/uploading the font to try it out. I'm personally trying to move away from Google so I'm slowly [building up a site](https://quickfont.xyz/) to acheive the same thing, except the fonts are served from GitHub.  
 
 ## Icons
 
-Try to use only a few icons. They actually add very little, practically speaking, unless you are able to replace some words completely with the icon. A great example is the &equiv; 'hamburger icon' which completely replaces the need to have "Show menu" in navbars. 
+Try to use only a few icons. They actually add very little, practically speaking, unless you are able to replace some words completely with the icon. A great example is the &equiv; 'hamburger icon' which completely replaces the need to have "Show menu" in navbars. Quite honestly, I think even good designers use too many icons. 
 
-That said, a few icons can make a site look a bit more finished. Just try to make sure the icons have a consistent "theme": they should have the same stroke thickness; if some are rounded, they should all be rounded; keep the colors consistent. 
+That said, a few icons can make a site look more finished. Just make sure the icons have a consistent "theme": they should have the same stroke thickness; if some are rounded, they should all be rounded; keep the colors consistent. 
 
 And once again, simplify! The point of an icon is to reduce the cognitive load on a user. Try to stick with icons that have very little detail.
 
@@ -103,7 +104,7 @@ Here are the best (free) resources that I commonly use
 
 ## Illustrations
 
-Illustrations can really bring a website/app to life. They are less important in software (in fact they would probably look stupid in most software). However illustrations are the hardest to nail, because they are quite bespoke which makes it difficult to have a consitent look across all of them.
+Illustrations can really bring a website/app to life. They are less important in software (in fact they would probably look stupid in most software) but work well on landing pages. However illustrations are the hardest to nail, because they are quite bespoke which makes it difficult to have a consitent look across all of them.
 
 Try to create your site first without illustrations (I doubt this will be a problem for most readers), then as a final step add a few illustrations if you have gaps to fill. There are some really great resources starting to pop up wich have some free, lightweight illustrations to try. These are:
 
@@ -111,6 +112,17 @@ Try to create your site first without illustrations (I doubt this will be a prob
 - [undraw.co](https://undraw.co/)
 - [icons8.com/ouch](https://icons8.com/ouch/) 
 
+## Images
+
+Images are much easier than illustrations because the quantity of stock photos is so much larger than stock illustrations, and if you want to move the designs in-house in the future then it's far easier to find a competent photographer than a competent illustrator.
+
+Once again, images are far more effective on websites that software (which probably goes without saying, but I'm staying it anyway).
+
+It can be difficult to make images feel "part" of the site - quite often they just seem like they are floating in place
+
+The best sites I use for images are:
+
+- https://unsplash.com/
 
 ## Branding
 
