@@ -57,6 +57,7 @@ Principles: https://agilemanifesto.org/principles.html
 - Tasks, Milestones, Epics
 - Estimations with story points
 - User stories. As a `<persona/role>`, I want `<goal>`, so that `<desired outcome>`
+- Gantt charts: Critical path
 - Velocity
 - Definition of Done & Acceptance criteria
 - Deliverables/Artifacts: 
@@ -65,7 +66,7 @@ Principles: https://agilemanifesto.org/principles.html
 - Roles: PO, scrum master, on-site customer
 - Pair programming
 - Pull Requests 
-- TDD
+- TDD / BDD / FDD
 - Burn down charts
 - Scope and 
   - Product requirements documentation
