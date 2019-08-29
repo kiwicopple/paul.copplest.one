@@ -51,23 +51,26 @@ Principles: https://agilemanifesto.org/principles.html
 
 - Kaizen
 - Kanban board
+- Stand ups
 - Sprints and spikes
+- Backlogs: Product, sprint
+- Tasks, Milestones, Epics
 - Estimations with story points
 - User stories. As a `<persona/role>`, I want `<goal>`, so that `<desired outcome>`
 - Velocity
 - Definition of Done & Acceptance criteria
-- Stand ups
+- Deliverables/Artifacts: 
 - Sprint review and retro
 - Sprint planning
-- Roles : PO, scrum master, on-site customer
+- Roles: PO, scrum master, on-site customer
 - Pair programming
+- Pull Requests 
 - TDD
 - Burn down charts
 - Scope and 
   - Product requirements documentation
   - scope creep
-- Release notes
-- Press releases
+- Release notes / Increment / Press releases
 
 
 ## Interesting implementations
