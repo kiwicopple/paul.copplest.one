@@ -11,10 +11,10 @@
           Subscribe if you want to be notified when I publish a new article.
         </p>
 
-        <!-- <form name="subscribe" method="POST" data-netlify="true" netlify>
+        <form name="subscribe" method="POST" >
           <input type="email" name="email" placeholder="you@email.com" />
           <button type="submit">SUBSCRIBE</button>
-        </form> -->
+        </form>
       </div>
     </div>
 
