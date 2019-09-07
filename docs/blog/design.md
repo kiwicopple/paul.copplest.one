@@ -111,6 +111,7 @@ Try to create your site first without illustrations (I doubt this will be a prob
 - [humaaans.com](https://www.humaaans.com/) --> you've probably started seeing these everywhere
 - [undraw.co](https://undraw.co/)
 - [icons8.com/ouch](https://icons8.com/ouch/) 
+- [avataaars.com](https://www.avataaars.com/)
 
 ## Images
 
@@ -128,6 +129,8 @@ Alternatively
 The best sites I use for images are:
 
 - [unsplash.com](https://unsplash.com/)
+- [pixabay.com](https://pixabay.com/)
+- [pexels.com](https://www.pexels.com/)
 
 ## Branding
 
@@ -145,10 +148,9 @@ If you're building a website, I highly recommend keeping your CSS and JS separat
 
 I would also recomment sticking with a "utility-first" CSS framework. Take your pick of either [Bulma](https://bulma.io) or [Tailwind](https://tailwindcss.com/) and invest a day into learning how they work. This day will pay off in spades - prototyping with either of these is quicker than designing then implementing from scratch.
 
-
 ## Design tools
 
-Figma
+[Figma](https://www.figma.com). That's all you really need. Forget about Sketch and Invision. Figma has vector design capabilities, clickable prototypes, commenting, and it's collaborative. And it's free(mium)! Invest a little bit of time into using it - video tutorials are quite helpful here - and then live inside it for anything that you need to do for design and editing. I'm really a fan-boy of Figma, but for good reason. I have tried a lot of other tools in the past and none are as good (and holistic) as Figma. If you are working with photos then you may also need Photoshop but as a developer the types of things that you need to do with photos are usually just compressing and resizing, which can be better achieved with an asset pipeline.
 
 
 ## Other reading and quick tips
