@@ -11,7 +11,7 @@
           Subscribe if you want to be notified when I publish a new article.
         </p>
 
-        <form name="subscribe" method="POST" >
+        <form name="subscribe" method="POST" data-netlify="true">
           <input type="email" name="email" placeholder="you@email.com" />
           <button type="submit">SUBSCRIBE</button>
         </form>
