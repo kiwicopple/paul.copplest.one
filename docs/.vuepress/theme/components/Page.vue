@@ -5,13 +5,15 @@
     <Content />
 
     <div class="subscribe">
-      <h3>Follow?</h3>
-      <p>Subscribe if you want to be notified when I publish a new article. No spam or marketing, only new blog posts.</p>
+      <div class="content__default">
+        <h3>Follow?</h3>
+        <p>Subscribe if you want to be notified when I publish a new article. No spam or marketing, only new blog posts.</p>
 
-      <form name="subscribe" method="POST" data-netlify="true">
-        <input type="email" name="email" placeholder="you@email.com" />
-        <button type="submit">SUBSCRIBE</button>
-      </form>
+        <form name="subscribe" method="POST" data-netlify="true">
+          <input type="email" name="email" placeholder="you@email.com" />
+          <button type="submit">SUBSCRIBE</button>
+        </form>
+      </div>
     </div>
 
     <footer class="page-edit">
