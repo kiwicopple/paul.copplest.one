@@ -7,12 +7,13 @@ description: Design tips for developers
 
 Developers aren't well-known for their design skills. I suspect that poor design/UX in open source projects is the primary reason they aren't more successful. Usually the projects are technically brilliant - fast, well tested, and well maintained. But without a loveable interface users won't get hooked.
 
-One note before you start reading this if you are put off by anything with "Design" in the title. Design is about doing less rather than doing more. I don't advocate over-design, and I recommend erring on the side of simplicity.
+Perhaps you're the type of developer who is put off by any blog post with "Design" in the title. If you are, then I will say this up-front: design is about doing less rather than doing more. I don't advocate over-design, and I recommend erring on the side of simplicity. This blog post will only elaborate this point.
 
-As with anything however, being "20% good" at design will get you 80% of the way there. This article outlines some of the tools and tips I have picked up over the years that will make you a "20%" designer. I'm not going to go into UX (even though it is more important) because I think learning how to think in simple design patterns is the baseline for creating usable products. 
+As with anything, being "20% good" at design will get you 80% of the way there. This article outlines some of the tools and tips I have picked up over the years that will make you a "20%" designer. I'm not going to go into UX (even though it's more important) because I think learning how to think in simple design patterns is the baseline for creating usable products. 
 
 
 **Contents**
+
 - [Building a design-y sense](#building-a-design-y-sense)
 - [Creating a logo](#creating-a-logo)
   - [Designing an Icon](#designing-an-icon)
