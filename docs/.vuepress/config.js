@@ -16,6 +16,7 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
+        'agile',
         'design',
         'how-to-learn',
         'nimbus-tech-2019-04',
@@ -26,6 +27,7 @@ module.exports = {
         'dividing-equity',
       ],
       '/gists/': [
+        'secrets-management-sops',
         'vscode-snippets',
         'bash-profile',
         'postgresql',
