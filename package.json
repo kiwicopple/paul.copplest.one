@@ -8,7 +8,8 @@
   "scripts": {
     "start": "vuepress dev docs",
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "theme:eject": "vuepress eject _tmp"
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.0.0-alpha.44",
