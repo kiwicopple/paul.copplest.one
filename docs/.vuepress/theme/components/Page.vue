@@ -5,17 +5,17 @@
     <Content />
 
     <div class="subscribe">
-      <!-- <div class="subscribe__content">
+      <div class="subscribe__content">
         <h3>Follow?</h3>
         <p>
           Subscribe if you want to be notified when I publish a new article.
         </p>
 
-        <form name="subscribe" method="POST" data-netlify="true" netlify>
+        <!-- <form name="subscribe" method="POST" data-netlify="true" netlify>
           <input type="email" name="email" placeholder="you@email.com" />
           <button type="submit">SUBSCRIBE</button>
-        </form>
-      </div> -->
+        </form> -->
+      </div>
     </div>
 
     <footer class="page-edit">
