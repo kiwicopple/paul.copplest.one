@@ -73,9 +73,10 @@ There's only one resource you need to know more about colors and that is [Buildi
 ## Fonts
 
 To get started it's good to know that
-<span style="background-color:#eee; padding:3px;border-radius:3px;">this is sans-serif</span>,
-<span style="font-family:serif;background-color:#eee; padding:3px;border-radius:3px;">this is sans-serif</span>, and
-<span style="font-family:monospace;background-color:#eee; padding:3px;border-radius:3px;">this is monospace</span>.
+
+- <span style="background-color:#eee; padding:3px;border-radius:3px;">this is sans-serif</span>
+- <span style="font-family:serif;background-color:#eee; padding:3px;border-radius:3px;">this is sans-serif</span>
+- <span style="font-family:monospace;background-color:#eee; padding:3px;border-radius:3px;">this is monospace</span>
 
 There are three guildines I could give here:
 
