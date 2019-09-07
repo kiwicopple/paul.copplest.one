@@ -7,14 +7,43 @@
     <div class="subscribe">
       <div class="subscribe__content">
         <h3>Follow?</h3>
-        <p>
-          Subscribe if you want to be notified when I publish a new article.
-        </p>
+        <p>Subscribe if you want to be notified when I publish a new article.</p>
 
-        <form name="subscribe" method="POST" data-netlify="true">
+        <!-- <form name="subscribe" method="POST" data-netlify="true">
           <input type="email" name="email" placeholder="you@email.com" />
           <button type="submit">SUBSCRIBE</button>
+        </form>-->
+
+        <!-- Begin Mailchimp Signup Form -->
+        <form
+          action="https://pollygot.us15.list-manage.com/subscribe/post?u=3c3e68a463cd5f23b2f8b59f5&amp;id=896613bf02"
+          method="post"
+          id="mc-embedded-subscribe-form"
+          name="mc-embedded-subscribe-form"
+          class="validate"
+          target="_blank"
+          novalidate
+        >
+          <div id="mc_embed_signup_scroll">
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true">
+              <input type="text" name="b_3c3e68a463cd5f23b2f8b59f5_896613bf02" tabindex="-1" value />
+            </div>
+
+            <input
+              type="email"
+              value
+              name="EMAIL"
+              class="email"
+              id="mce-EMAIL"
+              placeholder="you@email.com"
+              required
+            />
+            <button type="submit">SUBSCRIBE</button>
+          </div>
         </form>
+
+        <!--End mc_embed_signup-->
       </div>
     </div>
 
