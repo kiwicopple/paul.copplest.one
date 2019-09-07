@@ -33,7 +33,7 @@ If you want to create your own snippets then I recommend installing the `Snippet
 	  "prefix": "///",
 	  "body": [
 		"/**",
-		" * ${1:variable}",
+		" * ${1:description}",
 		" */"
 	  ],
 	  "description": "Create JS comment (long)"
@@ -43,7 +43,7 @@ If you want to create your own snippets then I recommend installing the `Snippet
 
 The GIF in the section "What is a snippet?" display how these JS Snippets work.
 
-## SQL Snippets
+## PostgreSQL Snippets
 
 ```json
 {
@@ -63,8 +63,6 @@ The GIF in the section "What is a snippet?" display how these JS Snippets work.
       "CREATE UNIQUE INDEX ${2:table_name}_pkey ON ${1:schema_name}.${2:table_name} USING btree (id);",
       "",
       "alter table \"${1:schema_name}\".\"${2:table_name}\" add constraint \"${2:table_name}_pkey\" PRIMARY KEY using index \"${2:table_name}_pkey\";",
-      "alter table \"${1:schema_name}\".\"${2:table_name}\" add constraint \"${2:table_name}_created_by_fkey\" FOREIGN KEY (created_by) REFERENCES users(id);",
-      "alter table \"${1:schema_name}\".\"${2:table_name}\" add constraint \"${2:table_name}_updated_by_fkey\" FOREIGN KEY (updated_by) REFERENCES users(id);",
       "alter table \"${1:schema_name}\".\"${2:table_name}\" add constraint \"${2:table_name}_user_id_fkey\" FOREIGN KEY (user_id) REFERENCES users(id);",
       ""
     ],

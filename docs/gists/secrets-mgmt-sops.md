@@ -1,3 +1,10 @@
+---
+description: How to use Mozilla SOPS with AWS, GCP, and NodeJS.
+---
+
+# Secrets management
+
+Want to store your sensitive secrets in your git repository? How to use Mozilla SOPS with AWS, GCP, and NodeJS.
 
 ## Install
 

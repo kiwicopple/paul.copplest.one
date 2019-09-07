@@ -1,16 +1,43 @@
 
 @import url('https://combinatronics.com/kiwicopple/quick-font/master/css/circular.css');
 
+$fontFamily = "Circular", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+
 #app
   min-height: 100vh
   background: #ffffff8
-  font-family: "Circular", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-    
+  font-family: $fontFamily
+
   .content__default
     padding: 1.5rem
     padding-top: 50px
     max-width: 740px
     margin: 0 auto
+  
+  .subscribe 
+    background: $accentColor
+    padding: 1.5em
+    color: white
+
+    h3 
+      margin: 0 !important
+    input, button
+      border-radius: 3px
+      padding: 5px
+      border: 1px solid $borderColor
+      font-family: $fontFamily
+      font-size: 14px
+      background: white
+      padding: 8px
+      margin-bottom: 5px
+      color: $textColor
+    button
+      font-weight: bold
+      font-size: 12px
+      padding: 9px 20px
+      &:hover
+        cursor: pointer
+
 
   h1, h2, h3
     font-family: "Circular", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
@@ -18,6 +45,7 @@
   img
     border-radius: 5px
     border: 1px solid #eee
+    max-width: 100%
   
   blockquote
     color: #444
