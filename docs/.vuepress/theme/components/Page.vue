@@ -5,7 +5,7 @@
     <Content />
 
     <div class="subscribe">
-      <div class="content__default">
+      <div class="subscribe__content">
         <h3>Follow?</h3>
         <p>
           Subscribe if you want to be notified when I publish a new article.
