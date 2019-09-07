@@ -4,8 +4,8 @@
 
     <Content />
 
-    <!-- <div class="subscribe">
-      <div class="subscribe__content">
+    <div class="subscribe">
+      <!-- <div class="subscribe__content">
         <h3>Follow?</h3>
         <p>
           Subscribe if you want to be notified when I publish a new article.
@@ -15,8 +15,8 @@
           <input type="email" name="email" placeholder="you@email.com" />
           <button type="submit">SUBSCRIBE</button>
         </form>
-      </div>
-    </div> -->
+      </div> -->
+    </div>
 
     <footer class="page-edit">
       <div class="edit-link" v-if="editLink">
