@@ -4,7 +4,7 @@
 
     <Content />
 
-    <div class="subscribe">
+    <!-- <div class="subscribe">
       <div class="subscribe__content">
         <h3>Follow?</h3>
         <p>
@@ -16,7 +16,7 @@
           <button type="submit">SUBSCRIBE</button>
         </form>
       </div>
-    </div>
+    </div> -->
 
     <footer class="page-edit">
       <div class="edit-link" v-if="editLink">
