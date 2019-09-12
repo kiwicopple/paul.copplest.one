@@ -46,7 +46,7 @@ $fontFamily = "Circular", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto
 
 
   h1, h2, h3
-    font-family: "Circular", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+    font-family: $fontFamily
 
   img
     border-radius: 5px
@@ -85,3 +85,9 @@ $fontFamily = "Circular", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto
       a 
         padding-right: 0px
   
+  .mermaid
+    font-family: $fontFamily
+    text-align: center
+
+    div, tspan
+      font-family: $fontFamily

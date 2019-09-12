@@ -13,6 +13,7 @@ We can use SOPS to encrypt `YAML`, `JSON`, `ENV`, `INI` and even `BINARY` files.
 **Contents**
 
 - [Why?](#why)
+- [How SOPS works](#how-sops-works)
 - [Preparing our repository](#preparing-our-repository)
 - [Preparing for encryption/decryption](#preparing-for-encryptiondecryption)
   - [Installing SOPs](#installing-sops)
@@ -28,6 +29,30 @@ Let's say we have a `.env` file in our repository which has sensitive data insid
 Ideally we want this versioned in git, so we can resolve any merge conflicts and keep a history of the changes. 
 
 So let's see how we would do this using SOPS.
+
+## How SOPS works
+
+An example of how SOPS would work with AWS. In this case a Key has been set up already in AWS KMS and the developer has been given access to the Key. The developer knows the ID of the key (ARN). The ARN can be shared freely with all your developers because knowing the ARN doesn't grant them access, it explicitly needs to be granted to the developer (on AWS console or using the CLI).
+
+<mermaid>
+sequenceDiagram
+    Developer->>SOPS: Request to decrypt file using AWS Key ID (ARN)
+    SOPS-->>Developer: Get Developer AWS credentials
+    SOPS-->>AWS: Checks Developer access to AWS Key
+    AWS-->>SOPS: Approves access
+    SOPS->>Developer: Decrypts file
+</mermaid>
+
+If ever we want to revoke access for a developer, then we can just remove the developer's permissions in AWS KMS, and the developer would no longer be able to decrypt the file:
+
+<mermaid>
+sequenceDiagram
+    Developer->>SOPS: Request to decrypt file using AWS Key ID (ARN)
+    SOPS-->>Developer: Get Developer AWS credentials
+    SOPS-->>AWS: Checks Developer access to AWS Key
+    AWS-->>SOPS: Denies access
+    SOPS--xDeveloper: ERROR
+</mermaid>
 
 ## Preparing our repository
 
