@@ -80,12 +80,20 @@ EOT
 #   COMMANDS
 #   ---------------------------
 
-alias ll="ls -lah"                          # ll:      List all including hidden with detailed info
+alias la="ls -lah"                          # la:       List all including hidden with detailed info
 alias qfind="find . -name "                 # qfind:    Quickly search for file
 ff () { /usr/bin/find . -name "$@" ; }      # ff:       Find file under the current directory
 ffs () { /usr/bin/find . -name "$@"'*' ; }  # ffs:      Find file whose name starts with a given string
 ffe () { /usr/bin/find . -name '*'"$@" ; }  # ffe:      Find file whose name ends with a given string
 
+alias standup="git standup -s"              # standup:    Run "git standup" and hide repositories which had no activity
+
+alias dm="docker-machine"                       # dm:      Shortcut for docker-machine
+alias dmme="eval \"$(docker-machine env -u)\""  # dmme:    "Docker machine me" - ensures that docker machine is pointing to local
+alias lzd="lazydocker"                          # lzd:     Run lazydocker
+
+alias ip0="ipconfig getifaddr en0"          # ip0:    Get IP Address of ethernet interface 0
+alias ip1="ipconfig getifaddr en1"          # ip1:    Get IP Address of ethernet interface 1
 
 #   ---------------------------
 #   PATH config
