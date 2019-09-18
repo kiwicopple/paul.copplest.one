@@ -87,6 +87,7 @@ ffs () { /usr/bin/find . -name "$@"'*' ; }  # ffs:      Find file whose name sta
 ffe () { /usr/bin/find . -name '*'"$@" ; }  # ffe:      Find file whose name ends with a given string
 
 alias standup="git standup -s"              # standup:    Run "git standup" and hide repositories which had no activity
+alias gitstats="git-quick-stats"            # gitstats:   Generate stats for a git repo: https://github.com/arzzen/git-quick-stats/
 
 alias dm="docker-machine"                       # dm:      Shortcut for docker-machine
 alias dmme="eval \"$(docker-machine env -u)\""  # dmme:    "Docker machine me" - ensures that docker machine is pointing to local
