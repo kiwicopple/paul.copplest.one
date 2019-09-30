@@ -46,3 +46,8 @@ The actor analogy is actually very apt. In computer science, "The Actor Model" i
 As an example,
 
 This model is used extensively in distributed systems because it is extremely scalable and fault-tolerant. 
+
+
+## Resources
+
+- [OmniNet:- A unified architecture for multi-modal multi-task learning](https://news.ycombinator.com/item?id=20479366)

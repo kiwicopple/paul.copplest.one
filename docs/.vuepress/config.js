@@ -35,6 +35,7 @@ module.exports = {
         'regex',
         'ecto-phoenix',
         'debounce-and-throttle',
+        'tech-management',
         'google-analytics',
         'beanstalk-swap',
         'kill-processes',
@@ -63,12 +64,15 @@ module.exports = {
         {
           title: 'People',
           collapsable: false,
-          children: ['marcus-aurelius'],
+          children: [
+            'people/isaac-newton',
+            'people/marcus-aurelius',
+          ],
         },
         {
           title: 'Philosophy',
           collapsable: false,
-          children: ['ethics', 'buddhism', 'stoicism'],
+          children: ['consciousness', 'ethics', 'buddhism', 'stoicism'],
         },
         {
           title: 'Physics',
@@ -79,6 +83,15 @@ module.exports = {
           title: 'Sociology',
           collapsable: false,
           children: ['mimetic-theory'],
+        },
+        {
+          title: 'Zoology',
+          collapsable: false,
+          children: [
+            'zoology/octopus',
+            'zoology/rats',
+            'zoology/ravens',
+          ],
         },
       ],
       '/projects/': [

@@ -38,3 +38,8 @@ Some other nutrients have a negative electrical charge in their plant-available 
 A significant percentage of most soil is clay and a smaller percentage is organic matter. Both of these soil fractions have a large number of negative charges on their surface, thus they attract cation (positive) elements. At the same time, they also repel anion (negative) nutrients since "like" charges repel eachother.
 
 Low CEC soils hold fewer nutrients, and will likely be subject to leaching of mobile “anion” nutrients. The particular CEC of a soil is neither good nor bad, but knowing it is a valuable management tool.
+
+
+## Resources
+
+- [Estimates that mineral levels in vegetables have dropped by up to 90% since 1914](https://news.ycombinator.com/item?id=20959979)

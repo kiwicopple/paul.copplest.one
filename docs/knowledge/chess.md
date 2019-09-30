@@ -42,3 +42,8 @@ These are general rules that can often be ignored. They are only for guidance. I
 **King**
 
 - Centralise your king in the endgame
+
+
+## Resources
+
+- [200 Principles Every Chess Player Should Know](https://www.reddit.com/r/chess/comments/70nf74/200_principles_every_chess_player_should_know/)

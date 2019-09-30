@@ -71,7 +71,8 @@ Ok, now that I have got that out of the way, you *can* use other colors (for thi
 
 If I'm building a tech product, I usually begin my designs with what I call "startup blue". You've probably seen this color on a million different tech sites. The hex code for startup blue is somewhere close to<span style="background-color:#2B70F6;color: #fff; padding:3px;border-radius:3px;">#2B70F6</span>. There are lots of reasons for this, but none more important than it's safe. After you have created your site, feel free to play with this color.
 
-There's only one resource you need to know more about colors and that is [Building your color pallete](https://refactoringui.com/previews/building-your-color-palette/) by Refactoring UI. 
+For everything you need to know about colors, I highly recommend reading [Building your color pallete](https://refactoringui.com/previews/building-your-color-palette/) by Refactoring UI. After you have a good grasp on the concepts, you can use [colorbox.io](https://www.colorbox.io/) to build your custom pallete.
+
 
 ## Fonts
 
@@ -163,8 +164,9 @@ I would also recommend sticking with a "utility-first" CSS framework. Take your 
 I'm really a fan-boy of Figma, but for good reason. I've tried a lot of other tools in the past and none are as good (and holistic). If you're working with photos then you may also need Photoshop but as a developer the types of things that you need to do with photos are usually just compressing and resizing, which can be better achieved with an asset pipeline.
 
 
-## Other reading and quick tips
+## More reading, tips, and tools
 
 - [Julian Landing page](https://www.julian.com/guide/growth/landing-pages): This is the best guide I know for building a landing page. One additional tip: if you are using a Hero on your landing page, make it only `70vh` and have a "More" button below it. Too many websites have a `100vh` hero, and it isn't immediately apparent to the user that they can scroll down.
 - [Design Tools for Everything](https://github.com/LisaDziuba/Awesome-Design-Tools): A huge list of tools. I personally find these lists a bit daunting but it does have something for everybody if you can be bothered combing through it.
 - You may occasionally want to implement some CSS layouts outside of the grid systems provided by Bulma or Tailwind. A couple of resources for learning are [testdriven.io/blog/css-grid](https://testdriven.io/blog/css-grid) and [every-layout.dev](https://every-layout.dev)
+- An awesome resource for creating printable UI mockups/wireframes templates: [github.com/alexadam/printable-mockups](https://github.com/alexadam/printable-mockups)
