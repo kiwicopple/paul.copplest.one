@@ -4,6 +4,8 @@ footer: Copyright © Paul Copplestone
 
 # Paul Copplestone
 
+Techie and Entrepreneur.
+
 ### About
 
 - [Businesses and Projects](/projects/): Projects that I am (or was) involved with.
