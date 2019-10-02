@@ -91,3 +91,10 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io install docker-compose
 ```
 
+
+### Necessary bloat
+
+```sh
+npm install -g node-gyp # This is to solve permission errors \
+npm install -g expo # Required for mobile development
+```
