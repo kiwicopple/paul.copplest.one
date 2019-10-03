@@ -86,6 +86,13 @@ sudo nano /etc/fail2ban/jail.local
 
 @TODO Add to `sudo nano /etc/fail2ban/jail.local`
 
+### Digital Ocean
+
+Set up metrics: https://www.digitalocean.com/docs/monitoring/how-to/install-agent/
+
+```sh
+curl -sSL https://repos.insights.digitalocean.com/install.sh | sudo bash
+```
 
 ### AWS 
 
