@@ -26,6 +26,7 @@ ufw enable # Start it if not
 apt install -y make
 apt install -y build-essential  # For node-gyp
 apt install -y libkrb5-dev      # For node-gyp
+apt install htop # monitor ram
 ```
 
 ### Set up Fail2Ban
@@ -73,6 +74,10 @@ wget https://github.com/cdr/code-server/releases/download/2.1523-vsc1.38.1/code-
 tar -xvzf code-server2.1523-vsc1.38.1-linux-x86_64.tar.gz
 cd code-server2.1523-vsc1.38.1-linux-x86_64/
 PASSWORD=SECUREPASSWORD ./code-server --auth password & ## Run in background, could be improved with systemd
+
+lsof -i:8080
+kill $(lsof -t -i:8080)
+
 ```
 
 
@@ -92,6 +97,10 @@ Set up metrics: https://www.digitalocean.com/docs/monitoring/how-to/install-agen
 
 ```sh
 curl -sSL https://repos.insights.digitalocean.com/install.sh | sudo bash
+```
+
+Enable swap: https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-18-04
+
 ```
 
 ### AWS 
@@ -177,3 +186,9 @@ npm install -g expo-cli # Required for mobile development
 Error: `Failed to add /run/systemd/ask-password to directory watch: No space left on device`.
 
 Cause: Inotify is used to [watch file changes](https://www.linuxjournal.com/article/8478). You can run `cat /proc/sys/fs/inotify/max_user_watches` to see how many watchers the server has configured. If it is around 8000, bump it up to half a million: `echo 'fs.inotify.max_user_watches=524288' | sudo tee -a /proc/sys/fs/inotify/max_user_watches` or just `sudo nano /proc/sys/fs/inotify/max_user_watches` and update to `524288`.
+
+That will persist only until you reboot, though. To make this permanent, add a file named `/etc/sysctl.d/10-user-watches.conf` with the following contents:
+
+```sh
+fs.inotify.max_user_watches = 524288
+```
