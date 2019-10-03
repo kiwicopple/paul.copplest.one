@@ -15,17 +15,17 @@ sudo apt update         # Update
 
 mkdir ~/tmp             # For any installation files 
 mkdir ~/Projects
-mkdir ~/Projects/Server # For any Repo's that are used to manage the server
 
 ufw status # Make sure firewall is running
+ufw enable # Start it if not
 ```
 
 ### Common packages
 
 ```sh
 apt install -y make
-apt install -y build-essential
-apt install -y libkrb5-dev
+apt install -y build-essential  # For node-gyp
+apt install -y libkrb5-dev      # For node-gyp
 ```
 
 ### Set up Fail2Ban
@@ -38,7 +38,12 @@ sudo cp /etc/fail2ban/jail.conf /etc/fail2ban/jail.local
 sudo nano /etc/fail2ban/jail.local # Adjust Default ban time etc
 
 # Check
-fail2ban-client status sshd
+fail2ban-client start # Starts the Fail2ban server and jails.
+fail2ban-client reload # Reloads Fail2ban’s configuration files.
+fail2ban-client reload JAIL # Replaces JAIL with the name of a Fail2ban jail; this will reload the jail. eg: fail2ban-client status sshd
+fail2ban-client stop # Terminates the server.
+fail2ban-client status # Will show the status of the server, and enable jails.
+fail2ban-client status JAIL # Will show the status of the jail, including any currently-banned IPs
 ```
 
 ### Set up Git
@@ -59,6 +64,8 @@ After creating, make sure to [add SSH key to GitHub](https://help.github.com/en/
 
 ### Set up Code Server
 
+Make sure your codeserver is never accessible to the internet. It should be blocked in the AWS/Digital Ocean firewall. Only open specific IP addresses.
+
 ```sh
 cd ~/tmp
 ufw allow 8080
@@ -68,12 +75,17 @@ cd code-server2.1523-vsc1.38.1-linux-x86_64/
 PASSWORD=SECUREPASSWORD ./code-server --auth password & ## Run in background, could be improved with systemd
 ```
 
-set up Fail2ban: https://github.com/cdr/code-server/blob/master/doc/examples/fail2ban.conf
+
+Set up Fail2ban: https://github.com/cdr/code-server/blob/master/doc/fail2ban.md
 ```sh
-# cd /etc/fail2ban/filter.d/
-# wget https://raw.githubusercontent.com/cdr/code-server/master/doc/examples/fail2ban.conf
-# fail2ban-client status sshd
+cd /etc/fail2ban/filter.d/
+wget https://raw.githubusercontent.com/cdr/code-server/master/doc/examples/fail2ban.conf -O codeserver.conf
+fail2ban-client status codeserver
+sudo nano /etc/fail2ban/jail.local
 ```
+
+@TODO Add to `sudo nano /etc/fail2ban/jail.local`
+
 
 ### AWS 
 
@@ -149,3 +161,12 @@ source ~/.profile
 npm install -g node-gyp # This is to solve permission errors \
 npm install -g expo-cli # Required for mobile development
 ```
+
+
+### Troubleshooting
+
+**Inotify**
+
+Error: `Failed to add /run/systemd/ask-password to directory watch: No space left on device`.
+
+Cause: Inotify is used to [watch file changes](https://www.linuxjournal.com/article/8478). You can run `cat /proc/sys/fs/inotify/max_user_watches` to see how many watchers the server has configured. If it is around 8000, bump it up to half a million: `echo 'fs.inotify.max_user_watches=524288' | sudo tee -a /proc/sys/fs/inotify/max_user_watches` or just `sudo nano /proc/sys/fs/inotify/max_user_watches` and update to `524288`.
