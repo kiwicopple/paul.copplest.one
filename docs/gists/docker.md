@@ -1,10 +1,21 @@
 ---
 description: Some useful docker commands
 ---
-# Docker
+
+# Docker Cheatsheet
+
+Some useful docker commands
+- [Docker](#docker)
+- [Docker Compose](#docker-compose)
+- [Docker Machine](#docker-machine)
+    - [Create new server](#create-new-server)
+    - [Update](#update)
+    - [See Logs](#see-logs)
+    - [Remove server](#remove-server)
 
 ## Docker
-```bash
+
+```sh
 # Create
 docker build -t appname .
 
@@ -20,7 +31,7 @@ docker stop $(docker ps -a -q)
 # Kill all containers
 docker kill $(docker ps -q)
 
-### Remove all containers
+# Remove all containers
 docker rm $(docker ps -a -q)
 
 # Remove all docker images
@@ -31,17 +42,18 @@ docker exec -it CONTAINER_NAME sh
 ```
 
 ## Docker Compose
-```bash
-## Start
+
+```sh
+# Start
 docker-compose up
 
-## Start detached
+# Start detached
 docker-compose up -d
 
-## List
+# List
 docker-compose ps
 
-## Rebuild
+# Rebuild
 docker-compose up --force-recreate --build
 ```
 
@@ -50,7 +62,7 @@ docker-compose up --force-recreate --build
 
 #### Create new server
 
-```bash
+```sh
 # Override default profile
 AWS_ACCESS_KEY_ID=$(aws --profile PROFILE_NAME configure get aws_access_key_id)
 AWS_SECRET_ACCESS_KEY=$(aws --profile PROFILE_NAME configure get aws_secret_access_key)
@@ -72,7 +84,7 @@ eval "$(docker-machine env -u)" # attach to local again
 
 #### Update
 
-```bash
+```sh
 eval $(docker-machine env machine-name)   # attach to machine
 docker-compose build --no-cache           # deploy on machine
 docker-compose up -d                      # make sure it's up and reloads config
@@ -83,7 +95,7 @@ This will destroy the redis instance: `docker-compose up --force-recreate`
 
 #### See Logs
 
-```bash
+```sh
 eval $(docker-machine env machine-name) # attach to machine
 docker ps # see list of machines
 docker logs __ID__ # see logs
@@ -92,7 +104,7 @@ eval "$(docker-machine env -u)" # attach to local again
 
 #### Remove server
 
-```bash
+```sh
 docker-machine rm machine-name
 ```
 
