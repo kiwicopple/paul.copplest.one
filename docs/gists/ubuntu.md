@@ -47,6 +47,14 @@ fail2ban-client status # Will show the status of the server, and enable jails.
 fail2ban-client status JAIL # Will show the status of the jail, including any currently-banned IPs
 ```
 
+### Firewall
+
+On your cloud provider, remove all internet accesss.
+
+Then add only your own IP address. eg `123.123.123.123/32`
+
+Each time you want to access the computer from a new location you should log in and add your IP address, then remove it when you are done.
+
 ### SSH access
 
 
