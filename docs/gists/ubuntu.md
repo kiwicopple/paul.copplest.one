@@ -47,6 +47,30 @@ fail2ban-client status # Will show the status of the server, and enable jails.
 fail2ban-client status JAIL # Will show the status of the jail, including any currently-banned IPs
 ```
 
+### SSH access
+
+
+1/ Log as root to your Ubuntu server
+
+2/ Use nano to edit: `nano /etc/ssh/sshd_config`
+
+3/ Now go to the very bottom of the file (to the line with PasswordAuthentication) - Change the value next to PasswordAuthentication from no to yes.
+It should now look like this:
+
+```
+# Change to no to disable tunnelled clear text passwords
+PasswordAuthentication yes
+```
+
+4/ Save the file and then run the following command to reload the SSH config: `sudo service sshd reload`
+
+With this done, you can now set up your new SSH key for your LOCAL device.
+To do this, you can run the following from your LOCAL device, not the server:
+
+ssh-copy-id username@droplet.ip
+
+(Make sure to replace username with your username on the droplet and droplet.ip with the full IP address of your droplet)
+
 ### Set up Git
 
 ```sh
