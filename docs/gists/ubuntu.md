@@ -101,17 +101,32 @@ Make sure your codeserver is never accessible to the internet. It should be bloc
 
 ```sh
 cd ~/tmp
-ufw allow 8080
+ufw allow 443
 wget https://github.com/cdr/code-server/releases/download/2.1523-vsc1.38.1/code-server2.1523-vsc1.38.1-linux-x86_64.tar.gz
 tar -xvzf code-server2.1523-vsc1.38.1-linux-x86_64.tar.gz
 cd code-server2.1523-vsc1.38.1-linux-x86_64/
-PASSWORD=SECUREPASSWORD ./code-server --auth password & ## Run in background, could be improved with systemd
 
-lsof -i:8080
-kill $(lsof -t -i:8080)
+lsof -i:443
+kill $(lsof -t -i:443)
 
+# Certbot
+sudo apt-get update
+sudo apt-get install software-properties-common
+sudo add-apt-repository universe
+sudo add-apt-repository ppa:certbot/certbot
+sudo apt-get update
+sudo apt-get install certbot
+
+# First, temporarily disable firewall port 80
+sudo certbot certonly --standalone
+
+## Run in background, could be improved with systemd
+PASSWORD=PASSWORD ./code-server \
+  --auth password \
+  --cert /etc/letsencrypt/live/DOMAIN_NAME/fullchain.pem \
+  --cert-key /etc/letsencrypt/live/DOMAIN_NAME/privkey.pem \
+  --port 443 &
 ```
-
 
 Set up Fail2ban: https://github.com/cdr/code-server/blob/master/doc/fail2ban.md
 ```sh
