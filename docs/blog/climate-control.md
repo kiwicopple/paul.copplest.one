@@ -1,5 +1,6 @@
 ---
 description: Draft.
+draft: true
 ---
 
 # Climate control

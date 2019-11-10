@@ -1,6 +1,6 @@
 <template>
   <section>
-    <page-details v-for="page in pages" :key="page.key" :page="page"/>
+    <page-details v-for="page in pages" :key="page.key" :page="page" />
   </section>
 </template>
 <script>
@@ -14,7 +14,13 @@ export default {
       return this.$site.pages
         .filter(p => p.path && p.path.startsWith(path) && p.path !== path)
         .filter(p => !p.frontmatter || (p.frontmatter && p.frontmatter.draft != true))
-        .sort((a, b) => a.frontmatter.date < b.frontmatter.date)
+        .sort((a, b) => {
+          try {
+            return a.frontmatter.date < b.frontmatter.date
+          } catch (error) {
+            return false
+          }
+        })
     },
   },
 }

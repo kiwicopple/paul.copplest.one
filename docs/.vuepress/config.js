@@ -16,6 +16,7 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
+        'do-nothing',
         'agile',
         'design',
         'how-to-learn',
