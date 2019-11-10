@@ -39,6 +39,8 @@ When the problem is important enough, you will *know*. They will call you. They 
 
 If has gotten to that stage the requestor knows in the back of their head that there isn't anything that they can try. They have tried everything themselves, they are stuck, and it's a problem that actually needs solving.
 
+Most of the time it won't even get to this stage. Perhaps the problems solve themselves, perhaps the requestor realises they weren't really problems to begin with. 
+
 **Do less.**
 
 Make sure you cut out the signal from the noise. Sometimes the best course of action is no action at all.
