@@ -37,7 +37,7 @@ At some point we realise that we aren't paid to be psychologists, we are paid to
 
 When the problem is important enough, you will *know*. They will call you. They won't start a message with a simple "hey {developer}". 
 
-In these times they know in the back of their head that there isn't anything that they can try. They have tried everything themselves, they are stuck, and it's a problem that actually needs solving.
+If has gotten to that stage the requestor knows in the back of their head that there isn't anything that they can try. They have tried everything themselves, they are stuck, and it's a problem that actually needs solving.
 
 **Do less.**
 
