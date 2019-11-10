@@ -51,7 +51,14 @@ Before outlining a list of tools that you can use, it might be worthwhile knowin
 
 In the not-so-distant past, the term Waterfall was ubiquitous with Project Managers. Quite simply it outlined the phases which a technical project would move through: 
 
-`Requirements -> Design -> Develop -> Test -> Deploy -> Maintain`
+```
+Gather all requirements -> 
+Design the entire system -> 
+Develop the entire system -> 
+Test everything and patch any bugs -> 
+Deploy everything in one go -> 
+Maintain (sometimes)
+```
 
 It looks very similar to current tech projects, except that it was done in a "monolithic" approach. No matter how big the project was, and how long it was expected to take, the project would be shoved through this pipeline, and once a transition from one stage to another was made there was no going back.
 
