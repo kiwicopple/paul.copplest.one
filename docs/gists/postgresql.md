@@ -32,3 +32,12 @@ COMMENT ON TABLE public.table_name IS 'Some table name.';
 COMMENT ON COLUMN public.table_name.inserted_at IS 'UTC timestamp of when the record was inserted.';
 COMMENT ON COLUMN public.table_name.updated_at IS 'UTC timestamp of when the record was last updated.';
 ```
+
+
+## Utilities
+
+- [Updating tables with dependent views](https://stackoverflow.com/questions/17989355/alter-column-ignoring-dependent-views). Usage exanple:
+    ```sql
+    select deps_save_and_drop_dependencies('public', 'users');
+    select deps_restore_dependencies('public', 'users');
+    ```
