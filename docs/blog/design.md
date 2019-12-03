@@ -27,7 +27,7 @@ As with anything, being "20% good" at design will get you 80% of the way there. 
 - [Branding](#branding)
 - [Using a CSS framework](#using-a-css-framework)
 - [Design tools](#design-tools)
-- [Other reading and quick tips](#other-reading-and-quick-tips)
+- [More reading, tips, and tools](#more-reading-tips-and-tools)
 
 ## Building a design-y sense
 
@@ -105,6 +105,7 @@ Here are the best (free) resources that I commonly use
 - [flaticon.com](https://www.flaticon.com/)
 - [thenounproject.com](https://thenounproject.com/)
 - [fontawesome.com](https://fontawesome.com)
+- [icons8.com/line-awesome](https://icons8.com/line-awesome)
 - [ikonate.com](https://www.ikonate.com)
 
 ## Images and Illustrations
