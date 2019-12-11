@@ -7,18 +7,13 @@ description: Intro to Agile
 
 > Status: DRAFT
 
-Ask 3 developers "what is agile" and you'll probably get four different answers. The reason why is because there is no "definitive agile", and the [Agile Manaifesto](https://agilemanifesto.org) which started all things agile is extremely loose (on purpose!). 
+Ask 3 developers "what is agile" and you'll probably get four different answers. The reason why is because there is no "definitive agile", and the [Agile Manifesto](https://agilemanifesto.org) which started all things agile is extremely loose (on purpose!). 
 
 This article will give you a brief background on agile, but more importantly how to apply it to your own situation or team.
 
 **Contents**
 
-- [How to do Agile](#how-to-do-agile)
-- [A brief history of Technical Project Delivery](#a-brief-history-of-technical-project-delivery)
-- [The agile manifesto](#the-agile-manifesto)
-- [Common methodologies](#common-methodologies)
-- [Agile toolset](#agile-toolset)
-- [Interesting implementations](#interesting-implementations)
+[[toc]]
 
 ## How to do Agile
 

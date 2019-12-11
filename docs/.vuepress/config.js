@@ -24,7 +24,6 @@ module.exports = {
         'augmented-reality',
         'email-to-a-friend',
         'admirable-startups',
-        'desire',
         'dividing-equity',
       ],
       '/gists/': [
@@ -73,7 +72,13 @@ module.exports = {
         {
           title: 'Philosophy',
           collapsable: false,
-          children: ['consciousness', 'ethics', 'buddhism', 'stoicism'],
+          children: [
+            'consciousness', 
+            'ethics', 
+            'buddhism', 
+            'stoicism',
+            'philosophy/desire',
+          ],
         },
         {
           title: 'Physics',

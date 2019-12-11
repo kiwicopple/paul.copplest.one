@@ -5,7 +5,7 @@ description: Useful adjustments to Google Analytics
 
 Some useful adjustments for the default Google Analytics code snippet.
 
-```
+```js
 ga('create', 'UA-XXXX-Y', {
     'siteSpeedSampleRate': 100, // Track site speed for all visitors (usually only 1%)
     'userId': 'as8eknlll', // the ID of the user in your own application
@@ -14,7 +14,7 @@ ga('create', 'UA-XXXX-Y', {
 
 OR 
 
-```
+```js
 gtag('config', 'UA-XXXXXXX-Y', {'site_speed_sample_rate': 100});
 ```
 

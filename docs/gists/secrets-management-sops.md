@@ -2,9 +2,9 @@
 description: How to use Mozilla SOPS for encrypting sensitive files in your git repository.
 ---
 
-# Secrets management
+# Secrets management - SOPS
 
-Want to store your sensitive secrets in your git repository? Use Mozilla SOPS.
+Want to store your sensitive secrets in your git repository? Use Mozilla [SOPS](https://github.com/mozilla/sops).
 
 This article will explain how to use Mozilla SOPS for encrypting sensitive files in your git repository.
 
