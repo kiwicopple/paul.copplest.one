@@ -2,14 +2,12 @@ module.exports = {
   title: 'Paul Copplestone',
   description: 'Techie and entrepreneur',
   dest: 'public',
-  plugins: [
-    '@vuepress/last-updated',
-    ['@vuepress/google-analytics', { ga: 'UA-93673521-3' }]
-  ],
+  plugins: ['@vuepress/last-updated', ['@vuepress/google-analytics', { ga: 'UA-93673521-3' }]],
   themeConfig: {
     nav: [
-      { text: 'Knowledge', link: '/knowledge/' },
       { text: 'Blog', link: '/blog/' },
+      { text: 'Principles', link: '/principles/' },
+      { text: 'Knowledge', link: '/knowledge/' },
       { text: 'Gists', link: '/gists/' },
       { text: 'Projects', link: '/projects/' },
       { text: 'Subscribe', link: 'http://eepurl.com/dE68jj' },
@@ -40,6 +38,13 @@ module.exports = {
         'beanstalk-swap',
         'kill-processes',
       ],
+      '/principles/': [
+        {
+          title: 'Tech',
+          collapsable: false,
+          children: ['tech/design'],
+        },
+      ],
       '/knowledge/': [
         {
           title: 'Agriculture',
@@ -64,21 +69,12 @@ module.exports = {
         {
           title: 'People',
           collapsable: false,
-          children: [
-            'people/isaac-newton',
-            'people/marcus-aurelius',
-          ],
+          children: ['people/isaac-newton', 'people/marcus-aurelius'],
         },
         {
           title: 'Philosophy',
           collapsable: false,
-          children: [
-            'consciousness', 
-            'ethics', 
-            'buddhism', 
-            'stoicism',
-            'philosophy/desire',
-          ],
+          children: ['consciousness', 'ethics', 'buddhism', 'stoicism', 'philosophy/desire'],
         },
         {
           title: 'Physics',
@@ -93,11 +89,7 @@ module.exports = {
         {
           title: 'Zoology',
           collapsable: false,
-          children: [
-            'zoology/octopus',
-            'zoology/rats',
-            'zoology/ravens',
-          ],
+          children: ['zoology/octopus', 'zoology/rats', 'zoology/ravens'],
         },
       ],
       '/projects/': [
@@ -109,7 +101,15 @@ module.exports = {
         {
           title: 'Side Projects',
           collapsable: false,
-          children: ['quick-font', 'sheetmetal', 'pollygot', 'mentalmodels', 'buymeth', 'driffft', 'braineebox'],
+          children: [
+            'quick-font',
+            'sheetmetal',
+            'pollygot',
+            'mentalmodels',
+            'buymeth',
+            'driffft',
+            'braineebox',
+          ],
         },
       ],
     },

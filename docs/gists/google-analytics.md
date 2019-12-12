@@ -1,6 +1,7 @@
 ---
 description: Useful adjustments to Google Analytics
 ---
+
 # Useful adjustments to GA
 
 Some useful adjustments for the default Google Analytics code snippet.
