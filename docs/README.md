@@ -22,4 +22,4 @@ Find me online:
 
 - [LinkedIn](https://www.linkedin.com/in/paulcopplestone/)
 - [GitHub](https://github.com/kiwicopple)
-- [GitLab](https://gitlab.com/kiwicopple)
+- [GitLab](https://gitlab.com/kiwicopple) 

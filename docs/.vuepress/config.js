@@ -25,6 +25,7 @@ module.exports = {
         'dividing-equity',
       ],
       '/gists/': [
+        'awesome-list',
         'secrets-management-sops',
         'vscode-snippets',
         'bash-profile',
