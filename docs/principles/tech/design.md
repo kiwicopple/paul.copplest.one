@@ -11,7 +11,7 @@ description: Architechture principles
 
 ## Code must be easy to change
 
- Being easy to change is the most important property of a codebase as it is the basis for everything else we want to do with the code. Code that is easy to change can adapt to new technical requirements or business goals with ease. Code that can’t change is doomed to stagnate, become technically irrelevant and then die (when it is easier to throw everything away and start from scratch than to keep modifying it).
+Being easy to change is the most important property of a codebase as it is the basis for everything else we want to do with the code. Code that is easy to change can adapt to new technical requirements or business goals with ease. Code that can’t change is doomed to stagnate, become technically irrelevant and then die (when it is easier to throw everything away and start from scratch than to keep modifying it).
 
 ## Less is more
 

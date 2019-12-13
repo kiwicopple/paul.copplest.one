@@ -41,6 +41,11 @@ module.exports = {
       ],
       '/principles/': [
         {
+          title: 'Life',
+          collapsable: false,
+          children: ['life/decisions'],
+        },
+        {
           title: 'Tech',
           collapsable: false,
           children: ['tech/design'],
