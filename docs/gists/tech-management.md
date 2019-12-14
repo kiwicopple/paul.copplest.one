@@ -2,6 +2,7 @@
 
 ## Hiring
 
+- [Hire managers of one](https://signalvnoise.com/posts/1430-hire-managers-of-one)
 - [Eric's Guide to Hiring Software Developers](https://news.ycombinator.com/item?id=20909461)
 - [Favorite Interview Questions](https://news.ycombinator.com/item?id=20897510)
 - [Culture Fit Interview Questions](https://news.ycombinator.com/item?id=21095438)
