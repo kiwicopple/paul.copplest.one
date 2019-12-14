@@ -1,13 +1,9 @@
 
 
-### Paul Copplestone
-----
-
-Techie and Entrepreneur.
-
-### About
+<p style="font-size: 1.1rem; margin: 60px 0;">Full Stack Developer and Entrepreneur.</p>
 
 ----
+
 
 [Businesses and Projects](/projects/) <br />Projects that I am (or was) involved with.
 
@@ -19,12 +15,4 @@ Techie and Entrepreneur.
 
 [Gists](/gists/) <br />A list of code snippets and tips that I use across my projects, servers, or dev machines.
 
-### Contact
-
-[Subscribe to updates](http://eepurl.com/dE68jj)
-
-Find me online:
-
-- [LinkedIn](https://www.linkedin.com/in/paulcopplestone/)
-- [GitHub](https://github.com/kiwicopple)
-- [GitLab](https://gitlab.com/kiwicopple) 
+**Find me online** <br />[LinkedIn](https://www.linkedin.com/in/paulcopplestone/) | [GitHub](https://github.com/kiwicopple) | [GitLab](https://gitlab.com/kiwicopple) 
