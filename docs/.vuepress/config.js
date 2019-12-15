@@ -53,7 +53,7 @@ module.exports = {
         {
           title: 'Startups',
           collapsable: false,
-          children: ['startups/seed'],
+          children: ['startups/seed', 'startups/growth', 'startups/mature'],
         },
       ],
       '/knowledge/': [
