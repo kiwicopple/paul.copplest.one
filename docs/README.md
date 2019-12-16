@@ -9,7 +9,7 @@
 
 [Blog](/blog/) <br />Off topic posts or opinions.
 
-[Principles](/principles/) <br />Inspired by Ray Dalio's Book "Principles" - Principles are ways of successfully dealing with reality to get what you want out of life.
+[Principles](/principles/) <br />Inspired by Ray Dalio's Book "Principles". Principles are ways of successfully dealing with reality to get what you want out of life.
 
 [Knowledge](/knowledge/) <br />"Everything I know". A wiki of personal knowledge that I update from time to time.
 
