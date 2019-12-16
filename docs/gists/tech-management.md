@@ -2,6 +2,7 @@
 
 ## Hiring
 
+- [Hire managers of one](https://signalvnoise.com/posts/1430-hire-managers-of-one)
 - [Eric's Guide to Hiring Software Developers](https://news.ycombinator.com/item?id=20909461)
 - [Favorite Interview Questions](https://news.ycombinator.com/item?id=20897510)
 - [Culture Fit Interview Questions](https://news.ycombinator.com/item?id=21095438)
@@ -9,6 +10,7 @@
 **Remote**
 
 - Do not hire unless they are a Manager of One.
+- [Good Remote Work Literature?](https://news.ycombinator.com/item?id=20914236)
 
 ## One on ones
 
@@ -18,6 +20,8 @@
 
 - [Track and Facilitate Your Engineers’ Flow States](https://firstround.com/review/track-and-facilitate-your-engineers-flow-states-in-this-simple-way/)
 - [Square’s Growth Framework for Engineers and Engineering Managers](https://news.ycombinator.com/item?id=20530046)
+- [Mozilla Career Track](https://mobile.twitter.com/Gankra_/status/1046438955439271936/photo/1)
+- [A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)
 
 ## Exit interviews
 

@@ -50,6 +50,11 @@ module.exports = {
           collapsable: false,
           children: ['tech/design'],
         },
+        {
+          title: 'Startups',
+          collapsable: false,
+          children: ['startups/seed', 'startups/growth', 'startups/mature'],
+        },
       ],
       '/knowledge/': [
         {
@@ -70,7 +75,7 @@ module.exports = {
         {
           title: 'Miscellaneous',
           collapsable: false,
-          children: ['chess', 'friendship', 'meditation'],
+          children: ['chess', 'friendship', 'trees', 'mathematics', 'meditation'],
         },
         {
           title: 'People',
@@ -95,7 +100,13 @@ module.exports = {
         {
           title: 'Zoology',
           collapsable: false,
-          children: ['zoology/octopus', 'zoology/rats', 'zoology/ravens'],
+          children: [
+            'zoology/octopus',
+            'zoology/rats',
+            'zoology/ravens',
+            'zoology/shrimp',
+            'zoology/tortoises',
+          ],
         },
       ],
       '/projects/': [
