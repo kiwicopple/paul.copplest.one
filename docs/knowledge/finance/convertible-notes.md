@@ -4,13 +4,15 @@ Convertible notes are very common for angel to seed stage companies.
 
 ## Possible criteria
 
-**Valuation Cap**
-
-TLDR: A lower valuation cap is better for the investor. 
-
 **Discount**
 
 TLDR: A higher discount is better for the investor.
+
+
+**Valuation Cap**
+
+TLDR: A lower valuation cap is better for the investor. The size of the benefit depends on the valuation of the business in the next round. 
+
 
 
 ## Example scenarios
