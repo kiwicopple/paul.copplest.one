@@ -82,6 +82,11 @@ module.exports = {
           children: ['pyrolysis'],
         },
         {
+          title: 'Finance',
+          collapsable: false,
+          children: ['convertible-note'],
+        },
+        {
           title: 'Miscellaneous',
           collapsable: false,
           children: ['chess', 'friendship', 'trees', 'mathematics', 'meditation'],
