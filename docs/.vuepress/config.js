@@ -84,7 +84,7 @@ module.exports = {
         {
           title: 'Finance',
           collapsable: false,
-          children: ['convertible-note'],
+          children: ['finance/convertible-note'],
         },
         {
           title: 'Miscellaneous',
