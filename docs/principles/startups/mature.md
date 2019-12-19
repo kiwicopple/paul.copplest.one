@@ -23,3 +23,8 @@ Options for raising:
 - issuing debt
 - raising equity
 
+
+
+## Resources
+
+- [Berkshire Hathaway: An Owner's Manual](https://berkshirehathaway.com/ownman.pdf)
