@@ -36,11 +36,11 @@ Now, I know that one day of boomerang throwing does not qualify as full mastery 
 
 Analysing the steps I used to achieve the results that I did on that day, I can find the following pattern:
 
-### Step 1 - Reaffirm the Goal
+### Step 1 - Think about the goal from first principles
 
 At first I blindly tried throwing the boomerang as my friend had taught me. I unconsciously believed that "throwing the boomerang" was the goal; it wasn't.
 
-The goal was to _learn_ how to the boomerang functioned. What if I was trying to hit a target downwind from me, at a 70-degree offset? I needed to learn how the boomerang behaved at all angles, with all types of wind.
+The goal was to learn _how the boomerang functioned_. What if I was trying to hit a target downwind from me, at a 70-degree offset? I needed to learn how the boomerang behaved at all angles, with all types of wind.
 
 When you are performing an activity, decide if you are wanting to learn or just have fun. Once you decide to learn you can operate with intention and methodology.
 

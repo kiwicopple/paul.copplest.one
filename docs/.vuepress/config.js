@@ -115,6 +115,7 @@ module.exports = {
           title: 'Zoology',
           collapsable: false,
           children: [
+            'zoology/bees',
             'zoology/dolphins',
             'zoology/octopus',
             'zoology/rats',
