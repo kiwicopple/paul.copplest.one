@@ -6,12 +6,6 @@ description: A list of awesome tools and resources
 
 A list of awesome tools and resources.
 
-**Contents**
-
-[[toc]]
-
-## Tools
-
 | Name                                                  |     OSS      |         Tags          | Discussion / Comments                                                                                            |
 | :---------------------------------------------------- | :----------: | :-------------------: | :--------------------------------------------------------------------------------------------------------------- |
 | [Huggin](https://github.com/huginn/huginn)            |  :thumbsup:  |      Automation       | Create agents that monitor and act on your behalf - [HN](https://news.ycombinator.com/item?id=21772610)          |
@@ -33,16 +27,3 @@ A list of awesome tools and resources.
 | [CodeServer](https://github.com/cdr/code-server)      |  :thumbsup:  |         Tools         | Run VS Code on a remote server.  - [HN](https://hn.premii.com/#/comments/19393972)                               |
 | [Tailwind](A Utility-First CSS Framework)             |  :thumbsup:  |      Design, CSS      | A Utility-First CSS Framework.  - [HN](https://hn.premii.com/#/comments/18084013)                                |
 
-
-## Resources
-
-### Javascript
-
-See also: [React](#react)
-
-
-### React 
-
-**Articles**
-
-- [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks) | [Discussion](https://news.ycombinator.com/item?id=21772038)

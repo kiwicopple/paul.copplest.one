@@ -9,9 +9,9 @@
 
 [Blog](/blog/) <br />Off topic posts or opinions.
 
-[Principles](/principles/) <br />Inspired by Ray Dalio's Book "Principles" - Principles are ways of successfully dealing with reality to get what you want out of life.
+[Principles](/principles/) <br />Inspired by Ray Dalio's Book "Principles". Principles are ways of successfully dealing with reality to get what you want out of life.
 
-[Knowledge](/knowledge/) <br />"Everything I know". A wiki of personal knowledge that I update from time to time.
+[Knowledge](/knowledge/) <br />A repository of personal knowledge that I update from time to time. These small changes are like compound interest - I expect them to be useful and accurate after an entire lifetime of updates.
 
 [Gists](/gists/) <br />A list of code snippets and tips that I use across my projects, servers, or dev machines.
 

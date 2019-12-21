@@ -3,6 +3,15 @@ module.exports = {
   description: 'Techie and entrepreneur',
   dest: 'public',
   plugins: ['@vuepress/last-updated', ['@vuepress/google-analytics', { ga: 'UA-93673521-3' }]],
+  // head: [
+  //   [
+  //     'link',
+  //     {
+  //       rel: 'stylesheet',
+  //       href: 'https://gitcdn.xyz/repo/kiwicopple/assets/master/public/css/circular.css',
+  //     },
+  //   ],
+  // ],
   themeConfig: {
     nav: [
       { text: 'Blog', link: '/blog/' },
@@ -71,6 +80,11 @@ module.exports = {
           title: 'Environment',
           collapsable: false,
           children: ['pyrolysis'],
+        },
+        {
+          title: 'Finance',
+          collapsable: false,
+          children: ['finance/convertible-notes'],
         },
         {
           title: 'Miscellaneous',

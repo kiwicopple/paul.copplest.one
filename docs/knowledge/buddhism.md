@@ -86,3 +86,8 @@ Eightfold path
   - Right Effort
   - Right Mindfulness
   - Right Concentration
+
+
+## Resources
+
+- [Who was the buddha?](https://news.ycombinator.com/item?id=21828888)
