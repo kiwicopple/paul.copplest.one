@@ -6,14 +6,16 @@
   "author": "",
   "license": "MIT",
   "scripts": {
-    "start": "vuepress dev docs",
-    "dev": "vuepress dev docs",
     "build": "vuepress build docs",
+    "deploy:ipfs": "npm run build && ipd public/",
+    "dev": "vuepress dev docs",
+    "start": "vuepress dev docs",
     "theme:eject": "vuepress eject _tmp"
   },
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.0.0-alpha.44",
-    "vuepress": "^1.0.0-alpha.47"
+    "ipfs-deploy": "^7.13.0",
+    "@vuepress/plugin-google-analytics": "^1.2.0",
+    "vuepress": "^1.2.0"
   },
   "dependencies": {
     "mermaid": "^8.2.6"
