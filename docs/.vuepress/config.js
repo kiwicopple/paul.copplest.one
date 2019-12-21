@@ -140,7 +140,6 @@ module.exports = {
             'pollygot',
             'mentalmodels',
             'buymeth',
-            'driffft',
             'braineebox',
           ],
         },
