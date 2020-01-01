@@ -89,7 +89,7 @@ module.exports = {
         {
           title: 'Miscellaneous',
           collapsable: false,
-          children: ['chess', 'friendship', 'trees', 'mathematics', 'meditation'],
+          children: ['chess', 'climbing', 'friendship', 'trees', 'mathematics', 'meditation'],
         },
         {
           title: 'People',
@@ -115,6 +115,8 @@ module.exports = {
           title: 'Zoology',
           collapsable: false,
           children: [
+            'zoology/bees',
+            'zoology/dolphins',
             'zoology/octopus',
             'zoology/rats',
             'zoology/ravens',
@@ -138,7 +140,6 @@ module.exports = {
             'pollygot',
             'mentalmodels',
             'buymeth',
-            'driffft',
             'braineebox',
           ],
         },

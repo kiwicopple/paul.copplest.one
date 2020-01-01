@@ -20,7 +20,5 @@ sidebar: true
 
 [Buy Meth](/projects/buymeth.html)
 
-[Driffft](/projects/driffft.html)
-
 [BraineeBox](/projects/braineebox.html)
 
