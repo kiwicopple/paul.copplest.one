@@ -18,7 +18,6 @@ module.exports = {
       { text: 'Principles', link: '/principles/' },
       { text: 'Knowledge', link: '/knowledge/' },
       { text: 'Gists', link: '/gists/' },
-      { text: 'Projects', link: '/projects/' },
       { text: 'Subscribe', link: 'http://eepurl.com/dE68jj' },
     ],
     sidebar: {
@@ -122,25 +121,6 @@ module.exports = {
             'zoology/ravens',
             'zoology/shrimp',
             'zoology/tortoises',
-          ],
-        },
-      ],
-      '/projects/': [
-        {
-          title: 'Businesses',
-          collapsable: false,
-          children: ['nimbus-for-work', 'servishero'],
-        },
-        {
-          title: 'Side Projects',
-          collapsable: false,
-          children: [
-            'quick-font',
-            'sheetmetal',
-            'pollygot',
-            'mentalmodels',
-            'buymeth',
-            'braineebox',
           ],
         },
       ],

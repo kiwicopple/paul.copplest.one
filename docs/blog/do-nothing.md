@@ -12,7 +12,7 @@ I had a colleague send me a message the other day:
 
 >  12:13pm colleague: hi copple
 
-Me: *spend 2 minutes considering how I can politely suggest a better way of communicating asynchonously.*
+Me: *spend 2 minutes pondering how to politely suggest a better method of asynchonous communication.*
 
 > 12:15pm me: hi, how can I help?
 
@@ -27,19 +27,13 @@ Me: *spend 2 minutes considering how I can politely suggest a better way of comm
 
 **Why you should do nothing.**
 
-I spent my early career as a sysadmin in a company of about 300 people. These interactions where absurdly frequent. Being an young upstart I would jump on them straight away.
+I spent my early career as a sysadmin in a company of about 300 people. These interactions where frequent. Being an young upstart I would jump on them straight away.
 
-Often I would spend hours solving the problem, prioritising it above my own work, only to find it wasn't even important to begin with.
+Often I would spend hours solving the problem, prioritising it above what I was previously doing, only to find it wasn't important to begin with.
 
-The thing about accepting these requests is that it removes a burden from the requestor. They have some stress, and they need someone to offload that stress on. This has nothing to do with the actual problem and everything to do with the person's peace of mind.
+The reason people make these requests is that it removes a burden from the requestor. They have some stress, and they need someone to offload that stress on. This has nothing to do with the actual problem and everything to do with the person's peace of mind.
 
 At some point we realise that we aren't paid to be psychologists, we are paid to solve problems in the order of most important first. 
-
-When the problem is important enough, you will *know*. They will call you. They won't start a message with a simple "hey {developer}". 
-
-If has gotten to that stage the requestor knows in the back of their head that there isn't anything that they can try. They have tried everything themselves, they are stuck, and it's a problem that actually needs solving.
-
-Most of the time it won't even get to this stage. Perhaps the problems solve themselves, perhaps the requestor realises they weren't really problems to begin with. 
 
 **Do less.**
 
