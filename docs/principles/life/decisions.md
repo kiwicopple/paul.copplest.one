@@ -27,4 +27,4 @@ Make decisions based on the least possible regret.
 
 ## Fascination / Curiosity
 
-Gives you enjoyment of the tasks that your are performing
+Gives you enjoyment of the tasks that your are performing. Don't seek the enjoyment outright, focus on the task.
