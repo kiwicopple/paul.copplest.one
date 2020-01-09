@@ -24,3 +24,7 @@ Make decisions based on the least possible regret.
 ## Always be wholesome
 
 @todo
+
+## Fascination / Curiosity
+
+Gives you enjoyment of the tasks that your are performing
