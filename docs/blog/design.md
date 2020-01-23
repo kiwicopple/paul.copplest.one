@@ -79,7 +79,7 @@ For everything you need to know about colors, I highly recommend reading [Buildi
 To get started it's good to know that
 
 - <span style="background-color:#eee; padding:3px;border-radius:3px;">this is sans-serif</span>
-- <span style="font-family:serif;background-color:#eee; padding:3px;border-radius:3px;">this is sans-serif</span>
+- <span style="font-family:serif;background-color:#eee; padding:3px;border-radius:3px;">this is serif</span>
 - <span style="font-family:monospace;background-color:#eee; padding:3px;border-radius:3px;">this is monospace</span>
 
 There are three guidelines I could give here:
