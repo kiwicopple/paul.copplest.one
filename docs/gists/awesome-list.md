@@ -29,4 +29,6 @@ A list of awesome tools and resources.
 | [1MB](https://1mb.site/)                                    | :thumbsdown: |    hosting, static    | Free static website hosting and database  - [HN](https://news.ycombinator.com/item?id=19772097)                  |
 | [Fast](https://fast.io/)                                    | :thumbsdown: |    hosting, static    | Hosting for Files, Images, Apps, etc                                                                             |
 | [ipfs-deploy](https://github.com/ipfs-shipyard/ipfs-deploy) |  :thumbsup:  |    hosting, static    | Deploy Static Websites to IPFS - [HN](https://news.ycombinator.com/item?id=19801546)                             |
+| [Tettra](https://tettra.com/product/)                       | :thumbsdown: |       Wiki, KB        | Knowledge base for teams                                                                                         |
+| [eSQLate](https://github.com/forbesmyester/esqlate)                       | :thumbsdown: |       Admin        | Build minimum viable admin panels with just SQL - [HN](https://news.ycombinator.com/item?id=22073037)                                                                                         |
 
