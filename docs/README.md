@@ -37,5 +37,5 @@ Mental models are unchanging fundamentals for a particular subject, popularised 
 [Quick, Font!](https://quickfont.xyz)<br />
 Some good fonts for prototyping or snazzing up an prototype (without having to go through the pain of downloading & installing).
 
-[Buy Meth](https://sheetmetal.io)<br />
+[Buy Meth](https://buymeth.com/)<br />
 Buy [M]isleading [E]ncrypted [Th]umbnails. A cryptographic marketplace built for an Ethereum Hackathon.
