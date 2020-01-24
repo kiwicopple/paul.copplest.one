@@ -2,7 +2,11 @@ module.exports = {
   title: 'Paul Copplestone',
   description: 'Techie and entrepreneur',
   dest: 'public',
-  plugins: ['@vuepress/last-updated', ['@vuepress/google-analytics', { ga: 'UA-93673521-3' }]],
+  plugins: [
+    '@vuepress/last-updated',
+    ['@vuepress/google-analytics', { ga: 'UA-93673521-3' }],
+    ['@vuepress/search', { searchHotkeys: [] }],
+  ],
   // head: [
   //   [
   //     'link',
