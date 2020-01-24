@@ -5,6 +5,8 @@ description: Design tips for developers
 
 # Design tips for developers
 
+> <small>For the HN crowd -<br />For context: I am a developer, not a designer, so these are the tips that guide me when I'm starting a new project. It isn't intended to be a definitive guide to design.</small>
+
 Developers aren't well-known for their design skills. I suspect that poor design/UX in open source projects is the primary reason they aren't more successful. Usually the projects are technically brilliant - fast, well tested, and well maintained. But without a loveable interface users won't get hooked.
 
 Perhaps you're the type of developer who is put off by any blog post with "Design" in the title. If you are, then I will say this up-front: design is about doing less rather than doing more. I don't advocate over-design, and I recommend erring on the side of simplicity. This blog post will only elaborate this point.
@@ -167,6 +169,7 @@ I'm really a fan-boy of Figma, but for good reason. I've tried a lot of other to
 
 ## More reading, tips, and tools
 
+- [The HN discussion of this very post](https://news.ycombinator.com/item?id=22126731). A lot of great advice in the comments.  
 - [Julian Landing page](https://www.julian.com/guide/growth/landing-pages): This is the best guide I know for building a landing page. One additional tip: if you are using a Hero on your landing page, make it only `70vh` and have a "More" button below it. Too many websites have a `100vh` hero, and it isn't immediately apparent to the user that they can scroll down.
 - [Design Tools for Everything](https://github.com/LisaDziuba/Awesome-Design-Tools): A huge list of tools. I personally find these lists a bit daunting but it does have something for everybody if you can be bothered combing through it.
 - You may occasionally want to implement some CSS layouts outside of the grid systems provided by Bulma or Tailwind. A couple of resources for learning are [testdriven.io/blog/css-grid](https://testdriven.io/blog/css-grid) and [every-layout.dev](https://every-layout.dev)
