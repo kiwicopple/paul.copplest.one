@@ -106,6 +106,11 @@ module.exports = {
           children: ['time'],
         },
         {
+          title: 'Programming',
+          collapsable: false,
+          children: ['programming/html-cheatsheet'],
+        },
+        {
           title: 'Sociology',
           collapsable: false,
           children: ['mimetic-theory'],
