@@ -85,11 +85,6 @@ module.exports = {
           children: ['pyrolysis'],
         },
         {
-          title: 'Finance',
-          collapsable: false,
-          children: ['finance/convertible-notes'],
-        },
-        {
           title: 'Miscellaneous',
           collapsable: false,
           children: ['chess', 'climbing', 'friendship', 'trees', 'mathematics', 'meditation'],
@@ -118,6 +113,11 @@ module.exports = {
           title: 'Sociology',
           collapsable: false,
           children: ['mimetic-theory'],
+        },
+        {
+          title: 'Startups',
+          collapsable: false,
+          children: ['startups/convertible-notes'],
         },
         {
           title: 'Zoology',
