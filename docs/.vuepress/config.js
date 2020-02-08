@@ -117,7 +117,7 @@ module.exports = {
         {
           title: 'Startups',
           collapsable: false,
-          children: ['startups/convertible-notes'],
+          children: ['startups/convertible-notes', 'startups/seo', ],
         },
         {
           title: 'Zoology',
