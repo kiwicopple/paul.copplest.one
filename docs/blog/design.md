@@ -109,6 +109,7 @@ Here are the best (free) resources that I commonly use
 - [fontawesome.com](https://fontawesome.com)
 - [icons8.com/line-awesome](https://icons8.com/line-awesome)
 - [ikonate.com](https://www.ikonate.com)
+- [icomoon.io](https://icomoon.io/)
 
 ## Images and Illustrations
 

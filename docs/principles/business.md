@@ -114,7 +114,7 @@ Options for raising:
 
 - Divest unprofitable initiatives
 - Buy back shares when you are undervalued
-- Don't pay a divident unless you can't
+- Don't pay dividends if you can earn a better return for your shareholders
 
 
 ### Mental models

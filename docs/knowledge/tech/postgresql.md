@@ -41,3 +41,11 @@ COMMENT ON COLUMN public.table_name.updated_at IS 'UTC timestamp of when the rec
     select deps_save_and_drop_dependencies('public', 'users');
     select deps_restore_dependencies('public', 'users');
     ```
+
+## Resources
+
+- [Designing the most performant Row Level Security schema](https://news.ycombinator.com/item?id=22331188)
+- [Postgresqlco.nf: PostgreSQL Configuration for Humans](https://news.ycombinator.com/item?id=22139975)
+- [Pgsh – branch Postgres like Git](https://hn.premii.com/#/comments/21642340)
+- [Postgres Health Check and SQL Performance Analysis](https://news.ycombinator.com/item?id=21464272)
+- [pg_flame – flamegraph visualizations of PostgreSQL query plans](https://news.ycombinator.com/item?id=21371642)

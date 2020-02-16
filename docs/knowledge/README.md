@@ -4,7 +4,7 @@ sidebar: true
 
 # Knowledge
 
-This is a collection of things I have learned or am in the process of learning. Maybe you will find it useful. 
+My own personal zettlekasten - a repository of personal knowledge that I update from time to time. These small changes are like compound interest. I only expect them to be useful and accurate after a lifetime of updates.
 
 Use the sidebar to get started.
 

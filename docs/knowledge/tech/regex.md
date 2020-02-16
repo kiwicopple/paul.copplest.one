@@ -29,3 +29,7 @@ MasterCard credit card numbers:   ^(5[1–5][0–9]{14})*$
 Hashtags: Including hashtags with preceding text (abc123#xyz456) or containing white spaces within square brackets (#[foo bar]) : \S*#(?:\[[^\]]+\]|\S+)
 @mentions: \B@ [a-z0–9_-]+
 ```
+
+## Resources
+
+- [Regex cheatsheet](https://news.ycombinator.com/item?id=22200584)

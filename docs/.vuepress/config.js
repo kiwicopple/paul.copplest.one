@@ -21,7 +21,6 @@ module.exports = {
       { text: 'Blog', link: '/blog/' },
       { text: 'Principles', link: '/principles/' },
       { text: 'Knowledge', link: '/knowledge/' },
-      { text: 'Gists', link: '/gists/' },
       { text: 'Subscribe', link: 'http://eepurl.com/dE68jj' },
     ],
     sidebar: {
@@ -38,9 +37,7 @@ module.exports = {
       ],
       '/gists/': [
         'vscode-snippets',
-        'bash-profile',
         'ecto-phoenix',
-        'beanstalk-swap',
         'kill-processes',
       ],
       '/principles/': ['life', 'business', 'tech'],
@@ -88,21 +85,24 @@ module.exports = {
         {
           title: 'Startups',
           collapsable: false,
-          children: ['startups/convertible-notes', 'startups/tech-management'],
+          children: ['startups/convertible-notes', 'startups/startup-resources', 'startups/tech-management'],
         },
         {
           title: 'Tech',
           collapsable: false,
           children: [
             'tech/awesome-list',
+            'tech/bash-profile',
             'tech/css',
             'tech/debounce-and-throttle',
             'tech/docker',
+            'tech/ecto-phoenix',
             'tech/html-cheatsheet',
             'tech/postgresql',
             'tech/regex',
             'tech/secrets-management-sops',
             'tech/seo',
+            'tech/vscode-snippets',
           ],
         },
         {

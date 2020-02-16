@@ -44,3 +44,4 @@ add :ingredients, :jsonb, default: "[]"
 - [How to generate the trigger string](https://stackoverflow.com/questions/29675347/how-to-create-trigger-for-all-table-in-postgresql)
 - [Creating a PubSub genserver](https://hackernoon.com/get-notified-of-user-signups-and-plan-changes-automatically-using-postgres-phoenix-pubsub-e67d061b04bc)
 - [Figuring out how to broadcast from the Genserver](https://hexdocs.pm/phoenix/Phoenix.Channel.html#module-broadcasting-to-an-external-topic)
+- [Learn X in Y](https://learnxinyminutes.com/docs/elixir/)
