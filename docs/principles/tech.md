@@ -1,19 +1,24 @@
 ---
-date: 2019-12-12
-description: Architechture principles
+description: Tech principles
 ---
 
-# Design
+# Tech
+
+Tech principles
 
 **Contents**
 
 [[toc]]
 
-## Code must be easy to change
+## Design 
+
+### Code must be easy to change
+
+Refactorable > Security > Error free > Performance > Features
 
 Being easy to change is the most important property of a codebase as it is the basis for everything else we want to do with the code. Code that is easy to change can adapt to new technical requirements or business goals with ease. Code that can’t change is doomed to stagnate, become technically irrelevant and then die (when it is easier to throw everything away and start from scratch than to keep modifying it).
 
-## Less is more
+### Less is more
 
 Code is not an asset, it is a liability. The more code you have, the more you have to optimize, debug, modernize, refactor, understand. In short, the more code you have — the harder it is to change. A smaller and simpler codebase is easier to understand, improve and extend.
 

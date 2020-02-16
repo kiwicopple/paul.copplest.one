@@ -52,21 +52,9 @@ module.exports = {
         'kill-processes',
       ],
       '/principles/': [
-        {
-          title: 'Life',
-          collapsable: false,
-          children: ['life/decisions'],
-        },
-        {
-          title: 'Tech',
-          collapsable: false,
-          children: ['tech/design'],
-        },
-        {
-          title: 'Startups',
-          collapsable: false,
-          children: ['startups/seed', 'startups/growth', 'startups/mature'],
-        },
+        'life',
+        'business',
+        'tech'
       ],
       '/knowledge/': [
         {
