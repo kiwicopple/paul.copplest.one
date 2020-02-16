@@ -61,3 +61,9 @@ Some mindsets that I have found useful so far:
   - What are your thoughts on the company?
   - Anything else you'd like to add?
 - Next steps: disabling access to accounts, handing over any equipment.
+
+
+## Resources
+
+- [One job, many roles. The different skills needed to be a successful CTO ](https://madewithlove.be/one-job-many-roles-the-different-skills-needed-to-be-a-successful-cto/)
+- No Kings: How Do You Make Good Decisions Efficiently in a Flat Organization? https://hn.premii.com/#/comments/20155636

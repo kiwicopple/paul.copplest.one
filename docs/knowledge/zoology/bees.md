@@ -8,3 +8,7 @@
 > If you're interested in this topic (which is fascinating), there is a great book on it called 'Honeybee Democracy' by the bee researcher Thomas Seeley.
 
 [HN](https://news.ycombinator.com/item?id=19878132)
+
+## Resources
+
+- [How Bees Argue](https://hn.premii.com/#/comments/21988924)

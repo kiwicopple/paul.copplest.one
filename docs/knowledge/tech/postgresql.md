@@ -49,3 +49,6 @@ COMMENT ON COLUMN public.table_name.updated_at IS 'UTC timestamp of when the rec
 - [Pgsh – branch Postgres like Git](https://hn.premii.com/#/comments/21642340)
 - [Postgres Health Check and SQL Performance Analysis](https://news.ycombinator.com/item?id=21464272)
 - [pg_flame – flamegraph visualizations of PostgreSQL query plans](https://news.ycombinator.com/item?id=21371642)
+- [More on Postgres Performance](http://www.craigkerstiens.com/2013/01/10/more-on-postgres-performance/)
+- [Highly Available PostgreSQL Database](https://github.com/ric2b/Highly-Available-PostgreSQL-Database)
+- [A user interface for Postgres EXPLAIN that also gives tips](https://news.ycombinator.com/item?id=20343919)

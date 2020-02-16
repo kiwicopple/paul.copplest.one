@@ -110,6 +110,7 @@ Here are the best (free) resources that I commonly use
 - [icons8.com/line-awesome](https://icons8.com/line-awesome)
 - [ikonate.com](https://www.ikonate.com)
 - [icomoon.io](https://icomoon.io/)
+- [core-ui](https://github.com/coreui/coreui-icons/tree/1.0.0/)
 
 ## Images and Illustrations
 
@@ -125,6 +126,7 @@ Try to create your site first without illustrations (I doubt this will be a prob
 - [undraw.co](https://undraw.co/)
 - [icons8.com/ouch](https://icons8.com/ouch/) 
 - [avataaars.com](https://www.avataaars.com/)
+- [freepik.com](https://www.freepik.com/)
 
 ### Images
 
@@ -175,3 +177,4 @@ I'm really a fan-boy of Figma, but for good reason. I've tried a lot of other to
 - [Design Tools for Everything](https://github.com/LisaDziuba/Awesome-Design-Tools): A huge list of tools. I personally find these lists a bit daunting but it does have something for everybody if you can be bothered combing through it.
 - You may occasionally want to implement some CSS layouts outside of the grid systems provided by Bulma or Tailwind. A couple of resources for learning are [testdriven.io/blog/css-grid](https://testdriven.io/blog/css-grid) and [every-layout.dev](https://every-layout.dev)
 - An awesome resource for creating printable UI mockups/wireframes templates: [github.com/alexadam/printable-mockups](https://github.com/alexadam/printable-mockups)
+- Rules for Intuitive UX - [learnui.design](https://learnui.design/blog/4-rules-intuitive-ux.html)

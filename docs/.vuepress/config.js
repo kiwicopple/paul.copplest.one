@@ -35,11 +35,7 @@ module.exports = {
         'admirable-startups',
         'dividing-equity',
       ],
-      '/gists/': [
-        'vscode-snippets',
-        'ecto-phoenix',
-        'kill-processes',
-      ],
+      '/gists/': ['vscode-snippets', 'ecto-phoenix', 'kill-processes'],
       '/principles/': ['life', 'business', 'tech'],
       '/knowledge/': [
         {
@@ -60,23 +56,38 @@ module.exports = {
         {
           title: 'Miscellaneous',
           collapsable: false,
-          children: ['chess', 'climbing', 'friendship', 'trees', 'mathematics', 'meditation'],
+          children: [
+            'chess',
+            'climbing',
+            'friendship',
+            'music',
+            'public-speaking',
+            'trees',
+            'mathematics',
+            'meditation',
+          ],
         },
         {
           title: 'People',
           collapsable: false,
-          children: ['people/isaac-newton', 'people/marcus-aurelius'],
+          children: ['people/isaac-newton', 'people/marcus-aurelius', 'people/von-neumann'],
         },
         {
           title: 'Philosophy',
           collapsable: false,
-          children: ['consciousness', 'ethics', 'buddhism', 'stoicism', 'philosophy/desire'],
+          children: [
+            'consciousness',
+            'philosophy/ethics',
+            'philosophy/buddhism',
+            'philosophy/stoicism',
+            'philosophy/desire',
+          ],
         },
-        {
-          title: 'Physics',
-          collapsable: false,
-          children: ['time'],
-        },
+        // {
+        //   title: 'Physics',
+        //   collapsable: false,
+        //   children: ['time'],
+        // },
         {
           title: 'Sociology',
           collapsable: false,
@@ -85,7 +96,11 @@ module.exports = {
         {
           title: 'Startups',
           collapsable: false,
-          children: ['startups/convertible-notes', 'startups/startup-resources', 'startups/tech-management'],
+          children: [
+            'startups/convertible-notes',
+            'startups/startup-resources',
+            'startups/tech-management',
+          ],
         },
         {
           title: 'Tech',
@@ -109,6 +124,7 @@ module.exports = {
           title: 'Zoology',
           collapsable: false,
           children: [
+            'zoology/apes',
             'zoology/bees',
             'zoology/dolphins',
             'zoology/octopus',

@@ -15,6 +15,12 @@
 - [Applied Category Theory](https://hn.premii.com/#/comments/19701767)
 - [Mathematics all-in-one cheat-sheet (2013 - pdf)][https://hn.premii.com/#/article/20048205]
 - [Ask HN: Are there books for mathematics like Feynman's lectures on physics?](https://hn.premii.com/#/comments/21346272)
+- Ask HN: Best way to relearn basic math? https://hn.premii.com/#/comments/20446796
+- Calculus for Beginners and Artists https://hn.premii.com/#/article/20433533
+- Math Basics for Computer Science and Machine Learning from UPenn [pdf] - https://hn.premii.com/#/article/20570025
+
+
+
 Physics:
 
 - [Taking Census of Physics](https://hn.premii.com/#/article/19263393)

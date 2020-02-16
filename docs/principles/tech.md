@@ -45,3 +45,4 @@ Here is a list of ideas that are still brewing
 ## Resources
 
 - [OurMachinery Guidebook](https://ourmachinery.com/files/guidebook.md.html) <br /> A lot of principles pulled directly from this excellent resource.
+- [Google Code Guidelines](https://news.ycombinator.com/item?id=20890682) 
