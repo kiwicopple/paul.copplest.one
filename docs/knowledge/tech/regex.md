@@ -1,7 +1,7 @@
 ---
 description: Some useful regex
 ---
-# Regex
+# Regex Cheatsheet
 
 ```
 Positive Integers:        ^\d+$

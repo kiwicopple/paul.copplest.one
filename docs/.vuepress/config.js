@@ -37,25 +37,13 @@ module.exports = {
         'dividing-equity',
       ],
       '/gists/': [
-        'awesome-list',
-        'secrets-management-sops',
         'vscode-snippets',
         'bash-profile',
-        'postgresql',
-        'docker',
-        'regex',
         'ecto-phoenix',
-        'debounce-and-throttle',
-        'tech-management',
-        'google-analytics',
         'beanstalk-swap',
         'kill-processes',
       ],
-      '/principles/': [
-        'life',
-        'business',
-        'tech'
-      ],
+      '/principles/': ['life', 'business', 'tech'],
       '/knowledge/': [
         {
           title: 'Agriculture',
@@ -93,11 +81,6 @@ module.exports = {
           children: ['time'],
         },
         {
-          title: 'Programming',
-          collapsable: false,
-          children: ['programming/html-cheatsheet'],
-        },
-        {
           title: 'Sociology',
           collapsable: false,
           children: ['mimetic-theory'],
@@ -105,7 +88,22 @@ module.exports = {
         {
           title: 'Startups',
           collapsable: false,
-          children: ['startups/convertible-notes', 'startups/seo', ],
+          children: ['startups/convertible-notes', 'startups/tech-management'],
+        },
+        {
+          title: 'Tech',
+          collapsable: false,
+          children: [
+            'tech/awesome-list',
+            'tech/css',
+            'tech/debounce-and-throttle',
+            'tech/docker',
+            'tech/html-cheatsheet',
+            'tech/postgresql',
+            'tech/regex',
+            'tech/secrets-management-sops',
+            'tech/seo',
+          ],
         },
         {
           title: 'Zoology',

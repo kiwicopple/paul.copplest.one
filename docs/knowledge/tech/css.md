@@ -1,32 +1,32 @@
 ---
 description: Useful CSS / Sass snippets
 ---
-# CSS / Sass
+# CSS / SASS Cheatsheet
 
-Note: the below is Sass, so you will have to put it through a Scss pre-processor for it to be usable in plain ol' CSS.
+
+[[TOC]]
+
+## CSS
+
+TBD
+
+
+## SASS 
+
+Note that all SASS will have to put it through a Scss pre-processor for it to be usable in plain ol' CSS.
+
+
+### Spacing Utitily
+
+Credit: [this github comment](https://github.com/jgthms/bulma/issues/451#issuecomment-331758839)
 
 ```scss
-// Uncomment the snippet below if you need to figure out depths/layouts
-// Credit: https://dev.to/gajus/my-favorite-css-hack-32g3
-
-// * { background-color: rgba(255,0,0,.2); }
-// * * { background-color: rgba(0,255,0,.2); }
-// * * * { background-color: rgba(0,0,255,.2); }
-// * * * * { background-color: rgba(255,0,255,.2); }
-// * * * * * { background-color: rgba(0,255,255,.2); }
-// * * * * * * { background-color: rgba(255,255,0,.2); }
-// * * * * * * * { background-color: rgba(255,0,0,.2); }
-// * * * * * * * * { background-color: rgba(0,255,0,.2); }
-// * * * * * * * * * { background-color: rgba(0,0,255,.2); }
-
- 
-// SPACING CSS 
 // Class examples: 
 //    m-none: no margin
 //    p-none: no padding
 //    m-b-sm: small bottom margin
 //    p-r-l: large right padding
-// Credit: https://github.com/jgthms/bulma/issues/451#issuecomment-331758839
+
 $sizeUnit: rem;
 $marginKey: 'm';
 $paddingKey: 'p';
@@ -67,5 +67,23 @@ $positions: (('t', 'top'), ('r', 'right'), ('b', 'bottom'), ('l', 'left'));
     }
   }
 }
+
+```
+
+### Depth Utility
+
+Use the snippet below if you need to figure out depths/layouts. Credit: [dev.to](https://dev.to/gajus/my-favorite-css-hack-32g3)
+
+```scss
+
+* { background-color: rgba(255,0,0,.2); }
+* * { background-color: rgba(0,255,0,.2); }
+* * * { background-color: rgba(0,0,255,.2); }
+* * * * { background-color: rgba(255,0,255,.2); }
+* * * * * { background-color: rgba(0,255,255,.2); }
+* * * * * * { background-color: rgba(255,255,0,.2); }
+* * * * * * * { background-color: rgba(255,0,0,.2); }
+* * * * * * * * { background-color: rgba(0,255,0,.2); }
+* * * * * * * * * { background-color: rgba(0,0,255,.2); }
 
 ```
