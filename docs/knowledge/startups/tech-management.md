@@ -41,6 +41,7 @@ Some mindsets that I have found useful so far:
 ## One on ones
 
 - [https://engineering-management.space/post/1on1-framework/](https://engineering-management.space/post/1on1-framework/)
+- [Big list of 1 On 1 Meeting Questions](https://github.com/VGraupera/1on1-questions)
 
 ## Manage
 
