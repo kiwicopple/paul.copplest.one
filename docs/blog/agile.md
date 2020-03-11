@@ -67,7 +67,7 @@ There are also [12 Principles](https://agilemanifesto.org/principles.html) which
 
 If you've been using agile methodologies in your company, you'll probably be shocked to read the core values. People over processes? That doesn't sound much like the agile shops I worked in. Responding to change? Most companies stubbornly force teams to use their "one true agile".
 
-OK, I'll admit "contract negotiation" isn't a common activity in startups, but if you adapt the third value to "listen to your customers" then you've got a pretty solid set of values for managing a software team. 
+I'll admit "contract negotiation" isn't a common activity in startups, but if you adapt the third value to "listen to your customers" then you've got a solid set of values for managing a software team. 
 
 Notice as well what *isn't* there. It doesn't say you have to do any specific process. In fact it's not far off telling you the opposite: throw away the processes, plans, and structure; expect change and let your people guide the way.
 
@@ -75,7 +75,7 @@ Notice as well what *isn't* there. It doesn't say you have to do any specific pr
 
 ## Agile Toolset
 
-If you've religiously followed what I said up until now then you'll quickly find all your problems are not yet solved. It turns out that processes **are** important, it's just not clear at the start **which** processess they are.
+If you've been managing a team with no processes at all you'll quickly find all your problems are not yet solved. It turns out that processes **are** important, it's just not clear at the start **which** processess they are.
 
 ### Processes
 
