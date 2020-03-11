@@ -25,14 +25,12 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
-        'do-nothing',
         'agile',
         'design',
         'how-to-learn',
         'nimbus-tech-2019-04',
         'augmented-reality',
         'email-to-a-friend',
-        'admirable-startups',
         'dividing-equity',
       ],
       '/gists/': ['vscode-snippets', 'ecto-phoenix', 'kill-processes'],
