@@ -12,3 +12,4 @@
 ## Resources
 
 - [How Bees Argue](https://hn.premii.com/#/comments/21988924)
+- [Honeybee brains seem to use alpha waves similarly to primate brains](https://hn.premii.com/#/article/22434234)

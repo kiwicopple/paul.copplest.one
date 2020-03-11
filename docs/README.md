@@ -6,10 +6,9 @@
 
 [Principles](/principles/) <br />Decision making frameworks and mental models. Principles are ways of successfully dealing with reality to get what you want out of life. Inspired by Ray Dalio's Book "Principles". 
 
-[Knowledge](/knowledge/) <br />My own personal zettlekasten - a repository of personal knowledge that I update from time to time. These small changes are like compound interest. I only expect them to be useful and accurate after a lifetime of updates.
+[Knowledge](/knowledge/) <br />Richard Fienman famously kept a list of "Things I don't know". This is my own list and zettlekasten - a repository of personal knowledge that I update from time to time when I find interesting links or research a topic. These small changes are like compound interest. I only expect them to be useful and accurate after a lifetime of updates.
 
-**Find me online** <br />[LinkedIn](https://www.linkedin.com/in/paulcopplestone/) | [GitHub](https://github.com/kiwicopple) | [GitLab](https://gitlab.com/kiwicopple) 
-
+**Find me online** <br />[LinkedIn](https://www.linkedin.com/in/paulcopplestone/) | [GitHub](https://github.com/kiwicopple) 
 
 
 ## Startups

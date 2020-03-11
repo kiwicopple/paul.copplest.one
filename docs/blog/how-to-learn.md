@@ -1,17 +1,16 @@
 ---
 date: 2019-06-25
-description: A personal approach to meta-learning, or learning how to learn
+description: A personal anecdote on learning.
+title: How to throw a boomerang
 ---
 
-# How to learn
+# How to throw a boomerang
 
-## How to throw a boomerang
+One morning while I was travelling in Asia, I joined a friend on a beach. He was throwing a boomerang that he had made himself. "It's simple to use," he said in his thick Australian accent, "just hold it in your outstretched arm at a 45 degree angle and throw it at a 45 degree offset to the wind."
 
-One morning while I was travelling in Asia, I joined a friend on a beach. He was throwing a boomerang that he had made using a template he found off the internet. "It's simple to use," he said in his thick Australian accent, "just hold it in your outstretched arm at a 45 degree angle and throw it at a 45 degree offset to the wind."
+He demonstrated this, throwing it with a flick of his wrist and running about 30 meters to the left to catch it (with varying success). A couple of minutes after the demonstration he departed for work, leaving me with a boomerang and a full day to practice.
 
-He demonstrated this, throwing it with a flick of his wrist and running about 30 meters to the left to catch it (with varying success). Two minutes after this _detailed_ boomerang throwing demonstration he departed for work, leaving me with a boomerang and a full day to practice.
-
-An hour or so later, I hadn't caught a single throw.
+An hour later, I hadn't caught a single throw.
 
 I decided that the boomerang may not withstand a full day of collisions into the sandy beach and, given the tropical heat, I thought it would be fun to move into the water to practice throwing.
 
@@ -19,14 +18,18 @@ I decided that the boomerang may not withstand a full day of collisions into the
 
 The word transilience means to jump across something (usually geographical). Moving from the sand to the water was an act of _learning transileince_ for me, it was the quantum leap that my boomerang education really required. I waded into the water until I was at waist depth and this changed two things:
 
-1. I could no longer run for the boomerang, so I was forced throw the boomerang so that it would return within a couple of meters of my initial throw
+1. I could no longer run for the boomerang, so I was more deliberate about throwing the boomerang so that it would return within a couple of meters
 2. I no longer feared that the boomerang would break when it was landing in the water, so I could throw it with complete disregard
 
-No longer was I content throwing it using the 45-degree method: I tried throwing it at a 90-degree angle; I tried at different offsets to the wind; I tried throwing it backwards and upside down. Needless to say that most methods were horribly unsuccessful, however as the day progressed, the magnificent human ability for establishing patterns facilitated my slow understanding of the boomerang's behaviour.
+No longer was I content throwing it using the 45-degree method: I tried throwing it at a 90-degree angle; I tried at different offsets to the wind; I tried throwing it backwards and upside down. Most methods were horribly unsuccessful, however as the day progressed the magnificent human ability for pattern recognition facilitated an understanding of the boomerang's behaviour.
+
 I found that I could throw the boomerang at an angle which was the same angle that I faced from the wind; if I faced at a 70-degree offset to the wind, then I should throw the boomerang also at a 70-degree angle.
+
 I adjusted the strength of the throw based on the the angle of the boomerang.
+
 I adjusted the height of the release based on the angle of the wind.
-I felt the strength of the wind on my wet arms and could determine the amount of wrist-flick required upon release.
+
+I felt the strength of the wind on my wet arms and could determine the right amount of wrist-flick required upon release.
 
 ## Mastery
 
@@ -34,13 +37,13 @@ Now, I know that one day of boomerang throwing does not qualify as full mastery 
 
 ## A lesson in learning
 
-Analysing the steps I used to achieve the results that I did on that day, I can find the following pattern:
+Analysing the steps I used that day, I found the following pattern:
 
 ### Step 1 - Think about the goal from first principles
 
-At first I blindly tried throwing the boomerang as my friend had taught me. I unconsciously believed that "throwing the boomerang" was the goal; it wasn't.
+At first I blindly tried throwing the boomerang as my friend had taught me. I was unconsciously trying to "learn to throw the boomering" and my unconscious method was "throwing the boomerang". 
 
-The goal was to learn _how the boomerang functioned_. What if I was trying to hit a target downwind from me, at a 70-degree offset? I needed to learn how the boomerang behaved at all angles, with all types of wind.
+The goal I should have affirmed for myself was to learn _how the boomerang functioned_. What if I was trying to hit a target downwind from me, at a 70-degree offset? I needed to learn how the boomerang behaved at all angles, with all types of wind.
 
 When you are performing an activity, decide if you are wanting to learn or just have fun. Once you decide to learn you can operate with intention and methodology.
 
@@ -49,7 +52,7 @@ When you are performing an activity, decide if you are wanting to learn or just 
 The term "try to fail" is really a misnomer, because if you are learning something then realistically you have no idea how to do that thing - what you _think_ will work may fail, and what you _think_ will fail may work.
 You always carry these preconceptions of what you _think_ will work. Try those too! But then try every other ridiculous idea that you can feasibly comprehend.
 
-In the boomerang example, the preconceptions I carried were the simple lessons that my friend taught me (the 45-degree) method. It wasn't until I stepped into the water that I began to actively fail.
+In the boomerang example, I had a preconception that the 45-degree method was the best and only method. It wasn't until I stepped into the water that I began to actively fail.
 
 ### Step 3: Act
 
@@ -59,7 +62,7 @@ I could have spent all day thinking about the shape of the boomerang and the spe
 
 This is the critical step built upon by the two previous steps. It has two important parts: firstly, analysis is of little use without experience (action); secondly, action is of little use without analysis.
 
-If you decide the best way to do something without trying first, you will most likely fail. Even if you succeed, how do you know the method you used is the best method?
+If you decide the best way to do something without trying first, you will most likely fail. And even if you succeed, how do you know the method you used is the best method?
 
 However, if you try something without subsequently analysing it, how can you make an improvement? Once again you will not know if your method is the best method.
 
