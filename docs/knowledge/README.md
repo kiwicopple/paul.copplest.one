@@ -8,6 +8,11 @@ Richard Fienman famously kept a list of "Things I don't know". This is my own li
 
 Use the sidebar to get started.
 
+----
+
+<section-contents />
+
+
 <!---
 
 Publishing an accumulation of my personal knowledge online serves multiple purposes:

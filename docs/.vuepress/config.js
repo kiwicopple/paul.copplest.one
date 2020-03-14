@@ -22,6 +22,7 @@ module.exports = {
       { text: 'Principles', link: '/principles/' },
       { text: 'Knowledge', link: '/knowledge/' },
       { text: 'Subscribe', link: 'http://eepurl.com/dE68jj' },
+      { text: 'Twitter', link: 'https://twitter.com/kiwicopple' },
     ],
     sidebar: {
       '/blog/': [
@@ -125,6 +126,7 @@ module.exports = {
           children: [
             'zoology/apes',
             'zoology/bees',
+            'zoology/birds',
             'zoology/dolphins',
             'zoology/octopus',
             'zoology/rats',
