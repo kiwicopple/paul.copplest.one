@@ -20,7 +20,37 @@
 - [Math Basics for Computer Science and Machine Learning from UPenn - pdf](https://hn.premii.com/#/article/20570025)
 
 
-
 Physics:
 
 - [Taking Census of Physics](https://hn.premii.com/#/article/19263393)
+
+
+
+
+Basic/Interesting question to solve:
+
+The diameter of earth is 12,756 km. Know that we know that:
+
+- What is the circumference of Earth at the equator?
+- What is the circumference of Earth at the 42nd latitude?
+- What's the volume of earth?
+- What's the surface area?
+- A plane travels at 900km per hour 
+  - how long does it take to fly from top to bottom? 
+  - It flies at 12.7km from the surface. How long now?
+  - It has acceleration of 1 m/s^2. How long now?
+- Calculate the volume of each:
+  - 0–35km 	Crust
+  - 35–2,890km 	Mantle
+  - 2,890–5,150km Outer core
+  - 5,150–6,360km	Inner core 
+
+Gravity
+- How much gravitational force does the moon have on the earth?
+- How much does the sun have?
+- What are the tides different? Earth friction? Positioning of moon + sun? Natural dissonance of tides compounding?
+
+Relativity
+- I am standing at a clock tower (hint: twin paradox)
+  - I travel for 1 hour at the speed of light away from the clock. I look at my watch. What is the time on my watch? I look at the clock. What is the time on the clock?
+  - I travel for 1 hour at the speed of light back to the clock. I look at my watch. What is the time on my watch? I look at the clock. What is the time on the clock?
