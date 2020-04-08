@@ -36,3 +36,14 @@ Some good fonts for prototyping or snazzing up an prototype (without having to g
 
 [Buy Meth](https://buymeth.com/)<br />
 Buy [M]isleading [E]ncrypted [Th]umbnails. A cryptographic marketplace built for an Ethereum Hackathon.
+
+
+## Getting updates
+
+#### Newsletter
+
+Sign up for a newsletter: [http://eepurl.com/dE68jj](http://eepurl.com/dE68jj)
+
+#### RSS feeds
+
+This blog is just a github repo, so the easiest way to stay updated is to subscribe to the commits: [https://github.com/kiwicopple/paul.copplest.one/commits/master.atom](https://github.com/kiwicopple/paul.copplest.one/commits/master.atom)
