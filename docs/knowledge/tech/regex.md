@@ -14,8 +14,12 @@ Date (MM/DD/YYYY):        ^(0?[1–9]|1[012])[- /.](0?[1–9]|[12][0–9]|3[01])
 Date (YYYY/MM/DD):        ^(19|20)?[0–9]{2}[- /.](0?[1–9]|1[012])[- /.](0?[1–9]|[12][0–9]|3[01])$
 
 Username:     ^[\w.]{4,16}$
-Password:     ^(?=^.{6,}$)((?=.*[A-Za-z0–9])(?=.*[A-Z])(?=.*[a-z]))^.*$
 email:        ^([a-zA-Z0–9._%-]+@ [a-zA-Z0–9.-]+\.[a-zA-Z]{2,})*$
+
+Passwords:
+6 length, 1 lowercase, 1 uppercase, 1 number, 1 special character: /^(?=.[a-z])(?=.[A-Z])(?=.[0-9])(?=.[!@#\$%\^&\*])(?=.{6,})/
+6 length, 1 lowercase 1 uppercase, 1 number: /^(?=.[a-z])(?=.[A-Z])(?=.*\d).{6,}$/
+6 length, 1 lowercase, 1 uppercase: /^(?=.[a-z])(?=.[A-Z]).{6,}$/
 
 Alpha-numeric characters:               ^[a-zA-Z0–9]*$
 Alpha-numeric characters with spaces:   ^[a-zA-Z0–9 ]*$
