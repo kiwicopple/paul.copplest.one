@@ -114,6 +114,7 @@ module.exports = {
             'tech/ecto-phoenix',
             'tech/html-cheatsheet',
             'tech/postgresql',
+            'tech/postgres-data',
             'tech/regex',
             'tech/secrets-management-sops',
             'tech/seo',
