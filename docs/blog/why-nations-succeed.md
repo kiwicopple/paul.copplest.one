@@ -10,7 +10,7 @@ Not **how**, but **why**?
 
 Imagine we had the perfect blog post - an exact script for how to pull the world out of this crisis - which we could follow like a recipe. Would we follow that script? No, of course not. But *why not?*
 
-A nation succeeds through change. Change happens through action. Action happens when the decisions which are made are not apposed. Opposition happens sometimes because it's necessary, but usually because of ego. 
+A nation succeeds through change. Change happens through action. Action happens when the decisions which are made are not opposed. Opposition happens sometimes because it's necessary, but usually because of ego. 
 
 I've been thinking for a while about why nations succeed. And I have a theory which, for the sake of this article, I will call **The Identity Theory**.
 
@@ -60,7 +60,7 @@ France is not like Goggins. They achieved something any nation would be proud of
 
 **A nation's ability to grow is in direct proportion to its ability to leave its past behind.**
 
-A nation succeeds through change. Change happens through action. Action happens when the decisions which are made are not apposed. Opposition happens sometimes because it's necessary, but usually because of ego. 
+A nation succeeds through change. Change happens through action. Action happens when the decisions which are made are not opposed. Opposition happens sometimes because it's necessary, but usually because of ego. 
 
 ### USA
 
@@ -76,7 +76,7 @@ But it's still just the least-worst option. There are still so many problems tha
 
 ### Conclusion
 
-A nation succeeds through change. Change happens through action. Action happens when the decisions which are made are not apposed. Opposition happens sometimes because it's necessary, but usually because of ego. 
+A nation succeeds through change. Change happens through action. Action happens when the decisions which are made are not opposed. Opposition happens sometimes because it's necessary, but usually because of ego. 
 
 Marc finishes with a challenge:
 
@@ -87,4 +87,4 @@ So here is my response to Marc: **Build a nation that can give up it's past.** I
 
 ##### Notes
 
-- When I say "decisions which are made are not apposed", I don't mean misguided ideas *unapposed*.  
+- When I say "decisions which are made are not opposed", I don't mean misguided ideas *unopposed*.  
