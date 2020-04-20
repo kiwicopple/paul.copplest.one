@@ -28,7 +28,7 @@ At the end of World War II, the German economy was in disarray. 20% of housing w
 
 Less than *80 years later*, Germany is a global economic power. It's the largest economy in the European Union with 24% of the total EU GDP. Sometimes called The German Economic Miracle (Wirtschaftswunder), most of this German economic turnaround had taken effect by 1989, when the Berlin Wall fell and Germany was once again reunited.
 
-And they didn't just win in terms of economic power. They are the de-facto leader of the EU, and a nation looked upon for guidance and support by other nations. Think about that acheivement for a second. The aggressors of the largest war in modern history, somehow overcame their reputational damage to become an internationally respected country, an acheivement which appears as deserved as it is astounding. The Germany of today is a different country from the Germany of the 1940s.
+And they didn't just win in terms of economic power. They are the de-facto leader of the EU, and a nation looked upon for guidance and support by other nations. Think about that acheivement for a second. The aggressors of the largest war in modern history, somehow overcame their reputational damage to become an internationally respected country.
 
 ### France
 
@@ -42,7 +42,7 @@ What I would like to ask is this: why isn't France's economy even bigger? Their 
 
 ### Germany vs France
 
-Now we have the basis for contrast. While historians may be horrified at the over-simplification of my summary, and economists are likely thinking off the *hows*, at this point I'm more curious what the psycologists would offer as an explanation.
+Now, I understand that I have given a grossly over-simplified history. But that's the point - don't get stuck in the weeds just yet. Bear with me while I build my case.
 
 I listened recently to a [podcast with Dave Goggins](https://www.youtube.com/watch?v=BvWB7B8tXK8), a retired US Navy SEAL. 
 
