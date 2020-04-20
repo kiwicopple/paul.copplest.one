@@ -8,7 +8,7 @@ But after reading his article, I challenge you with a different set of questions
 
 Not **how**, but **why**? 
 
-Imagine we had the perfect blog post which we could follow like a recipe, an exact script for how to pull the world out of this crisis. Would we follow that script? No, of course not. But *why not?*
+Imagine we had an exact script for how to pull the world out of this crisis, which we could follow like a recipe. Would we follow that script? No, of course not. But *why not?*
 
 A nation succeeds through change. And change happens through action. <br />
 Action happens after the decisions of those with power are supported. <br />
@@ -26,9 +26,9 @@ And not just the bad past, the good past as well. That might sound controversial
 
 At the end of World War II, the German economy was in disarray. 20% of housing was destroyed, food production per-capita had dropped 49%, and industrial output had dropped by one third. Defeated, sanctioned, and ashamed, Germany was a ruined state facing a bleak future.
 
-Less than *80 years later*, Germany is a global economic power. It's the largest in economy in the European Union with 24% of the total EU GDP. Sometimes called The German Economic Miracle (Wirtschaftswunder), most of this German economic turnaround had taken effect by 1989, when the Berlin Wall fell and Germany was once again reunited.
+Less than *80 years later*, Germany is a global economic power. It's the largest economy in the European Union with 24% of the total EU GDP. Sometimes called The German Economic Miracle (Wirtschaftswunder), most of this German economic turnaround had taken effect by 1989, when the Berlin Wall fell and Germany was once again reunited.
 
-And they didn't just win in terms of economic power. They are the de-facto leader of the EU, and a nation looked upon for guidance and support by other nations. Think about that acheivement for a second. The aggressors of the largest war in modern history, somehow overcame their reputational damage to become an internationally respected country, an acheivement which is both deserved and astounding. The Germany of today is a different country from the Germany of the 1940s.
+And they didn't just win in terms of economic power. They are the de-facto leader of the EU, and a nation looked upon for guidance and support by other nations. Think about that acheivement for a second. The aggressors of the largest war in modern history, somehow overcame their reputational damage to become an internationally respected country, an acheivement which appears as deserved as it is astounding. The Germany of today is a different country from the Germany of the 1940s.
 
 ### France
 
@@ -88,3 +88,6 @@ It's tempting to write about the importance of historical identity and the value
 
 This article is simple observation and a brutal truth: if you want to be to be great, forget who are are and become who you need to be.
 
+#### Credits
+
+Although their views may not reflect my own, thanks to Chris for proof-reading. 
