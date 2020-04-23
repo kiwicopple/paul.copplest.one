@@ -37,6 +37,9 @@ docker rm $(docker ps -a -q)
 # Remove all docker images
 docker rmi $(docker images -q)
 
+# Prune all volumes
+docker system prune -a -f --volumes
+
 # Enter into interative command line for a given container with environment variables loaded.
 docker exec -it CONTAINER_NAME sh
 ```
