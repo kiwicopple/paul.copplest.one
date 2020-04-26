@@ -4,17 +4,22 @@ As Marc Andreessen points out, it's [Time to Build](https://a16z.com/2020/04/18/
 
 But I doubt any of the solutions will become a reality, at least not in the US. He's not wrong - it *is* time build. His solutions are well-reasoned and actually quite uplifting. 
 
-But after reading his article, I challenge you with a different set of questions. *Why* do some countries succeed in becoming great? Alternatively - why do some countries *fail* to become great, even in cases when they have massive resources? And why do those who are already great eventually lose their greatness?
+But after reading his article I came away with a (tangential) set of questions. *Why* do some countries succeed in becoming great? Alternatively - why do some countries *fail* to become great, even in cases when they have massive resources? And why do those who are already great eventually lose their greatness?
 
 Not **how**, but **why**? 
 
-Imagine we had an exact script for how to pull the world out of this crisis, which we could follow like a recipe. Would we follow that script? No, of course not. But *why not?*
+If we had an exact script which the world could follow to pull ourselves out of this crisis, would we follow that script? No, of course not. But *why not?*
 
-A nation succeeds through change. And change happens through action. <br />
-Action happens after the decisions of those with power are supported. <br />
-Opposition prevents that support. Sometimes because it's necessary, but usually because of ego. 
+I think this is an first-principled line of reasoning for how a nation "fails to succeed":
 
-I've been thinking for a while about why nations succeed. And I have a theory which, for the sake of this article, I'll call **The Identity Theory**.
+> 1. A nation succeeds through change. <br />
+> 2. Change happens through action. <br />
+> 3. Action happens after the decisions of those with power are supported. <br />
+> 4. Opposition prevents that support. 
+
+Sometimes the opposition is necessary. But opposition is more commonly driven by ego. Ego is quite easy to observe on an individual level, but less-so on a national level. And so I have an elaboration of this. A simple theory which, for the sake of this article, I'll call **The Identity Theory**. 
+
+## The Identity Theory
 
 The Identity Theory is this: 
 
@@ -22,7 +27,7 @@ The Identity Theory is this:
 
 And not just the bad past, the good past as well. That might sound controversial. Logically, we should be able to keep the good and simply improve the bad. Unfortunately, humans are not logical. When it comes to humans, *identity itself* is bad. But I'm getting ahead of myself. Let's explore some history.
 
-### Germany
+## Germany
 
 At the end of World War II, the German economy was in disarray. 20% of housing was destroyed, food production per-capita had dropped 49%, and industrial output had dropped by one third. Defeated, sanctioned, and ashamed, Germany was a ruined state facing a bleak future.
 
@@ -30,7 +35,7 @@ Less than *80 years later*, Germany is a global economic power. It's the largest
 
 And they didn't just win in terms of economic power. They are the de-facto leader of the EU, and a nation looked upon for guidance and support by other nations. Think about that acheivement for a second. The aggressors of the largest war in modern history, somehow overcame their reputational damage to become an internationally respected country.
 
-### France
+## France
 
 Contrast Germany with France who were facing their own economic and social disaster 230 years earlier, with the French Revolution. Heavily in debt from war, the French government started taxing its citizens excessively, causing rebellion. After decades of turmoil the French people would throw off their monarchical constraints and provide the world with a model for democracy, established in the ideals of the [Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment).
 
@@ -40,29 +45,31 @@ But pride has a way of stagnating us. French politics is impressive, but it's al
 
 What I would like to ask is this: why isn't France's economy even bigger? Their ideas inspired much of the governance we see operating in the largest nations today. Why couldn't they convert these ideas into greater economic power for their own nation?
 
-### Germany vs France
+## Germany vs France
 
-Now, I understand that I have given a grossly over-simplified history. But that's the point - don't get stuck in the weeds just yet. Bear with me while I build my case.
+Now, I understand that I have given a grossly over-simplified history. But that's the point - don't get stuck in the weeds. Bear with me while I build my case.
 
 I listened recently to a [podcast with Dave Goggins](https://www.youtube.com/watch?v=BvWB7B8tXK8), a retired US Navy SEAL. 
 
 At the age of 24 Goggins saw a TV show about the infamous [Hell Week](https://www.thebalancecareers.com/seal-training-hell-week-3356097) and decided that he wanted to join the Navy SEALs. The problem was that he was in the depths of depression, caused by a childhood full of poverty and physical abuse. To make things worse, he was 48kg (106 pounds) over the required weight and he had only 3 months to lose it. 
 
-While it sounds impossible, Goggins lost the weight and participated in Hell Week three times to eventually become a Navy SEAL. To do this, he literally created a new identity for himself. He was no longer *"David Goggins"*, he was just *"Goggins"*. His new identity, *Goggins*, "invented this thing called the accountability mirror. … I would look in the mirror and call myself out: 'I’m afraid of this. I’m afraid of that.'". Despite his tortured past, which gave him every justification for quitting, *Goggins* didn't allow it.
+While it sounds impossible, Goggins lost the weight and participated in Hell Week three times to eventually become a Navy SEAL. 
 
-Goggins is now retired from the SEALs. But his achievements haven't stopped. At the age of 45 he is an ultra-distance athlete and former world record holder for the most pull-ups done in 24 hours. He's an author, and motivational speaker.
+His explaination of how he managed this? He literally created a new identity for himself. 
 
-This is the most impressive thing about Goggins. He's working as hard at 45 as he did at 24. He still "lives each day as if he hasn’t accomplished anything yet." It sounds completely unhealthy, but it does have one side-effect: growth.
+He was no longer *"David Goggins"*, he was just *"Goggins"*. His new identity, *Goggins*, "invented this thing called the accountability mirror. I would look in the mirror and call myself out: 'I’m afraid of this. I’m afraid of that.'". Despite his tortured past, which gave him every justification for quitting, *Goggins* didn't allow it.
+
+Goggins is now retired from the SEALs. But he hasn't slowed down with his achievements. At the age of 45 he is an ultra-distance athlete and former world record holder for the most pull-ups done in 24 hours. He's an author, and motivational speaker.
+
+This is the most impressive thing about Goggins. He's working as hard at 45 as he did at 24. He still "lives each day as if he hasn’t accomplished anything yet." It sounds completely unhealthy, but it does have a pertinent side-effect: growth.
 
 Germany is like Goggins. Through whatever mix of shame and destroyed-identity, they managed to leave their war-torn history behind and transform their frail economy.
 
-France is not like Goggins. They achieved something any nation would be proud of and now every new political decision is debated endlessly in the context of their historical identity. 
-
-France went through Hell Week and they look back, complacent in their accomplishments. Germany went through Hell Week and they look back, still with something to prove.
+France is not like Goggins. They achieved something any nation would be proud of. But now every political decision is debated endlessly in the context of their historical identity. 
 
 And so we have the basis of **The Identity Theory**. A nation's ability to grow is in direct proportion to its ability to leave its past behind. It's the story of many rapidly growing nations. China leaving their Maoist history behind. The Soviet Union built from multiple national Soviet republics to form a single state. The USA throwing off their colonial roots.
 
-### USA
+## USA
 
 The USA is like Goggins at 24. 
 
@@ -70,24 +77,20 @@ The USA is like Goggins at 24.
 
 Americans cling to their political affiliations. They rile against the problems that the opposition made in the past and oppose actions which might give everyone a benefit in the future. Their political system is a zero-sum game, where each party tries to make the other lose so that they can gain power.
 
-And the biggest problem? Theirs is the greatest political system ever practiced. It's uncanny the amount of insight the Founding Fathers had, to produce a system that would inspire a nation into unity and continue largely-unchanged for centuries.
+And the biggest problem? Theirs is the greatest political system ever practiced. The Founding Fathers had an uncanny the amount of insight to produce a system that would inspire a nation into unity and continue, largely unchanged, for centuries.
 
-But it's still just the least-worst option. There are still so many problems that need to be addressed. 
+But it's still just the least-worst option. The system still needs improvement. To improve, the system needs to change. And the change isn't happening while opposition is blocking every decision, regardless of its rational advantages. 
 
-### What to build
+If you're an American reading that thinking, "Yeah, the opposition party is really annoying", then you're likely part of the problem. Instead, you should be thinking: "what is the opposition party offering that I can get on-board with?".
+
+## What to build
 
 Marc finishes with a challenge:
 
-> Here’s a modest proposal to my critics. Instead of attacking my ideas of what to build, conceive your own! What do you think we should build? There’s an excellent chance I’ll agree with you.
+> <small>Here’s a modest proposal to my critics. Instead of attacking my ideas of what to build, conceive your own! What do you think we should build? There’s an excellent chance I’ll agree with you.</small>
 
 So here is my response to Marc: **Build a nation that can give up it's past.** 
 
-It's tempting to write another article of *how's* - how to succeed, how not to fail, what should be done and not done. But this is not that article, I'll leave that to economists who are smarter than me. 
-
-It's tempting to write about the importance of historical identity and the value it has for a society. But this is not about that article. 
+It's tempting to finish by espousing the importance of historical identity and its value to society. But this is not about that article. 
 
 This article is simple observation and a brutal truth: if you want to be to be great, forget who are are and become who you need to be.
-
-#### Credits
-
-Although their views may not reflect my own, thanks to Chris for proof-reading. 
