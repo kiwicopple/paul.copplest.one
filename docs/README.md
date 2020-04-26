@@ -25,11 +25,14 @@ ServisHero is one of South-East Asia's largest marketplaces for service provider
 
 ## Projects
 
-[Sheet Metal](https://sheetmetal.io)<br />
-Turn any Google Sheet into a database.
-
 [Mental Models](https://mentalmodels.co)<br />
 Mental models are unchanging fundamentals for a particular subject, popularised by Charlie Munger.
+
+[Current Events](https://currentevents.email)<br />
+Wikipedia's current events, delivered daily to your inbox. 
+
+[Sheet Metal](https://sheetmetal.io)<br />
+Turn any Google Sheet into a database.
 
 [Quick, Font!](https://quickfont.xyz)<br />
 Some good fonts for prototyping or snazzing up an prototype (without having to go through the pain of downloading & installing).
@@ -46,4 +49,4 @@ Sign up for a newsletter: [http://eepurl.com/dE68jj](http://eepurl.com/dE68jj)
 
 #### RSS feeds
 
-This blog is just a github repo, so the easiest way to stay updated is to subscribe to the commits: [https://github.com/kiwicopple/paul.copplest.one/commits/master.atom](https://github.com/kiwicopple/paul.copplest.one/commits/master.atom)
+This blog is just a github repo, so the easiest way to stay updated is to [subscribe to the commits](https://github.com/kiwicopple/paul.copplest.one/commits/master.atom).

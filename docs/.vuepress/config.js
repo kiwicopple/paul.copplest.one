@@ -26,6 +26,7 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
+        'why-nations-succeed',
         'agile',
         'design',
         'how-to-learn',
