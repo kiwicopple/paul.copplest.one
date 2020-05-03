@@ -1,4 +1,4 @@
-# Mathemeticians
+# Mathematicians
 
 
 ## Ramanujan
