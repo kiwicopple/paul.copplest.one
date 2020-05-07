@@ -71,7 +71,7 @@ module.exports = {
         {
           title: 'People',
           collapsable: false,
-          children: ['people/isaac-newton', 'people/marcus-aurelius', 'people/mathmeticians'],
+          children: ['people/isaac-newton', 'people/marcus-aurelius', 'people/mathematicians'],
         },
         {
           title: 'Philosophy',
