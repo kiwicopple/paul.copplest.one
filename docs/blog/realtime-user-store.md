@@ -236,7 +236,7 @@ const event = {
 }
 ```
 
-Because it's an insert, we go through the PK rules looking for any matching criteria, and we come up with this rule:
+Because it's an update, we go through the PK rules looking for any matching criteria, and we come up with this rule:
 
 ```js
 "public:organizations:id.eq.org1": [ 'foo-foo', 'bar-bar' ]
