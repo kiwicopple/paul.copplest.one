@@ -9,14 +9,9 @@ This started as just a [bug/feature](https://github.com/supabase/supabase/issues
 
 ## Problem
 
-The problem is this: how can we implement *Authorization* for each realtime connection (not Authentication, that just allows/dissalows a connection). 
+The problem is this: how can we implement a live-updating user store (like MobX) that responds to changes in a database. 
 
-What we want to achieve is Row Level security. This means: for every change, how can we make sure a connected user ONLY receives the data they are allowed to access, and preferably without "double fetching". This means we don't want to "check with the database" each time to determine if the subscriber is authorized to see the data. We want to do it as efficiently as possible.
-
-This is an (incomplete) proposal that leverages the RLS security of PostgREST, and potentially brings a mindblowing feature: every subscriber has a live-updating, incrementally materialized view (think: Redux store that is always in sync with the database). This a lot [easier with document stores](https://www.npmjs.com/package/react-firestore) because of their non-relational nature, but with Postgres it's proving hard to figure out.
-
-
-I originally got this idea for [Postgraphile Live Queries](https://www.graphile.org/postgraphile/live-queries/), and was tempted to use their solution but it seems to have some [performance concerns](https://www.graphile.org/postgraphile/live-queries/#when-not-to-use-live-queries).
+I originally got this idea for [GraphQL Live Queries](https://www.graphile.org/postgraphile/live-queries/), and I'm exploring options to combat [performance concerns](https://www.graphile.org/postgraphile/live-queries/#when-not-to-use-live-queries).
 
 ## Option
 
