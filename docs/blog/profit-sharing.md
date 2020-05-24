@@ -3,7 +3,7 @@ date: 2020-05-24
 description: How to compensate employees.
 ---
 
-# Profit sharing
+# Profit Sharing
 
 I often ponder how to pay startup employees. Let's face it - it's shit to work in a startup. You work long hours. You get paid peanuts. When(if) you get shares, it's points-of-a-percentage, even if you're working as hard as a cofounder. 
 
