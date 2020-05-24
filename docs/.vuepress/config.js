@@ -129,6 +129,7 @@ module.exports = {
             'zoology/bees',
             'zoology/birds',
             'zoology/dolphins',
+            'zoology/eels',
             'zoology/octopus',
             'zoology/rats',
             'zoology/ravens',
