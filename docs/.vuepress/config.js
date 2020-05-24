@@ -26,6 +26,7 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
+        'profit-sharing',
         'realtime-user-store',
         'why-nations-succeed',
         'agile',
