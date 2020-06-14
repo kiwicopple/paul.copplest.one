@@ -12,6 +12,7 @@ Some useful docker commands
     - [Update](#update)
     - [See Logs](#see-logs)
     - [Remove server](#remove-server)
+- [Resources](#resources)
 
 ## Docker
 
@@ -111,3 +112,7 @@ eval "$(docker-machine env -u)" # attach to local again
 docker-machine rm machine-name
 ```
 
+## Resources
+
+- Docker Swarm: [Using private registry in Docker Swarm](https://codeblog.dotsandbrackets.com/private-registry-swarm/)
+- Docker Swarm: [Container Orchestration with Docker Machine, Docker Stack, and Docker Swarm](https://www.callicoder.com/docker-machine-swarm-stack-golang-example/)

@@ -18,34 +18,23 @@ Make decisions based on the least possible regret.
 
 So that you can always look back and be satisfied that the outcome could not have been better.
 
+- Level 1: Put in the mimimum effort required to get a task done.
+- Level 2: Put in a focused and mindful effort for each task singlemindedly.
+- Level 3: Approach a task/situation as an opportunity to become greater.
+
 ## Always be honest
 
 To yourself, so that you can always make decisions based on the facts. To others, so that they will know you are consistent.
+
+- Level 1: Don't tell a lie to someone else
+- Level 2: Don't exaggerate a truth to someone else
+- Level 3: Don't lie to yourself. This requires a level of awareness and intellectual honesty which is extremely difficult. 
 
 ## Always be wholesome
 
 So that you can look at your difficult relationships and tell yourself that it's difficult because of their own reasons, not something you have done.
 
-## Fascination / Curiosity
-
-Gives you enjoyment of the tasks that your are performing. Don't seek the enjoyment outright, focus on the task.
-
-## Learn to like
-
-Things that are accessible and within reach.
-
-## Learn to avoid
-
-Things that are inaccessible and give only fleeting happiness.
-
-## Learn to be grateful
-
-For the things you already have
-
-## When you want to be the best
-
-Build on your strengths
-
-## When you want to be resilient
-
-Work on your weaknesses
+- Level 1: Don't be unkind or gossip.
+- Level 2: Be kind to others, even when you don't feel you need to be.
+- Level 3: Be kind to others, even when you don't want to be.
+- Level 4: Wish well for others.

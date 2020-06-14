@@ -19,7 +19,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Blog', link: '/blog/' },
-      { text: 'Principles', link: '/principles/' },
+      { text: 'Levels', link: '/levels/' },
       { text: 'Knowledge', link: '/knowledge/' },
       { text: 'Subscribe', link: 'http://eepurl.com/dE68jj' },
       { text: 'Twitter', link: 'https://twitter.com/kiwicopple' },
@@ -38,7 +38,7 @@ module.exports = {
         'dividing-equity',
       ],
       '/gists/': ['vscode-snippets', 'ecto-phoenix', 'kill-processes'],
-      '/principles/': ['life', 'business', 'tech'],
+      '/levels/': ['business', 'life', 'leadership', 'tech'],
       '/knowledge/': [
         {
           title: 'Agriculture',
