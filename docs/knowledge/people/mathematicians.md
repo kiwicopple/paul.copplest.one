@@ -12,3 +12,7 @@
 ## John Conway
 
 https://hn.premii.com/#/comments/22862053
+
+## Nicolas Bourbaki
+
+- [Nicolas Bourbaki: The greatest mathematician who never was](https://hn.premii.com/#/comments/23412152)

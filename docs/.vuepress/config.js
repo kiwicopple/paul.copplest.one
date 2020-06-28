@@ -38,7 +38,7 @@ module.exports = {
         'dividing-equity',
       ],
       '/gists/': ['vscode-snippets', 'ecto-phoenix', 'kill-processes'],
-      '/levels/': ['business', 'life', 'leadership', 'tech'],
+      '/levels/': ['business', 'life', 'leadership', 'learning', 'tech'],
       '/knowledge/': [
         {
           title: 'Agriculture',
@@ -67,7 +67,9 @@ module.exports = {
             'meditation',
             'music',
             'public-speaking',
+            'space',
             'trees',
+            'writing'
           ],
         },
         {
@@ -130,12 +132,14 @@ module.exports = {
             'zoology/bees',
             'zoology/birds',
             'zoology/dolphins',
+            'zoology/earthworms',
             'zoology/eels',
             'zoology/octopus',
             'zoology/rats',
             'zoology/ravens',
             'zoology/shrimp',
             'zoology/tortoises',
+            'zoology/whales',
           ],
         },
       ],

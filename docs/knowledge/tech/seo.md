@@ -110,3 +110,4 @@ CTA
 ## Resources
 
 - [SEO Case Study - 0 To 200,000 Monthly Organic Traffic](https://apollodigital.io/blog/seo-case-study)
+- [Show HN: A technical SEO cheat sheet (and flying astronaut)](https://hn.premii.com/#/article/23220845)

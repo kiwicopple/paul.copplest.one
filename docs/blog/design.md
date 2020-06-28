@@ -109,6 +109,7 @@ Here are the best (free) resources that I commonly use
 - [ikonate.com](https://www.ikonate.com)
 - [icomoon.io](https://icomoon.io/)
 - [core-ui](https://github.com/coreui/coreui-icons/tree/1.0.0/)
+- [tabler-icons](https://github.com/tabler/tabler-icons)
 
 ## Images and Illustrations
 

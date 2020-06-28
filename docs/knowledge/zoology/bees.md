@@ -13,3 +13,4 @@
 
 - [How Bees Argue](https://hn.premii.com/#/comments/21988924)
 - [Honeybee brains seem to use alpha waves similarly to primate brains](https://hn.premii.com/#/article/22434234)
+- [Bees Can Sense the Electric Fields of Flowers (2013)] https://hn.premii.com/#/article/23565141

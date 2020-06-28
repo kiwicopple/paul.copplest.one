@@ -19,6 +19,7 @@
 - [Ask HN: Best way to relearn basic math?](https://hn.premii.com/#/comments/20446796)
 - [Calculus for Beginners and Artists](https://hn.premii.com/#/article/20433533)
 - [Math Basics for Computer Science and Machine Learning from UPenn - pdf](https://hn.premii.com/#/article/20570025)
+- [A 2020 Vision of Linear Algebra](https://hn.premii.com/#/comments/23150699)
 
 
 Physics:

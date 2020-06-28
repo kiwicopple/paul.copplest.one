@@ -9,3 +9,6 @@
 - [Kegan's Theory of the Evolution of Consciousness](https://news.ycombinator.com/item?id=20774486)
 - [Thousand Brains Theory of Intelligence](https://news.ycombinator.com/item?id=20326396)
 - [Computational Theory of Mind](https://news.ycombinator.com/item?id=21830699)
+- [Can AI Become Conscious?](https://hn.premii.com/#/article/23157312)
+- [Temporal circuit of brain activity supports human consciousness](https://hn.premii.com/#/article/22823981)
+- [Electrons May Well Be Conscious](https://hn.premii.com/#/article/23215877)
