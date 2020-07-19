@@ -4,9 +4,9 @@
 
 [Blog](/blog/) <br />General writing and opinions.
 
-[Levels](/levels/) <br />Ray Dalio's Book "Principles" outlines ways of dealing with reality to get what you want out of life. I find "Principles" too black and white for decision making frameworks. I prefer to approach mental models in "Levels" where you can start small and build towards a perfect model.
+[Levels](/levels/) <br />Mental Models.
 
-[Knowledge](/knowledge/) <br />Richard Fienman famously kept a list of "Things I don't know". This is my own list and zettlekasten - a repository of personal knowledge that I update from time to time when I find interesting links or research a topic. These small changes are like compound interest. I only expect them to be useful and accurate after a lifetime of updates.
+[Knowledge](/knowledge/) <br />Personal zettlekasten.
 
 **Find me online** <br />[Twitter](https://twitter.com/kiwicopple) | [GitHub](https://github.com/kiwicopple) | [LinkedIn](https://www.linkedin.com/in/paulcopplestone/)
 
@@ -14,7 +14,7 @@
 ## Startups
 
 [Supabase](https://supabase.io) - Co-Founder & CEO<br />
-Supabase provides instant Realtime APIs on top of PostgreSQL for developers, without a single line of code.
+The open source Firebase alternative.
 
 [Nimbus For Work](https://nimbusforwork.com) - Co-Founder & CTO<br />
 Nimbus is an office management platform and service provider.
