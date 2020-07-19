@@ -43,7 +43,7 @@ module.exports = {
         {
           title: 'Agriculture',
           collapsable: false,
-          children: ['soil-health', 'soil-nutrients'],
+          children: ['agriculture/gardening', 'agriculture/soil-health', 'agriculture/soil-nutrients'],
         },
         // {
         //   title: 'Business Practices',
@@ -69,7 +69,7 @@ module.exports = {
             'public-speaking',
             'space',
             'trees',
-            'writing'
+            'writing',
           ],
         },
         {
@@ -103,6 +103,7 @@ module.exports = {
           collapsable: false,
           children: [
             'startups/convertible-notes',
+            'startups/b2b-sales',
             'startups/startup-resources',
             'startups/tech-management',
           ],

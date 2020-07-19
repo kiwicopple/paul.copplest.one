@@ -25,6 +25,7 @@
 Physics:
 
 - [Taking Census of Physics](https://hn.premii.com/#/article/19263393)
+- [Simulation-based high school physics course notes](https://hn.premii.com/#/comments/22574441)
 
 
 

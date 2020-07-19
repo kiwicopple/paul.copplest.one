@@ -14,3 +14,8 @@ I don't have a whole history of the reasons why I want to learn lisp. Most of al
 
 - I started reading the book *The Little Schemer*, which is highly recommended across the internet. I decided that it would be more helpful to learn a bit of lisp syntax first (`car`?, `cdr`?).
 - I watched this [Scheme Lisp: Feel the Cool](https://www.youtube.com/watch?v=tA1clbGDczI) by Andy Balaam on YouTube. I've never learned programming from videos, but actually I found this really helpful.
+
+
+## Resources
+
+- https://www.amazon.com/Lisp-Small-Pieces-Christian-Queinnec/dp/0521545668
