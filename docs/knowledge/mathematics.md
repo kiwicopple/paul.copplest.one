@@ -20,12 +20,14 @@
 - [Calculus for Beginners and Artists](https://hn.premii.com/#/article/20433533)
 - [Math Basics for Computer Science and Machine Learning from UPenn - pdf](https://hn.premii.com/#/article/20570025)
 - [A 2020 Vision of Linear Algebra](https://hn.premii.com/#/comments/23150699)
-
+- [An Intuitive Guide to Linear Algebra](https://hn.premii.com/#/article/22416319)
+- [Mathematics for the Adventurous Self-Learner](https://hn.premii.com/#/comments/22400375)
 
 Physics:
 
 - [Taking Census of Physics](https://hn.premii.com/#/article/19263393)
 - [Simulation-based high school physics course notes](https://hn.premii.com/#/comments/22574441)
+- Intuitive Guide to Maxwell's Equations [https://hn.premii.com/#/comments/23700295](https://hn.premii.com/#/comments/23700295)
 
 
 

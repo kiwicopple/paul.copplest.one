@@ -65,6 +65,13 @@ https://hn.premii.com/#/comments/21794425
 Ask HN: What to read after “Thinking in Systems”?
 https://hn.premii.com/#/comments/20196671
 
+Ask HN: How to improve my abstract thinking?
+https://hn.premii.com/#/comments/23675370
+
+Ask HN: How do I overcome mental laziness?
+https://hn.premii.com/#/comments/22919697
+
+
 
 ## Environment:
 

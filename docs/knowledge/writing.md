@@ -81,3 +81,7 @@ Brevity comes from selection, not compression. That requires lifting whole parts
 
 - [Poytner](https://www.poynter.org/)
 - [How to Edit Your Own Writing](https://news.ycombinator.com/item?id=22814342)
+- How to Write in Plain English [https://hn.premii.com/#/comments/24268382](https://hn.premii.com/#/comments/24268382)
+- Sigil – A free, open-source, multi-platform eBook editor [https://hn.premii.com/#/article/24140752](https://hn.premii.com/#/article/24140752)
+- Perfect Edition: A lightweight, responsive web e-book template [https://hn.premii.com/#/comments/23977642](https://hn.premii.com/#/comments/23977642)
+- [Keeping a Bibliography](https://hn.premii.com/#/comments/22683294)
