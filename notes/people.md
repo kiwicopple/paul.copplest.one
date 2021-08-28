@@ -18,3 +18,8 @@ https://hn.premii.com/#/comments/24483283
 
 Frank Ramsey – The Man Who Thought Too Fast
 https://hn.premii.com/#/comments/23011233
+
+
+## Richard Feynman
+
+## John Carmac

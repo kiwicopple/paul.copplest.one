@@ -59,3 +59,6 @@ Show HN: Hacker News and Reddit comments everywhere
 https://hn.premii.com/#/article/24236311
 
 
+Yap: chat app built with Phoenix
+https://postlight.com/insights/the-magic-elixir-behind-yap
+
