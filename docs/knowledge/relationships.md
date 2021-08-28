@@ -1,6 +1,6 @@
-# Friendship / Relationships
+# Relationships
 
-Some interesting insights about creating friendships (although more investigation is required, so take with a grain of salt). 
+Some interesting insights about friendships. 
 
 ## Create many contexts
 
@@ -8,7 +8,7 @@ Some interesting insights about creating friendships (although more investigatio
 
 ## Bids
 
-The psychologist John Gottman came up with the concept of “bids” in the 1990s. “Bids” are small requests for connection—anything from a smile, to attempting to start a conversation, to inviting your partner on a trip with your family. The more partners respond to each other’s bids by “turning toward” them—engaging and offering the requested connection—the stronger their relationship. The more they “turned away” from the bids, the more likely they were to get divorced. 
+The psychologist John Gottman came up with the concept of “bids” in the 1990s. “Bids” are small requests for connection—anything from a smile, to attempting to start a conversation, to inviting your partner on a trip with your family. The more partners respond to each other’s bids by “turning toward” them — engaging and offering the requested connection — the stronger their relationship. The more they “turned away” from the bids, the more likely they were to get divorced. 
 
 ## Repotting
 

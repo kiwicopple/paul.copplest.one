@@ -4,8 +4,6 @@
 
 [Blog](/blog/) <br />General writing and opinions.
 
-[Levels](/levels/) <br />Mental Models.
-
 [Knowledge](/knowledge/) <br />Personal zettlekasten.
 
 **Find me online** <br />[Twitter](https://twitter.com/kiwicopple) | [GitHub](https://github.com/kiwicopple) | [LinkedIn](https://www.linkedin.com/in/paulcopplestone/)
@@ -34,12 +32,8 @@ Wikipedia's current events, delivered daily to your inbox.
 [Sheet Metal](https://sheetmetal.io)<br />
 Turn any Google Sheet into a database.
 
-[Quick, Font!](https://quickfont.xyz)<br />
-Some good fonts for prototyping or snazzing up an prototype (without having to go through the pain of downloading & installing).
-
 [Buy Meth](https://buymeth.com/)<br />
 Buy [M]isleading [E]ncrypted [Th]umbnails. A cryptographic marketplace built for an Ethereum Hackathon.
-
 
 ## Getting updates
 

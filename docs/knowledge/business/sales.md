@@ -1,10 +1,10 @@
-# B2B Sales
+# Sales
 
 **Contents**
 
 [[TOC]]
 
-## Techniques
+## B2B Techniques
 
 **MEDDIC**
 
@@ -51,15 +51,6 @@
 When you think of salespeople they are generally people without my best interests at heart. They’re trying to close the deal. They don’t really know or care about the things I want. Great sales isn’t about closing the deal, it starts with understanding the customer. Think of yourself as a consultant or a trusted advisor. You’re trying to help the customer get the outcome they want (and maybe that’s not buying your product).
 
 
-
-
-## Hiring
-
-The easiest way to get into B2B sales is to hire an experienced Head of Sales. This person should have had experience in the past growing a sales team from scratch, putting in place incentive structures etc.
-
-## Team Dynamic
-
-In technical sales, you should split the sales into a dual approach: a sales person, and a solution architect. 
 
 
 ## Resources
