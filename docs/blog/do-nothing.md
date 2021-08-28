@@ -27,7 +27,7 @@ Me: *spend 2 minutes pondering how to politely suggest a better method of asynch
 
 **Why you should do nothing.**
 
-I spent my early career as a sysadmin in a company of about 300 people. These interactions were frequent. Being an young upstart I would jump on them straight away.
+I spent my early career as a sysadmin in a company of about 300 people. These interactions were frequent. Being a young upstart I would jump on them straight away.
 
 Often I would spend hours solving the problem, prioritising it above what I was previously doing, only to find it wasn't important to begin with.
 
