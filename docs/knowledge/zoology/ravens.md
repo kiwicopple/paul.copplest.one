@@ -1,8 +1,0 @@
-
-# Ravens
-
-## Resources
-
--  [Shared Emotional States in Ravens](https://news.ycombinator.com/item?id=20976734) 
--  [Crows could be the smartest animal other than primates](https://news.ycombinator.com/item?id=21769575)
--  Crows possess higher intelligence long thought a primarily human attribute [https://hn.premii.com/#/comments/24583314](https://hn.premii.com/#/comments/24583314)
