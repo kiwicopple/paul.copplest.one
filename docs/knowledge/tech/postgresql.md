@@ -44,6 +44,9 @@ COMMENT ON COLUMN public.table_name.updated_at IS 'UTC timestamp of when the rec
 
 ## Resources
 
+Hacker News
+
+- [System design hack: Postgres is a great pub/sub & job server](https://hn.premii.com/#/comments/21484215)
 - [Designing the most performant Row Level Security schema](https://news.ycombinator.com/item?id=22331188)
 - [Postgresqlco.nf: PostgreSQL Configuration for Humans](https://news.ycombinator.com/item?id=22139975)
 - [Pgsh – branch Postgres like Git](https://hn.premii.com/#/comments/21642340)

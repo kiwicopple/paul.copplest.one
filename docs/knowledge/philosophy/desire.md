@@ -8,17 +8,17 @@ description: You are unhappy, and it’s because you want things. This is the mo
 
 You are unhappy, and it’s because you want things. This is the most important concept to understand and the most impossible behaviour to change.
 
-You want to be *somewhere* else. You want to be with *someone* else. You want *something* more. This is how you’ve lived for every minute of every day since you were born.
+You want to be somewhere else. You want to be with someone else. You want *something more*. This is how you’ve lived for every minute of every day since you were born.
 
 You probably feel some level of unhappiness now, doing something you don’t want to do. How much of your life have you spent with this dissatisfaction in the back of your mind?
 
-Sometimes we actually get what we want. Then what? Does the feeling go away? Maybe for an hour or two. Maybe for a day, or a week. But inevitably this uneasiness creeps back in.
+Sometimes we actually get what we want. Then what? Does the desire go away? Maybe for an hour or two. Maybe for a day, or a week. But inevitably this uneasiness creeps back in.
 
 The desire has returned. You feel incomplete. You feel unhappy.
 
 ## Desire is evolutionarily beneficial
 
-Desire is programmed into us through evolution. Those who didn’t want to survive didn’t survive. Those who didn’t want to reproduce didn’t reproduce. Desire is an extremely useful tool. Humanity has made progress due our dissatisfaction with the status quo.
+Desire is programmed into us through evolution. Those who didn’t *want* to survive didn’t survive. Those who didn’t *want* to reproduce didn’t reproduce. Desire is an extremely useful tool. Humanity progresses due our dissatisfaction with the status quo.
 
 But that same feeling — the one of dissatisfaction — that’s the reason why you’re unhappy.
 
@@ -26,9 +26,9 @@ But that same feeling — the one of dissatisfaction — that’s the re
 
 There are three types of desire:
 
-1. We want to feel pleasure; such as eating delicious food, or taking an island vacation
-2. We want to become something; perhaps a great athlete or a successful CEO
-3. We want to get rid of something
+1. **Possesive**. We want to feel pleasure; such as eating delicious food, or taking an island vacation
+2. **Aspirational**. We want to become something; perhaps a great athlete or a successful CEO
+3. ****. We want to get rid of something
 
 The first two are straightforward. They may also seem like the “easiest” to overcome: just stop *wanting* such impermanent things. Be grateful for what you already have.
 

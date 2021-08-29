@@ -1,9 +1,31 @@
 ---
-description: Supervisor AI and the path to the Singularity
+description: AGI and the path to the Singularity
 draft: true
 ---
 
-# Supervisor AI and the path to the Singularity
+# The Supervisor AI, AGI, and the path to the Singularity
+
+Artificial general intelligence (AGI) is the (hypothetical) ability of a machine to understand or learn any intellectual task that a human being can. 
+
+Many people think that machines will never be as smart as humans. Instead of beating that dead-horse, let's assume it's going to happen so that we can explore another interesting concept - the singularity.
+
+## The Singularity
+
+The singularity is point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization. 
+
+Imagine that you made a machine with just one task: make itself better. At the start it might just be a piece of software, and you - being a smart programmer - create this program so that it can re-write it's own code. 
+
+It will be a bit dumb at first, and you - being a smart programmer - realise this. You devise a simple system that allows dumb things to get smarter: evolution. You program your software to "reproduce", adding just minor changes each time th producing "Generation 1" of
+
+
+The changes need to be random though - so where are we going to get a bunch of random code? Simple - an AI that is trained on billions of lines of 
+
+- Uses GPT 3 prompt to create a programming challenge
+- Uses Copilot to code up a program
+- Asseses whether the program solves the problem
+- Deletes the program which fail. Duplicates the gen 1, but also creates merges of the winning solutions.
+
+## The path to the Singularity
 
 ## Supervisor AI
 
@@ -34,7 +56,7 @@ Try giving a computer to any current AI algorithm and they will do the only thin
 
 __At the moment AI is good at solving specific problems. It is not good at coming up with its own goals.__
 
-Each AI algorithm is like an actor in  play, blindly reciting their script.
+Each AI algorithm is like an actor in play, blindly reciting their script.
 
 
 ## The Actor Model

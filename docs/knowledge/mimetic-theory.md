@@ -1,5 +1,5 @@
 ---
-description: The Toyota Way
+description: Mimetics and mimetic theory.
 ---
 
 # Mimetic Theory
