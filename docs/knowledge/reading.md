@@ -5,6 +5,9 @@ Some things that I read/learned
 
 ## Aug 2021
 
+PGSpider: High-Performance SQL Cluster Engine for distributed big data [postgres, extension]
+https://www.postgresql.org/about/news/pgspider-extention-is-newly-released-2289/
+
 Show HN: Typed Postgres CRUD Queries
 https://news.ycombinator.com/item?id=28326117
 
