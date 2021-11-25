@@ -3,7 +3,7 @@ description: Useful cheatsheet for Postgres
 ---
 # PostgreSQL cheatsheet
 
-Useful cheatsheet for Postgres
+Useful cheatsheet for PostgreSQL
 
 ## Upgrading
 
@@ -15,6 +15,30 @@ sudo pg_dropcluster 11 main --stop # Stop the instance on port 5433
 sudo pg_upgradecluster 10 main  # Upgrade the instance on port 5432
 sudo pg_dropcluster 10 main  # Drop the outdated instance
 ```
+
+## Testing
+
+
+#### Query performance
+
+```
+create or replace function perf_query() 
+returns boolean
+language sql stable
+as $$
+  select true;
+$$;
+
+explain analyze
+select perf_query()
+from generate_series(1,10000);
+
+/*
+"Function Scan on generate_series  (cost=0.00..100.00 rows=10000 width=1) (actual time=10.781..17.027 rows=10000 loops=1)"
+"Planning Time: 4.880 ms"
+"Execution Time: 23.155 ms"
+*/
+``
 
 ## Templates
 
