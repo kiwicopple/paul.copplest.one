@@ -8,7 +8,7 @@ At one point in my life I hired a Virtal Assistant (VA) from India, whose name w
 
 A bit of background: I was an early reader of Tim Ferris’ The Four Hour Workweek. In the book he expains the mechanics of running a profitable business with only 4 hours of work per week. One of the keys to this is “automating” your business with cheap labour using the benefits of international wage arbitrage.
 
-Unfortunately, for the things I was automating, I found that the VA wasn't a good fit because:
+Unfortunately, for the things I was automating I found that the VA wasn't a good fit because:
 
 1. the work quality was terrible, and 
 1. the time to prepare the tasks took as long as completeing them myself.
