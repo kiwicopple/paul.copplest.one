@@ -6,7 +6,7 @@
 
 ## B2B Techniques
 
-**MEDDIC**
+**MEDDPIC**
 
 - Metrics: What is the economic impact of the solution?
   - How would you measure success of your project?
@@ -25,6 +25,9 @@
   - How is this put in sequential order and on which timeline is it based?
   - How does the approval process look like for $100K, $500K or $1 million?
   - Paper: How is the legal construct set up? Are there frame agreements in place? What are the critical mandatory terms and conditions? Which contractual paperwork is the basis of negotiation?
+- Paperwork: What legal/paperwork do they need?
+  - What legal docs do they need from us?
+  - Which artifacts can we provide which can help with the decision making process?
 - Identify Pain: What are their primary business objectives? Find strong pains
   - Pain: What causes the delays?
   - Implication: What does this mean to you and the company?
