@@ -23,7 +23,7 @@ sudo pg_dropcluster 10 main  # Drop the outdated instance
 
 ```
 create or replace function perf_query() 
-returns boolean
+returns void
 language sql stable
 as $$
   select true;
@@ -31,10 +31,10 @@ $$;
 
 explain analyze
 select perf_query()
-from generate_series(1,10000);
+from generate_series(1,1000);
 
 /*
-"Function Scan on generate_series  (cost=0.00..100.00 rows=10000 width=1) (actual time=10.781..17.027 rows=10000 loops=1)"
+"Function Scan on generate_series  (cost=0.00..100.00 rows=10000 width=1) (actual time=10.781..17.027 rows=1000 loops=1)"
 "Planning Time: 4.880 ms"
 "Execution Time: 23.155 ms"
 */
