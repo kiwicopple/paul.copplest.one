@@ -29,11 +29,9 @@ Mental models are unchanging fundamentals for a particular subject, popularised 
 [Current Events](https://currentevents.email)<br />
 Wikipedia's current events, delivered daily to your inbox. 
 
-[Sheet Metal](https://sheetmetal.io)<br />
-Turn any Google Sheet into a database.
+[postgres,email](https://github.com/kiwicopple/postgres.email)<br />
+PostgreSQL Email Lists, with a more readable interface.
 
-[Buy Meth](https://buymeth.com/)<br />
-Buy [M]isleading [E]ncrypted [Th]umbnails. A cryptographic marketplace built for an Ethereum Hackathon.
 
 ## Getting updates
 
