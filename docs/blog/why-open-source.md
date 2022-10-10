@@ -3,6 +3,8 @@ date: 2020-10-10
 description: I receive many requests to talk about open source, and the questions are often similar. This post answers the most frequent questions.
 ---
 
+# Why open source?
+
 I receive many requests to talk about open source and the questions are often similar. This post answers the most frequent questions (and is constantly being updated).
 
 ## How did you decide that open source is your right strategy for Supabase? 
