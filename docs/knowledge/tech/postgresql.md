@@ -21,7 +21,7 @@ sudo pg_dropcluster 10 main  # Drop the outdated instance
 
 #### Query performance
 
-```
+```sql
 create or replace function perf_query() 
 returns void
 language sql stable
@@ -38,7 +38,7 @@ from generate_series(1,1000);
 "Planning Time: 4.880 ms"
 "Execution Time: 23.155 ms"
 */
-``
+```
 
 ## Templates
 
