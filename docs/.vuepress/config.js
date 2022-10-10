@@ -25,6 +25,7 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
+        'why-open-source',
         'profit-sharing',
         'realtime-user-store',
         'why-nations-succeed',
@@ -101,7 +102,7 @@ module.exports = {
         {
           title: 'Levels',
           collapsable: false,
-          children: ['levels/business', 'levels/life', 'levels/leadership', 'levels/learning']
+          children: ['levels/business', 'levels/life', 'levels/leadership', 'levels/learning'],
         },
         {
           title: 'Philosophy',

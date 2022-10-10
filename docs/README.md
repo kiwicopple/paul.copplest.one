@@ -29,7 +29,7 @@ Mental models are unchanging fundamentals for a particular subject, popularised 
 [Current Events](https://currentevents.email)<br />
 Wikipedia's current events, delivered daily to your inbox. 
 
-[postgres,email](https://github.com/kiwicopple/postgres.email)<br />
+[postgres.email](https://github.com/kiwicopple/postgres.email)<br />
 PostgreSQL Email Lists, with a more readable interface.
 
 
