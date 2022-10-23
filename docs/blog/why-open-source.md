@@ -38,6 +38,20 @@ I think they were a necessary step during the cloud-transition. When AWS pioneer
 It's becoming more common for open source projects to have a cloud-hosted offering now, and they are a great way to monetize open source (infrastructure) projects.
 I don't particularly like SSL licenses now, because it makes it harder to adopt the product even for smaller business (see "OSI compliance" above).
 
+## What do you think of AGPL?
+
+We tend to avoid using AGPL at Supabase because it's too ambiguous. We asked our lawyers if we could use Minio for Supabase Storage and this was their (trimmed) response:
+
+> *What is the difference between an “aggregate” and other kinds of “modified versions”? ([#MereAggregation](https://www.gnu.org/licenses/gpl-faq.en.html#MereAggregation))*
+>
+> An “aggregate” consists of a number of separate programs, distributed together on the same CD-ROM or other media. The GPL permits you to create and distribute an aggregate, even when the licenses of the other software are nonfree or GPL-incompatible. The only condition is that you cannot release the aggregate under a license that prohibits users from exercising rights that each program's individual license would grant them. Where's the line between two separate programs, and one program with two parts? This is a legal question, which ultimately judges will decide. We believe that a proper criterion depends both on the mechanism of communication (exec, pipes, rpc, function calls within a shared address space, etc.) and the semantics of the communication (what kinds of information are interchanged).
+>
+> If the modules are included in the same executable file, they are definitely combined in one program. If modules are designed to run linked together in a shared address space, that almost surely means combining them into one program.
+>
+> By contrast, pipes, sockets and command-line arguments are communication mechanisms normally used between two separate programs. So when they are used for communication, the modules normally are separate programs. But if the semantics of the communication are intimate enough, exchanging complex internal data structures, that too could be a basis to consider the two parts as combined into a larger program.
+
+That's a lot more complicated than "do what you want with it". We decided it would be too onerous to go through the classification every time we're doing commercial deals, and so we had to build our own Storage engine.
+
 ## Do companies contribute code to your project?
 
 I would estimate that 95% of Supabase is maintained by Supabase employees. There are some projects which are easier to contribute to (for example, adding a Social provider for our Auth server).
