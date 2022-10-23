@@ -32,6 +32,12 @@ Wikipedia's current events, delivered daily to your inbox.
 [postgres.email](https://github.com/kiwicopple/postgres.email)<br />
 PostgreSQL Email Lists, with a more readable interface.
 
+## Investments
+
+I invest in open source and devtools: 
+
+[Appflowy](https://www.appflowy.io/), [Cal.com](https://cal.com), [CodeCrafters](https://codecrafters.io/), 
+[Deepnote](https://deepnote.com/), [Doppler](https://www.doppler.com/), [MedusaJS](https://medusajs.com/), [Snaplet](https://www.snaplet.dev/).
 
 ## Getting updates
 

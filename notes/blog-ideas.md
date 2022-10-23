@@ -1,4 +1,11 @@
 
+
+## Ideas that require trust/collaboration
+
+- 2nd hand domains: A lot of people are sitting on domains, and they will continue to do so. It would be nice if there was a _free_ service which acted as an exchange/escrow to sell domains that you don't need. People can front the cash so that sellers know the buyer is serious
+- Tax: It would be great to have a global set of tax state machines, so that businesses could build on top of them. Countries are always changing their rules, so this needs a collaborative approach.
+
+
 ## Is Inequality Inevitable?
 https://hn.premii.com/#/comments/21465446
 
