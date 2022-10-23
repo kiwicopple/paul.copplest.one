@@ -50,7 +50,7 @@ We tend to avoid using AGPL at Supabase because it's too ambiguous. We asked our
 >
 > By contrast, pipes, sockets and command-line arguments are communication mechanisms normally used between two separate programs. So when they are used for communication, the modules normally are separate programs. But if the semantics of the communication are intimate enough, exchanging complex internal data structures, that too could be a basis to consider the two parts as combined into a larger program.
 
-That's a lot more complicated than "do what you want with it". We decided it would be too onerous to go through the classification every time we're doing commercial deals, and so we had to build our own Storage engine.
+That's a lot more complicated than "do what you want with it". We decided it would be too onerous to go through the classification every time we're doing commercial deals and, since there was a lack of other Storage engines, we built our own.
 
 ## Do companies contribute code to your project?
 
