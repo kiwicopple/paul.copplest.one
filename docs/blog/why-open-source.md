@@ -22,7 +22,7 @@ asking: "can this make money even if it's closed-source?". Usually there is a "p
 
 ## Do I need to open source my business?
 
-Nobody needs to open source anything. Be aware however, that ff you become successful someone else will build an open source alternative to your product. 
+Nobody needs to open source anything. Be aware however, that if you become successful someone else will build an open source alternative to your product. 
 
 ## What licenses do you use at Supabase?  
 
@@ -52,7 +52,7 @@ We tend to avoid using AGPL at Supabase because it's too ambiguous. We asked our
 
 That's a lot more complicated than "do what you want with it". We decided it would be too onerous to go through the classification every time we're doing commercial deals and, since there was a lack of other Storage engines, we built our own.
 
-## Do companies contribute code to your project?
+## Do companies contribute code to Supabase?
 
 I would estimate that 95% of Supabase is maintained by Supabase employees. There are some projects which are easier to contribute to (for example, adding a Social provider for our Auth server).
 We receive plenty of smaller contributions from the community (spelling fixes, docs updates, Discord moderation, translations), and some larger contributions where we can "scope down" the 
@@ -60,13 +60,13 @@ task (like client libraries).
 
 One anecdote - when we were starting Supabase one of our customers needed "Login with Azure". Within 2 days of the request, they had contributed the functionality to the codebase and we released it to the platform for them to use. That would never have happened if we were closed-source.
 
-## Is it a concern that everyone wants to compete with you to have access to your code? 
+## Are you concerned with competitors having access to your code? 
 
 No. If someone is building a competitor to us and they are doing a better job than we are then we deserve to be beaten. Supabase competes on experience, and open source ensures that remains true.
 
 We also support existing tools, so not all of our code is "our" anyway (eg: we contribute to PostgreSQL, and we employ the maintainer of [PostgREST](https://postgrest.org)).
 
-## Any resource/tip you wish you'd know when starting Supabase OSS?
+## Any tips you wish you'd know when starting Supabase OSS?
 
 A non-exhaustive list:
 
