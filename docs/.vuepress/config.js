@@ -59,7 +59,6 @@ module.exports = {
             'music',
             'physics',
             'public-speaking',
-            'people',
             'pyrolysis',
             'relationships',
             'soil',
@@ -113,6 +112,11 @@ module.exports = {
             'philosophy/stoicism',
             'philosophy/desire',
           ],
+        },
+        {
+          title: 'People',
+          collapsable: false,
+          children: ['people', 'people/lee-kuan-yew', 'people/nelson-mandela'],
         },
         // {
         //   title: 'Physics',
