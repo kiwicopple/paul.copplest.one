@@ -1,7 +1,7 @@
 # Lee Kuan Yew
 
 ::: warning
-Disclaimer: I don't condone or condemn any political positions in this article. I am interested only in a person's mindset, especially when it diverges from my own and I have something to learn from it.
+Disclaimer: I don't condone or condemn any political positions in this article. I am interested in a person's mindset, especially when it diverges from my own.
 :::
 
 ### On assets vs subsidies
