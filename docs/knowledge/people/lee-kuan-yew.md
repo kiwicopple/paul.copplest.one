@@ -1,5 +1,9 @@
 # Lee Kuan Yew
 
+::: warning
+Disclaimer: I don't condone or condemn any political positions in this article. I am interested only in a person's mindset, especially when it diverges from my own and I have something to learn from it.
+:::
+
 ### On assets vs subsidies
 
 From "[From Third World to First](https://www.goodreads.com/book/show/144409.From_Third_World_to_First)" by Lee Kuan Yew:
