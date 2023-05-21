@@ -1,14 +1,14 @@
 # Marlon Brando
 
 <div style="font-size:1.5rem;margin-bottom:40px;">
-The man who came back down from the mountain of fame to tell us that there is nothing there.<sup style="font-size:0.8rem;">*</sup>
+The man who came back down from the mountain of fame to tell us that there is nothing there<sup style="font-size:0.8rem;">*</sup>
 </div>
 
-Marlon Brando could be the most real human to have risen to the heights of society. Which is ironic since he was an actor, spending much of his career pretending to be someone else. 
-Take this response to Connie Chung's interview question in 1989, *"Don't you realise that you're thought of as one of the greatest actors ever?"*:
+Marlon Brando could be the most real human to reach the heights of society. Which is ironic since he was an actor, spending much of his career pretending to be someone else. 
+Take his response to Connie Chung's interview question in 1989, *"Don't you realise that you're thought of as one of the greatest actors ever?"*:
 
-> *That's part of the sickness in America. You have to think in terms of who wins, who loses, who's good, who's bad, who's best, who's worst. 
-> We always think in those terms, in the extreme terms. I don't like to think that way.* 
+> *"That's part of the sickness in America. You have to think in terms of who wins, who loses, who's good, who's bad, who's best, who's worst. 
+> We always think in those terms, in the extreme terms. I don't like to think that way."* 
 
 <div class="video-container">
 <iframe src="https://www.youtube-nocookie.com/embed/ydby5KNJ0OQ" allowfullscreen></iframe>
