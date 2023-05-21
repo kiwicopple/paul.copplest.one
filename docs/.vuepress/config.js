@@ -116,7 +116,12 @@ module.exports = {
         {
           title: 'People',
           collapsable: false,
-          children: ['people', 'people/lee-kuan-yew', 'people/nelson-mandela'],
+          children: [
+            'people',
+            'people/lee-kuan-yew',
+            'people/marlon-brando',
+            'people/nelson-mandela',
+          ],
         },
         // {
         //   title: 'Physics',
