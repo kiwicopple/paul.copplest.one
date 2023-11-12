@@ -34,3 +34,13 @@ Relativity
 - I am standing at a clock tower (hint: twin paradox)
   - I travel for 1 hour at the speed of light away from the clock. I look at my watch. What is the time on my watch? I look at the clock. What is the time on the clock?
   - I travel for 1 hour at the speed of light back to the clock. I look at my watch. What is the time on my watch? I look at the clock. What is the time on the clock?
+
+
+
+## Interesting concepts
+
+### Boltzman brain
+
+In theoretical physics, the Boltzmann brain hypothesis suggests that our entire universe could have emerged as a random, momentary fluctuation in a high-entropy state. 
+
+Imagine that the reality you perceive, including the past you remember, might be nothing more than a fleeting momentary construct, like a Boltzmann brain that forms briefly and then vanishes. As you read this, you think that you are a human, with a past and a future. But what if these "memories" and this "sense of self" is simply a random event that makes you _feel_ like you are a long-living entity. Consider that in the next moment, your entire existence might dissolve into the randomness from which it emerged. 
