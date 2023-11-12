@@ -1,6 +1,7 @@
 ---
 date: 2020-08-29
 description: From zero to seed investment.
+draft: true
 ---
 
 Raising a seed round is unusual activity. 
