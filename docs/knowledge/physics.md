@@ -41,6 +41,6 @@ Relativity
 
 ### Boltzman brain
 
-In theoretical physics, the Boltzmann brain hypothesis suggests that our entire universe could have emerged as a random, momentary fluctuation in a high-entropy state. 
+A Boltzmann brain is an idea in science. Imagine the universe is so big and so old that, eventually, a brain pops into existence all by itself. It’s just random particles coming together in the right way, by pure chance. This brain thinks and feels like we do but doesn’t come from a living being. It doesn't even need to be a physical brain - it could just _think_ it's a physical brain.
 
-Imagine that the reality you perceive, including the past you remember, might be nothing more than a fleeting momentary construct, like a Boltzmann brain that forms briefly and then vanishes. As you read this, you think that you are a human, with a past and a future. But what if these "memories" and this "sense of self" is simply a random event that makes you _feel_ like you are a long-living entity. Consider that in the next moment, your entire existence might dissolve into the randomness from which it emerged. 
+It's a nice thought experiment for you, the reader. Imagine that the reality you perceive, including the past you remember, is nothing more than a fleeting momentary construct. As you read this, you think that you are a human, with a past and a future. But what if these "memories" and this "sense of self" is simply a random event that makes you _feel_ like you are a long-living entity. Consider that in the next moment, your entire existence might dissolve into the randomness from which it emerged. 
