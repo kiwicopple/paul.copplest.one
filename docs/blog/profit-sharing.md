@@ -5,7 +5,7 @@ description: How to compensate employees.
 
 # Profit Sharing
 
-I often ponder how to pay startup employees. Let's face it - it's shit to work in a startup. You work long hours. You get paid peanuts. When(if) you get shares, it's points-of-a-percentage, even if you're working as hard as a cofounder. 
+I often think about how to pay startup employees. Let's face it - it's shit to work in a startup. You work long hours. You get paid peanuts. When(if) you get shares, it's points-of-a-percentage, even if you're working as hard as a cofounder. 
 
 Most of the time your equity is worthless. Either the company fails and you get nothing, or it continues doing "ok" but you can't sell the shares.
 

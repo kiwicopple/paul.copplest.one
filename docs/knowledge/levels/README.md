@@ -2,7 +2,7 @@
 sidebar: true
 ---
 
-# Levels
+# Mental modesl
 
 Decision making frameworks and mental models.
 

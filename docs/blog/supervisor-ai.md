@@ -73,3 +73,33 @@ This model is used extensively in distributed systems because it is extremely sc
 ## Resources
 
 - [OmniNet:- A unified architecture for multi-modal multi-task learning](https://news.ycombinator.com/item?id=20479366)
+
+
+
+
+
+
+
+-----
+
+
+# 2023
+
+
+- Stages
+  - All of human knowledge
+  - Human had a subset
+  - Books -> acceleration of knowledge global knowledge
+  - Humans kept up simply by reading more
+  - Science & the internet -> even faster acceleration
+  - Humans gain search engines -> gives them breadth
+- Computers for a long time had _access_ to the information, but they didn't have any intelligence about what they were accessing
+  - With LLMs, they have a way to "interpret" what type of problem needs to be solved, as a rough approximation
+  - They can then use that interpretation to enact other types of 
+
+
+
+
+# The philosophy of time management
+
+

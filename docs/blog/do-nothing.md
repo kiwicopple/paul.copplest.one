@@ -1,7 +1,8 @@
---- 
+---
 date: 2019-11-10
 description: The unreasonable effectiveness of doing nothing.
 ---
+
 # Do nothing
 
 The unreasonable effectiveness of doing nothing.
