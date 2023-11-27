@@ -1,10 +1,13 @@
+---
+date: 2020-07-01
+description: The effects of a national identity.
+---
+
 # Why Nations Succeed
 
-As Marc Andreessen points out, it's [Time to Build](https://a16z.com/2020/04/18/its-time-to-build/). His article is full of great solutions to our problems. 
+I was reading Marc Andreessen's article, [Time to Build](https://a16z.com/2020/04/18/its-time-to-build/). His article is full of great solutions to our problems. 
 
-But I doubt any of the solutions will become a reality, at least not in the US. He's not wrong - it *is* time build. His solutions are well-reasoned and actually quite uplifting. 
-
-But after reading his article I came away with a (tangential) set of questions. *Why* do some countries succeed in becoming great? Alternatively - why do some countries *fail* to become great, even in cases when they have massive resources? And why do those who are already great eventually lose their greatness?
+After reading his article I came away with a (tangential) set of questions. *Why* do some countries succeed in becoming great? Alternatively - why do some countries *fail* to become great, even in cases when they have massive resources? And why do those who are already great eventually lose their greatness?
 
 Not **how**, but **why**? 
 

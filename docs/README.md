@@ -6,7 +6,7 @@
 
 [Knowledge](/knowledge/) <br />Personal zettlekasten.
 
-**Find me online** <br />[Twitter](https://twitter.com/kiwicopple) | [GitHub](https://github.com/kiwicopple) | [LinkedIn](https://www.linkedin.com/in/paulcopplestone/)
+**Online** <br />[Twitter](https://twitter.com/kiwicopple) | [GitHub](https://github.com/kiwicopple) | [LinkedIn](https://www.linkedin.com/in/paulcopplestone/)
 
 
 ## Startups
@@ -36,8 +36,10 @@ PostgreSQL Email Lists, with a more readable interface.
 
 I invest in open source and devtools: 
 
-[Appflowy](https://www.appflowy.io/), [Cal.com](https://cal.com), [CodeCrafters](https://codecrafters.io/), 
-[Deepnote](https://deepnote.com/), [Doppler](https://www.doppler.com/), [Hydra](https://hydras.io/), [MedusaJS](https://medusajs.com/), [Snaplet](https://www.snaplet.dev/).
+[Appflowy](https://www.appflowy.io/), [Braintrust](https://www.braintrustdata.com/), [Cal.com](https://cal.com), [Charm](https://charm.sh/), [CodeCrafters](https://codecrafters.io/), [CrabNebula](https://crabnebula.dev), [Daytona](https://daytona.io), [Deepnote](https://deepnote.com/), [Doppler](https://www.doppler.com/), [Hydra](https://hydras.io/), [Humanloop](https://humanloop.com), [Hydras](https://hydra.so), [Infisical](https://infisical.com), [Leap AI](https://tryleap.ai/), [LlamaIndex](https://www.llamaindex.ai), [MedusaJS](https://medusajs.com/), [Mendable](https://www.mendable.ai/), [Orb](https://withorb.com/), [Oso](https://osohq.com), [PeerDB](https://www.peerdb.io/), [Shorebird](https://shorebird.dev), [SigNoz](https://signoz.io/), [Snaplet](https://www.snaplet.dev/), [Struct](https://struct.ai), [Reflex](https://reflex.dev), [Resend](https://resend.com), [Trigger](https://trigger.dev/), [Vite](https://vitejs.dev/).
+
+
+
 
 ## Getting updates
 

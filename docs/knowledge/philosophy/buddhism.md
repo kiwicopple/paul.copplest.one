@@ -1,29 +1,26 @@
 # Buddhism
 
 > Status: DRAFT
-
-It's hard to find secular discussion of buddhism so I'm making this article completely secular. I will also use very few Pali words. While this makes it more approachable, it also makes it less accurate. 
-
-It may also seem strange that this is classified under "Philosophy". Although Buddhism could be classified as a religion I will try to focus on the philosophocal and phychological aspects.
+> 
+Buddhism is a practice that develops insight into the true "nature" of life. It encompasses a variety of traditions, beliefs, and practices based on the teachings attributed to Siddhartha Gautama, who is commonly known as the Buddha (meaning "the awakened one" in Sanskrit and Pāli). 
 
 ## Introduction
 
-**Where did buddhism come from and should it be believed?**
+**Where did Buddhism come from**
 
-Buddhist philosophy was developed by a man called Siddhartha Gautama in (what is now) Nepal, in the 6th century B.C. The term buddha means "enlightened one", but to keep this text as secular as possible I will not use the term, instead opting for Guatama whenever I refer to him. This is very much in the teaching of Guatama himself, who eschewed any appeal to authority. We shouldn't believe anything in philosophy without introspection to verify if it is true.
+Buddhist philosophy was developed by a man called Siddhartha Gautama in (what is now) Nepal, in the 6th century B.C. The term buddha means "enlightened one". 
 
-**Is Buddha real?**
+**Was Gautama a real person?**
 
-Scholars agree that Siddhartha Gautama lived. His father was either a type of king or an elected chieftain of a a small republic or oligarch. So he was born into immense wealth. 
+Scholars agree that Siddhartha Gautama lived. His father was either a type of king or an elected chieftain of a a small republic or oligarch, so he was born into wealth. 
 
-Some other historical events in his life are debatable. There isn't a lot of documentation of his early life, but it is said that he grew up in absolute luxury and was sheltered from all suffering, and then one day after witnessing an old man he left to become an ascetic, searching for enlightenment. 
-For many years he lived with barely any food and luxury, but eventually he gave up after he realised ascetecism would not lead to complete enlightenment.
+Some other historical events in his life are debatable. There isn't a lot of documentation of his early life. 
 
-As the story goes, determined to find the way out of suffering, he resolved to sit under a bodhi and meditate until he knew the path. After endless days of meditation, he found enlightenment. The four noble truths was the first lesson that he taught, and is a fundamental tenet of Buddhism.
+It is said that he grew up in luxury and was sheltered from all suffering, and then one day after witnessing an old man he left to become an ascetic, searching for enlightenment. For many years he lived as an ascetic, but eventually realised that this path was not leading to an escape from mental suffering. As the story goes, he instead resolved to sit under a bodhi tree and meditate until he knew the the source of his mental suffering. After endless days of meditation, he found the cause. The Four Noble Truths was the first lesson that he taught, and is a fundamental tenet of Buddhism.
 
 **Should any of this be believed?**
 
-We don't really have enough conclusive evidence to know whether these events happened. No doubt they are subject to the fragility of memory and human embelishment. However we do have significant documentation of the teachings subsequent to these events. Whether or not you believe the path he took, you can assess the philosophy of Buddhism separate from Guatama himself. This is, in fact, what he recommends: 
+We don't really have enough conclusive evidence to know whether these events happened. Most of Buddha's life and teachings were documented 200 years after his death. No doubt they are subject to the fragility of memory and human embelishment. Whether or not you believe the path he took, you can assess the philosophy of Buddhism separate from Guatama himself. This is, in fact, what he recommends: 
 
 > "When you know for yourselves that these qualities ... lead to welfare & to happiness — then you should enter and remain in them.”
 

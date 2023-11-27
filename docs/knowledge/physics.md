@@ -34,3 +34,13 @@ Relativity
 - I am standing at a clock tower (hint: twin paradox)
   - I travel for 1 hour at the speed of light away from the clock. I look at my watch. What is the time on my watch? I look at the clock. What is the time on the clock?
   - I travel for 1 hour at the speed of light back to the clock. I look at my watch. What is the time on my watch? I look at the clock. What is the time on the clock?
+
+
+
+## Interesting concepts
+
+### Boltzman brain
+
+A Boltzmann brain is an idea in science. Imagine the universe is so big and so old that, eventually, a brain pops into existence all by itself. It’s just random particles coming together in the right way, by pure chance. This brain thinks and feels like we do but doesn’t come from a living being. It doesn't even need to be a physical brain - it could just _think_ it's a physical brain.
+
+It's a nice thought experiment for you, the reader. Imagine that the reality you perceive, including the past you remember, is nothing more than a fleeting momentary construct. As you read this, you think that you are a human, with a past and a future. But what if these "memories" and this "sense of self" is simply a random event that makes you _feel_ like you are a long-living entity. Consider that in the next moment, your entire existence might dissolve into the randomness from which it emerged. 
