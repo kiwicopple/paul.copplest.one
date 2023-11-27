@@ -40,3 +40,11 @@ Some do's and don'ts for a good friction log:
 | Include all errors, both from the product and user perspectives.        | Avoid only praising without identifying improvement areas.           |
 | Embrace humility: admit when something is unclear or confusing.         | Don't skip steps in the workflow; each part matters.                 |
 | Be concise. Make it easy for the developers to find the problem.                                                                        | Be clear about expectations and desired outcomes.                    |
+
+
+## Resources
+
+- https://www.bythequick.com/posts/friction-logs
+- https://www.chameleon.io/blog/friction-logs
+- https://developerrelations.com/developer-experience/an-introduction-to-friction-logging
+- https://dev.to/stripe/how-we-use-friction-logs-to-improve-products-at-stripe-i6p
