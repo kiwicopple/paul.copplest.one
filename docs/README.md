@@ -4,7 +4,7 @@
 
 [Blog](/blog/) <br />General writing and opinions.
 
-[Knowledge](/knowledge/) <br />Personal zettlekasten.
+[Knowledge](/knowledge/) <br />Personal Zettelkasten.
 
 **Online** <br />[Twitter](https://twitter.com/kiwicopple) | [GitHub](https://github.com/kiwicopple) | [LinkedIn](https://www.linkedin.com/in/paulcopplestone/)
 
