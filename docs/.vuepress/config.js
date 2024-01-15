@@ -25,6 +25,7 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
+        'how-devtools-die',
         'friction-logs',
         'why-open-source',
         'profit-sharing',
