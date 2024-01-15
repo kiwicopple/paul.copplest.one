@@ -5,9 +5,13 @@ description: The devtools cycle
 
 # How dev tools die
 
-There is an interesting cycle in developer tools companies that grow from "bottom up":
+Developer tools are a unique kind of business. In some ways the operate like a social network, where word of mouth plays a big part in the early growth. This growth is often referred to as Product-Led Growth (PLG), or bottom-up growth. If a developer likes your product, they will happily advocate for it, inviting more developers to try it out.
 
-#### Stage 1: Community growth
+## Developer tools lifecycle
+
+There is an interesting lifecycle in developer tools companies that grow from the "bottom up":
+
+### Stage 1: Community growth
 
 A developer tool solves an important problem for developers and start gaining a lot of adoption.
 
