@@ -2,6 +2,7 @@
 date: 2024-01-14
 description: The devtools cycle
 ---
+
 # How dev tools die
 
 There is an interesting cycle in developer tools companies that grow from "bottom up":
@@ -35,26 +36,17 @@ It's too late. Ironically the Point of No Return is the same time the Revenue st
 ![Point of no return](/img/devtools-5.png)
 
 
-
-### Outcome
-
-The revenue growth doesn't _stop_ per-se, it just doesn't grow as fast. The outcome of your company is no longer the "total market", it's simply the scraps of whatever new developer tool is better serving the customers you lost.
-
-Founders often cite Atlassian as a PLG company. The unique thing about their company is simply that their [Sales](https://www.atlassian.com/company/careers/resources/culture/scaling-to-enterprise) looks a lot more like Success:
-
-> "*If you’re used to working in a sales environment where you’re pressured to constantly upsell, or asked to create urgency in purchasing by offering limited-time discounts, don’t worry - you won’t find those games here. 
-> 
-> We don’t offer discounts or limited-time offers on our products; our entire sales process is focused around showcasing the value that our products can deliver to our customers."*
-
+The revenue growth doesn't _stop_ per-se, it just doesn't grow as fast. The potential outcome of your company is no longer the total market - it's simply the scraps of whatever new developer tool is better serving the customers you lost.
 
 # Protect the channel
 
 This was a lesson that Groupon learned the hard way:
 
-> "*Their team started wondering whether sending more emails would improve metrics. The CEO eventually gave in and allowed his team to test sending one more email to each user each day. This test resulted in a big increase to their target metrics. Encouraged, Groupon kept experimenting, sending more emails, even as many as five a day. 
+> _"Their team started wondering whether sending more emails would improve metrics. The CEO eventually gave in and allowed his team to test sending one more email to each user each day. This test resulted in a big increase to their target metrics. Encouraged, Groupon kept experimenting, sending more emails, even as many as five a day._
 > 
-> Then, in what felt like a change from one day to the next, their email channel lost most of its effectiveness. Over time, the accumulation of Groupon’s aggressive email tests had basically destroyed their channel. One often underappreciated risk with aggressively A/B testing emails and push notifications is that it results in users opting out of the channel; and even if you kill the test, those users remain opted out forever. Do this many times, and you’ve destroyed your channel. This was the outcome to avoid. For our push notifications, we established one foundational rule: protect the channel."*
-> [Source](https://www.lennysnewsletter.com/i/104096876/push-notifications-vector)
+> _Then, in what felt like a change from one day to the next, their email channel lost most of its effectiveness. Over time, the accumulation of Groupon’s aggressive email tests had basically destroyed their channel. One often underappreciated risk with aggressively A/B testing emails and push notifications is that it results in users opting out of the channel; and even if you kill the test, those users remain opted out forever. Do this many times, and you’ve destroyed your channel. This was the outcome to avoid. For our push notifications, we established one foundational rule: protect the channel."_
+>
+> <small>[Source](https://www.lennysnewsletter.com/i/104096876/push-notifications-vector)</small>
 
 For a product-led growth company, your community _is_ your channel. Once you lose it, you'll never get it back. Sure you 
 
@@ -80,7 +72,7 @@ The good news is that the solution is relatively simple, it's just not easy. The
 
 For example
 - if the customer needs a particular authentication method, build support for the underlying protocol, rather than their specific login.
-- if the customer needs to disable a port you have open, build an interface around all your ports to that every customer can use that feature
+- if the customer needs to disable a port you have open, build an interface around all your ports to that every customer can use that feature.
 - if the customer needs to deploy into their own cloud, build "bring your own cloud" as a product that you can offer to all enterprises.
 
 If something they are asking for doesn't extend to many more customers, then say no. That's the hard part, leaving money on the table now, for the belief that, in the long-run, it's better for everyone - your community, your customers, and even that enterprise who is making their bespoke demand.
