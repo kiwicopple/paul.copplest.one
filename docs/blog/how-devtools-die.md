@@ -40,11 +40,11 @@ The revenue growth doesn't _stop_ per-se, it just doesn't grow as fast. The pote
 
 # Protect the channel
 
-I first learned the term "protect the channel as a cautionary tale from Groupon:
+I first learned the term "protect the channel" as a cautionary tale from Groupon:
 
-> _"Their team started wondering whether sending more emails would improve metrics. The CEO eventually gave in and allowed his team to test sending one more email to each user each day. This test resulted in a big increase to their target metrics. Encouraged, Groupon kept experimenting, sending more emails, even as many as five a day._
+> _Their team started wondering whether sending more emails would improve metrics. The CEO eventually gave in and allowed his team to test sending one more email to each user each day. This test resulted in a big increase to their target metrics. Encouraged, Groupon kept experimenting, sending more emails, even as many as five a day._
 > 
-> _Then, in what felt like a change from one day to the next, their email channel lost most of its effectiveness. Over time, the accumulation of Groupon’s aggressive email tests had basically destroyed their channel. One often underappreciated risk with aggressively A/B testing emails and push notifications is that it results in users opting out of the channel; and even if you kill the test, those users remain opted out forever. Do this many times, and you’ve destroyed your channel. This was the outcome to avoid. For our push notifications, we established one foundational rule: protect the channel."_
+> _Then, in what felt like a change from one day to the next, their email channel lost most of its effectiveness. Over time, the accumulation of Groupon’s aggressive email tests had basically destroyed their channel. One often underappreciated risk with aggressively A/B testing emails and push notifications is that it results in users opting out of the channel; and even if you kill the test, those users remain opted out forever. Do this many times, and you’ve destroyed your channel. This was the outcome to avoid. For our push notifications, we established one foundational rule: protect the channel._
 >
 > <small>[Source](https://www.lennysnewsletter.com/i/104096876/push-notifications-vector)</small>
 
@@ -66,6 +66,7 @@ Suddenly your supporting all sorts of customizations - one for every million-dol
 Over time, your organization builds scar tissue. The tech-debt mounts and you're starting to look more like a services company that a SaaS.
 
 I was on listening to the Atlassian President speak at a conference recently. She told several stories about how they said "no" to large customers, because they needed too many adaptations to their products. Those customers walked away, of course, but then returned a couple of years later.
+
 ## Configuration, not customization
 
 The good news is that the solution is relatively simple, it's just not easy. The "right" way to support enterprises is to add configuration to your platform - allow them to make changes themselves through parameters.
