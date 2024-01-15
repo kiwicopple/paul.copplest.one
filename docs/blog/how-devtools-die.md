@@ -15,25 +15,25 @@ There is an interesting lifecycle in developer tools companies that grow from th
 
 A developer tool solves an important problem for developers and starts gaining a lot of adoption.
 
-#### Stage 2: Monetization
+### Stage 2: Monetization
 
 They add pricing, and the revenue grows - slowly but surely.
 
 ![Monetization](/img/devtools-2.png)
 
-#### Stage 3: Crossing the chasm
+### Stage 3: Crossing the chasm
 
 Enterprises take notice and the platform "[crosses the chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm)". 
 
 ![Crossing the chasm](/img/devtools-3.png)
 
-#### Stage 4: Revenue slowdown
+### Stage 4: Revenue slowdown
 
 Suddenly the revenue growth slows down. The company looks back and see that their community isn't too healthy any more. The leadership decide they need to pour some fertilizer into the community to boost their revenue growth.
 
 ![Revenue slowdown](/img/devtools-4.png)
 
-#### Stage 5: Point of no return
+### Stage 5: Point of no return
 
 It's too late. Ironically the Point of No Return is the same time that the revenue started slowing down
 
@@ -42,7 +42,7 @@ It's too late. Ironically the Point of No Return is the same time that the reven
 
 The revenue growth doesn't _stop_ per se, it just doesn't grow as fast. The potential outcome of the company is no longer the total market - it's simply the scraps of whatever new developer tool is better serving the customers you lost (unless you [try](https://news.adobe.com/news/news-details/2022/Adobe-to-Acquire-Figma/default.aspx) to [buy](https://techcrunch.com/2021/03/04/making-sense-of-the-6-5b-okta-auth0-deal/) them).
 
-# Protect the channel
+## Protect the channel
 
 I first learned the term "protect the channel" as a cautionary tale from Groupon:
 
