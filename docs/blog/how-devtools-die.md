@@ -3,9 +3,9 @@ date: 2024-01-14
 description: The devtools cycle
 ---
 
-# How dev tools die
+# Supporting enterprises with a product-led growth platform
 
-Developer tools are a unique kind of business. In some ways the operate like a social network, where word of mouth plays a big part in the early growth. This growth is often referred to as Product-Led Growth (PLG), or bottom-up growth. If a developer likes your product, they will happily advocate for it, inviting more developers to try it out.
+Building for developers is unique. In some ways developer platforms operate like a social network, where word of mouth plays a big part in the early growth. This growth is often referred to as Product-Led Growth (PLG), or bottom-up growth. If a developer likes your product, they will happily advocate for it, inviting more developers to try it out.
 
 ## Developer tools lifecycle
 
@@ -13,17 +13,17 @@ There is an interesting lifecycle in developer tools companies that grow from th
 
 ### Stage 1: Community growth
 
-A developer tool solves an important problem for developers and start gaining a lot of adoption.
+A developer tool solves an important problem for developers and starts gaining a lot of adoption.
 
 #### Stage 2: Monetization
 
-They add pricing, and the revenue grows slowly but surely.
+They add pricing, and the revenue grows - slowly but surely.
 
 ![Monetization](/img/devtools-2.png)
 
 #### Stage 3: Crossing the chasm
 
-Enterprises take notice and the dev tool "crosses the chasm". 
+Enterprises take notice and the platform "[crosses the chasm](https://en.wikipedia.org/wiki/Crossing_the_Chasm)". 
 
 ![Crossing the chasm](/img/devtools-3.png)
 
@@ -35,12 +35,12 @@ Suddenly the revenue growth slows down. The company looks back and see that thei
 
 #### Stage 5: Point of no return
 
-It's too late. Ironically the Point of No Return is the same time the Revenue starts slowing down
+It's too late. Ironically the Point of No Return is the same time that the revenue started slowing down
 
 ![Point of no return](/img/devtools-5.png)
 
 
-The revenue growth doesn't _stop_ per se, it just doesn't grow as fast. The potential outcome of your company is no longer the total market - it's simply the scraps of whatever new developer tool is better serving the customers you lost (unless you [try](https://news.adobe.com/news/news-details/2022/Adobe-to-Acquire-Figma/default.aspx) to [buy](https://techcrunch.com/2021/03/04/making-sense-of-the-6-5b-okta-auth0-deal/) them).
+The revenue growth doesn't _stop_ per se, it just doesn't grow as fast. The potential outcome of the company is no longer the total market - it's simply the scraps of whatever new developer tool is better serving the customers you lost (unless you [try](https://news.adobe.com/news/news-details/2022/Adobe-to-Acquire-Figma/default.aspx) to [buy](https://techcrunch.com/2021/03/04/making-sense-of-the-6-5b-okta-auth0-deal/) them).
 
 # Protect the channel
 
