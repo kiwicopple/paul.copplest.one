@@ -3,7 +3,7 @@ date: 2024-01-14
 description: The devtools cycle
 ---
 
-# Enterprise vs Product-led Growth
+# Enterprise Sales vs Product-led Growth
 
 Building for developers is unique. In some ways developer platforms operate like a social network, where word of mouth plays a big part in the early growth. This growth is often referred to as Product-Led Growth (PLG), or bottom-up growth. If a developer likes your product, they will happily advocate for it, inviting more developers to try it out.
 
