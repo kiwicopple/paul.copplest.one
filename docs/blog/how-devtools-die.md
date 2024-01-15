@@ -25,7 +25,7 @@ Enterprises take notice and the dev tool "crosses the chasm".
 
 #### Stage 4: Revenue slowdown
 
-Suddenly the revenue growth slows down. They look back and see that their community isn't looking too healthy any more. The leadership decide that they need to put some fertilizer into the community to boost their revenue growth.
+Suddenly the revenue growth slows down. The company looks back and see that their community isn't too healthy any more. The leadership decide they need to pour some fertilizer into the community to boost their revenue growth.
 
 ![Revenue slowdown](/img/devtools-4.png)
 
@@ -36,11 +36,11 @@ It's too late. Ironically the Point of No Return is the same time the Revenue st
 ![Point of no return](/img/devtools-5.png)
 
 
-The revenue growth doesn't _stop_ per-se, it just doesn't grow as fast. The potential outcome of your company is no longer the total market - it's simply the scraps of whatever new developer tool is better serving the customers you lost.
+The revenue growth doesn't _stop_ per-se, it just doesn't grow as fast. The potential outcome of your company is no longer the total market - it's simply the scraps of whatever new developer tool is better serving the customers you lost (or [try](https://news.adobe.com/news/news-details/2022/Adobe-to-Acquire-Figma/default.aspx) to [buy](https://techcrunch.com/2021/03/04/making-sense-of-the-6-5b-okta-auth0-deal/) them).
 
 # Protect the channel
 
-This was a lesson that Groupon learned the hard way:
+I first learned the term "protect the channel as a cautionary tale from Groupon:
 
 > _"Their team started wondering whether sending more emails would improve metrics. The CEO eventually gave in and allowed his team to test sending one more email to each user each day. This test resulted in a big increase to their target metrics. Encouraged, Groupon kept experimenting, sending more emails, even as many as five a day._
 > 
@@ -48,9 +48,9 @@ This was a lesson that Groupon learned the hard way:
 >
 > <small>[Source](https://www.lennysnewsletter.com/i/104096876/push-notifications-vector)</small>
 
-For a product-led growth company, your community _is_ your channel. Once you lose it, you'll never get it back. Sure you 
+For a product-led growth company, your community _is_ your channel. Once you lose it, you'll never get it back. 
 
-The reason for this is simply that most developer tools get too greedy too fast. The big dollars start coming in, and suddenly this becomes your "ideal customer profile". Once you've become an "Enterprise company", you're lost to developers. You only get one chance to build a reputation. 
+Most devtools simply get too greedy too fast. The big dollars start coming in, and suddenly this becomes your ideal customer profile. Once you've become an "Enterprise company", you're lost to developers. You only get one chance to build a reputation. 
 
 
 ## Death by a thousand enterprises
