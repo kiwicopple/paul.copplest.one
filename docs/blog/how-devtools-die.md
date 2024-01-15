@@ -81,7 +81,7 @@ The "right" way to support enterprises for a PLG product is to add configuration
 For example:
 
 - if the customer needs a particular authentication method, build support for the underlying protocol, rather than their specific login.
-- if the customer needs to disable a port you have open, build an interface around all your ports to that every customer can use that feature.
+- if the customer needs to disable a port you have open, build an interface around all your ports so that _every customer_ can use that feature.
 - if the customer needs to deploy into their own cloud, build "bring your own cloud" as a product that you can offer to all enterprises.
 
 If a customer is are asking for a feature that doesn't extend to many more customers, say no. That's the hard part: leaving money on the table now for the belief that, in the long-run, it's better for everyone - your community, your customers, and even that enterprise who is making their bespoke demand.
