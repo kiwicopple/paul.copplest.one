@@ -11,7 +11,7 @@
 
 ## Startups
 
-[Supabase](https://supabase.io) - Co-Founder & CEO<br />
+[Supabase](https://supabase.com) - Co-Founder & CEO<br />
 The open source Firebase alternative.
 
 [Nimbus For Work](https://nimbusforwork.com) - Co-Founder & CTO<br />
