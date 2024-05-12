@@ -10,9 +10,9 @@ I can't take credit for this idea, I heard it in a podcast a few years ago (whic
 
 The idea is best explained in an analogy:
 
-Imagine you're engrossed in a virtual reality game. You're equipped with a headset and controllers, and your senses are fully-immersed to the virtual world. You can see vivid landscapes, hear the sounds of this virtual environment, and feel the vibrations corresponding to your actions. It’s all-consuming.
+Imagine you're engrossed in a virtual reality game. You're equipped with a headset and controllers and you're fully-immersed in the virtual world. You can see vivid landscapes, hear the sounds of this virtual environment, and feel the vibrations corresponding to your actions. It’s all-consuming. It feels real.
 
-Then someone "in real life" calls your name. Suddenly, you snap back to your living room and your sense of existence instantly expands. 
+Then someone "in real life" calls your name. You snap back to your living room and your sense of what is real has suddenly changed.
 
 Just like the VR experience, our real experiences are mediated by the senses our body provides: sight, sound, smell, taste, touch, and, in a way, our mind - which amalgamates these senses into a "me" experience. 
 
