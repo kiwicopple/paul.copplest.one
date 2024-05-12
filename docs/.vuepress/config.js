@@ -25,6 +25,7 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
+        'vr-theory-of-the-world',
         'how-devtools-die',
         'friction-logs',
         'why-open-source',
@@ -78,6 +79,7 @@ module.exports = {
             'tech/bash-profile',
             'tech/docker',
             'tech/html-cheatsheet',
+            'tech/macos-tips',
             'tech/mental-models',
             'tech/postgresql',
             'tech/postgres-data',
@@ -121,6 +123,8 @@ module.exports = {
           children: [
             'people',
             'people/lee-kuan-yew',
+            'people/jensen-huang',
+            'people/elon-musk',
             'people/marlon-brando',
             'people/nelson-mandela',
           ],
