@@ -18,7 +18,7 @@ Just like the VR experience, our real experiences are mediated by the senses our
 
 So the theory is this: 
 
-What if our body is just a VR headset? *What if there is a there is a broader existence, and we just can't access it because we don't have the senses to experience it.*
+**What if our body is just a VR headset? *What if there is a there is a broader existence, and we just can't access it because we don't have the senses to experience it.***
 
 This doesn't need to be esoteric. For example, humans produce a magnetic field: what if we could sense magnetic fields as we were walking around? It's not so hard to imagine that in the future we'll all be equipped with a sensor to provide us exactly this sensation. How would that change our sense of who we are? 
 
