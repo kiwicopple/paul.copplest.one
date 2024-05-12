@@ -22,4 +22,4 @@ So the theory is this:
 
 This doesn't need to be esoteric. For example, what if we could sense magnetic fields as we were walking around? It's not so hard to imagine that in the distant future we could be equipped with a sensor to provide us this ability. How would that change our sense of who we are? 
 
-I find the concept fascinating. It's like we are an iceberg, and the human body is the "tip", poking out of the water and if only we could look below the surface we would find some entire existence beyond our primitive five senses.
+I find the concept fascinating. It's like we are an iceberg, and the human body is the "tip" poking out of the water. And if only we could look below the surface we would find some entire existence beyond our primitive five senses.
