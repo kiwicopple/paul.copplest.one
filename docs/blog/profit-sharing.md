@@ -93,6 +93,7 @@ A couple of interesting thing about the situation above:
 
 - Employees also suffer from market conditions. This is the trade-off I believe many employees are willing to take.
 - Employees leaving. In this case I imagine that they immediately forfeit their points in the pool. This could lead to people just "sitting" on their points (like many people do with ESOP), or employees wanting to "force-out" other employees.
+  - **Possible Solution**: To prevent employees from being incentivized to force others out, when an employee leaves, their accumulated points remain in the total pool for a period of time (e.g., decaying over two years). This way, the remaining employees' shares do not immediately increase, removing the incentive to push others out.
 - Underperforming employees. The 4-level granularity is quite broad. It means that some "seniors" might be less effective than others.
 - VP-level employees who join could immediately be earning more than others (Juniors) who have been with the company a long time.
 - Early joiners take on more risk than those who join once the business is already profitable. But this is mitigated by the increased share in the Profit Pool.
