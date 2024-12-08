@@ -25,13 +25,14 @@ module.exports = {
     ],
     sidebar: {
       '/blog/': [
+        'human-memories',
         'vr-theory-of-the-world',
         'how-devtools-die',
         'friction-logs',
         'why-open-source',
         'profit-sharing',
         'realtime-user-store',
-        'why-nations-succeed',
+        // 'why-nations-succeed', // Hide: not a big fan of this post any more
         'agile',
         'design',
         'how-to-learn',
