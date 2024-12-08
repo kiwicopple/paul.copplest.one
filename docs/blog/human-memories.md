@@ -5,7 +5,7 @@ description: Characteristics of human memories
 
 # Human memories
 
-I've been writing a blog post about Graphs. One application of Graphs is for modelling the way human memories work. In the draft of that blog post, I went too deep into the characteristics of human memories - I found the content interesting but it detracted from the initial thesis. I've copied the content here so I can revisit it in the future.
+I've been writing a blog post about [graphs](https://en.wikipedia.org/wiki/Graph_theory). One application for graphs is modelling human memories. In the draft of that blog post, I went too deep into the characteristics of human memories - I found the content interesting but it detracted from the initial thesis. I've copied the content here so I can revisit it in the future.
 
 ## Modelling human memories with graphs
 
