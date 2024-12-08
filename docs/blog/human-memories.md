@@ -26,7 +26,7 @@ CREATE TABLE facts (
 );
 ```
 
-The real power of memories lies in the relationship _between_ various facts (the “edges” of a graph), which can be incredibly difficult to model without some sort of graph structure. This is because humans have some, well ... quirks.
+The real power of memories lies in the relationship _between_ various facts (the “edges” of a graph), which can be incredibly difficult to model without some sort of graph structure. This is because humans have some quirks.
 
 To demonstrate, let’s consider how to model different types of facts that your users share. To list just a few:
 
