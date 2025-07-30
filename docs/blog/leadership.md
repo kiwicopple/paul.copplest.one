@@ -68,7 +68,7 @@ When a group disbands, solidarity is formed.
 When leadership is forgotten, leaders appear.  
 
 If you want to remove something, you must first allow it to grow.  
-If you want to grow something, you must first allow it to be fester.  
+If you want to grow something, you must first allow it to fester.  
 The soft overcomes the stubborn; system emerges from chaos.  
 Let your workings remain a mystery. Just show people the results.  
 
@@ -95,10 +95,6 @@ When nothing is done, nothing is left undone.
 
 That which has no substance enters where there is no space.  
 Teaching without words, performing without actions, that is the Leaders's Way.  
-Those who know don't talk. Those who talk don't know.  If you want to be a great leader, you must stop trying to control.  
-Let go of fixed plans and concepts, and the world will govern itself.  
-The more plans you have, the less autonomous people will be.  
-The more rules you have, the less virtuous people will be.  
 
 Let go of law, and people become honest.  
 Let go of direction, and people become driven.  
@@ -112,6 +108,7 @@ Try to make people moral, and you lay the groundwork for vice.
 
 The leader is content to serve as an example and not to impose their will.  
 They are pointed but don't pierce. Straightforward but supple.  
+Let go of fixed plans and concepts, and the world will govern itself.  
 
 What is rooted is easy to nourish.  
 What is recent is easy to correct.  
@@ -122,8 +119,8 @@ Prevent trouble before it arises.
 Put things in order before they exist.  
 Rushing into action, you fail.  
 Trying to grasp things, you break them.  
-Forcing a project to completion, you ruin what was almost ripe.   
 
+Forcing a project to completion, you ruin what was almost ripe.   
 Therefore, the leader takes action by letting things take their course.  
 They remain as calm at the end as at the beginning.  
 They have nothing and therefore have nothing to lose.  
