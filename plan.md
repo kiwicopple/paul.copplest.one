@@ -348,26 +348,28 @@ export default {
 
 ### 6.1 Google Analytics
 
-VitePress doesn't have a built-in GA plugin. Options:
+- [ ] **TODO: Migrate from Universal Analytics (UA) to Google Analytics 4 (GA4)**
 
-**Option A: Use gtag.js directly**
+The current site uses `UA-93673521-3` (Universal Analytics), which has been deprecated. After the VitePress migration is complete, set up GA4:
+
+1. Create a new GA4 property in Google Analytics
+2. Get your GA4 Measurement ID (format: `G-XXXXXXXXXX`)
+3. Add to VitePress config:
 
 ```typescript
 // config.mts
 export default defineConfig({
   head: [
-    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=UA-93673521-3' }],
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX' }],
     ['script', {}, `
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'UA-93673521-3');
+      gtag('config', 'G-XXXXXXXXXX');
     `]
   ]
 })
 ```
-
-**Option B: Consider migrating to GA4** (UA is deprecated)
 
 ### 6.2 Update Build Scripts
 
@@ -376,15 +378,10 @@ export default defineConfig({
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
-    "preview": "vitepress preview docs",
-    "deploy:ipfs": "npm run build && ipd public/"
+    "preview": "vitepress preview docs"
   }
 }
 ```
-
-### 6.3 IPFS Deployment
-
-If still using IPFS deployment, verify `ipfs-deploy` compatibility with new output structure.
 
 ---
 
