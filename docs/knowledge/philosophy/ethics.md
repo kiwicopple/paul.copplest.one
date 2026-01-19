@@ -133,7 +133,7 @@ The question "why should we act ethically?" is composed of a verb (the action) a
 - Why should we be ethical and *(person)*
 - why should we act ethically  *(act)*
 
-We discussed in [The MACI Framework](/knowledge/ethics-maci), that actions are on the path: Motivation, Action, Consequences, Impacts. We can relate our new question to this framework -
+We discussed in The MACI Framework, that actions are on the path: Motivation, Action, Consequences, Impacts. We can relate our new question to this framework -
 
 - When judging whether a _person_ is ethical, we must judge their _motivations_.
 - When judging whether an _act_ is ethical, we must judge the impact of their _consequences_.

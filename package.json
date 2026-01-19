@@ -6,18 +6,13 @@
   "author": "",
   "license": "MIT",
   "scripts": {
-    "build": "vuepress build docs",
-    "deploy:ipfs": "npm run build && ipd public/",
-    "dev": "vuepress dev docs",
-    "start": "vuepress dev docs",
-    "theme:eject": "vuepress eject _tmp"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "ipfs-deploy": "^7.13.0",
-    "@vuepress/plugin-google-analytics": "^1.2.0",
-    "vuepress": "^1.2.0"
-  },
-  "dependencies": {
-    "mermaid": "^8.2.6"
+    "vitepress": "^1.5.0",
+    "vitepress-plugin-mermaid": "^2.0.17",
+    "mermaid": "^10.9.0"
   }
 }
