@@ -1,177 +1,430 @@
-# Upgrade Plan for paul.copplest.one
+# Upgrade Plan: Migrate to VitePress
 
 ## Current State Assessment
 
-This is a VuePress-based personal website/blog that is **moderately out of date**.
+This is a VuePress 1.x personal website/blog that needs modernization.
 
-| Component | Current Version | Latest Version | Priority |
-|-----------|----------------|----------------|----------|
-| VuePress | 1.9.9 | 2.x | High |
-| Mermaid | 8.14.0 | 10.x | Medium |
-| Node.js/Babel | 7.18-7.21 | 7.24+ | Low |
-| ipfs-deploy | 7.14.0 | 7.x (check latest) | Low |
+| Component | Current | Target |
+|-----------|---------|--------|
+| Framework | VuePress 1.9.9 | VitePress 1.x |
+| Mermaid | 8.14.0 | 10.x (built-in support) |
+| Build Tool | Webpack | Vite |
+| Vue | Vue 2 | Vue 3 |
 
----
+## Why VitePress?
 
-## Phase 1: VuePress 1 → VuePress 2 Migration (High Priority)
-
-VuePress 2 is a complete rewrite with significant changes. This is the most impactful upgrade.
-
-### Why Upgrade?
-- VuePress 1 is in maintenance mode (no new features)
-- VuePress 2 uses Vue 3 + Vite (faster builds, better DX)
-- Improved TypeScript support
-- Better plugin architecture
-
-### Migration Steps
-
-#### 1.1 Update Node.js Requirements
-- Ensure Node.js >= 18.19.0 (VuePress 2 requirement)
-- Update any CI/CD pipelines accordingly
-
-#### 1.2 Update package.json
-```json
-{
-  "devDependencies": {
-    "vuepress": "^2.0.0-rc.15",
-    "@vuepress/bundler-vite": "^2.0.0-rc.15",
-    "@vuepress/theme-default": "^2.0.0-rc.43"
-  }
-}
-```
-
-#### 1.3 Migrate Configuration
-- Move `docs/.vuepress/config.js` → `docs/.vuepress/config.ts` (optional but recommended)
-- Update config structure:
-  - `themeConfig` → `theme: defaultTheme({ ... })`
-  - Plugin format changes
-  - Remove deprecated options
-
-#### 1.4 Migrate Custom Components
-Files to update:
-- `docs/.vuepress/components/Mermaid.vue` → Update for Vue 3 Composition API
-- `docs/.vuepress/components/SectionContents.vue` → Update for Vue 3
-- `docs/.vuepress/components/PageDetails.vue` → Update for Vue 3
-
-Key changes:
-- Replace `this.$...` with composition API equivalents
-- Update lifecycle hooks (e.g., `mounted` → `onMounted`)
-- Update `@/` path aliases if used
-
-#### 1.5 Update Plugin References
-- `@vuepress/plugin-google-analytics` → `@vuepress/plugin-google-analytics@2.x`
-- Built-in search → Consider `@vuepress/plugin-search` or `vuepress-plugin-search-pro`
-
-#### 1.6 Style Migration
-- Stylus files should still work but consider migrating to CSS/SCSS
-- Update any theme variable overrides for VuePress 2 naming
+- **Faster builds**: Pure Vite, instant hot reload
+- **Simpler config**: Less boilerplate than VuePress
+- **Better defaults**: Modern theme out of the box
+- **Built-in Mermaid**: Native support via plugin
+- **Active development**: More frequent updates than VuePress
+- **Smaller bundle**: Lighter output for faster page loads
 
 ---
 
-## Phase 2: Mermaid Upgrade (Medium Priority)
+## Phase 1: Project Setup
 
-### Why Upgrade?
-- Mermaid 10.x has significant new features (mindmaps, timeline diagrams, etc.)
-- Security patches
-- Better rendering performance
+### 1.1 Initialize New VitePress Project
 
-### Migration Steps
-
-#### 2.1 Update Dependency
-```json
-{
-  "dependencies": {
-    "mermaid": "^10.9.0"
-  }
-}
-```
-
-#### 2.2 Update Mermaid Component
-The initialization API changed in v10:
-```javascript
-// Old (v8)
-mermaid.initialize({ startOnLoad: false })
-
-// New (v10)
-import mermaid from 'mermaid'
-mermaid.initialize({ startOnLoad: false, securityLevel: 'loose' })
-```
-
-#### 2.3 Test Existing Diagrams
-- Review all markdown files using mermaid for compatibility
-- Some diagram syntax may have changed
-
----
-
-## Phase 3: Dependency Updates (Low Priority)
-
-### 3.1 Update Babel (if needed post-VuePress 2)
-VuePress 2 uses Vite by default, which has its own build system. Babel config may be simplified or removed.
-
-### 3.2 Review ipfs-deploy
-- Check if IPFS deployment is still needed/desired
-- If yes, verify compatibility with latest IPFS protocols
-
-### 3.3 Run Security Audit
 ```bash
-npm audit
-npm audit fix
+# Remove old dependencies
+rm -rf node_modules package-lock.json
+
+# Install VitePress
+npm add -D vitepress
+
+# Initialize (optional - can configure manually)
+npx vitepress init
+```
+
+### 1.2 Update package.json
+
+```json
+{
+  "name": "paul.copplest.one",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.5.0"
+  }
+}
+```
+
+### 1.3 Create New Config Structure
+
+Move from `docs/.vuepress/` to `docs/.vitepress/`:
+
+```
+docs/
+├── .vitepress/
+│   ├── config.mts          # Main config (replaces config.js)
+│   ├── theme/
+│   │   └── index.ts        # Theme customization
+│   └── components/         # Custom Vue components
+├── blog/
+├── knowledge/
+└── index.md
 ```
 
 ---
 
-## Alternative: Consider VitePress
+## Phase 2: Configuration Migration
 
-If a more significant modernization is acceptable, consider migrating to **VitePress** (the successor to VuePress, built by the same team):
+### 2.1 Create `docs/.vitepress/config.mts`
 
-### Pros
-- Even faster builds (pure Vite, no Webpack)
-- Simpler configuration
-- Better default theme
-- First-class TypeScript support
-- Active development
+```typescript
+import { defineConfig } from 'vitepress'
 
-### Cons
-- More significant migration effort
-- Different configuration syntax
-- May require more content restructuring
+export default defineConfig({
+  title: 'Paul Copplestone',
+  description: 'Techie and entrepreneur',
+  outDir: '../public',
+
+  themeConfig: {
+    nav: [
+      { text: 'Blog', link: '/blog/' },
+      { text: 'Knowledge', link: '/knowledge/' },
+      { text: 'Subscribe', link: 'http://eepurl.com/dE68jj' },
+      { text: 'Twitter', link: 'https://twitter.com/kiwicopple' }
+    ],
+
+    sidebar: {
+      '/blog/': [
+        {
+          text: 'Blog Posts',
+          items: [
+            { text: 'Human Memories', link: '/blog/human-memories' },
+            { text: 'VR Theory of the World', link: '/blog/vr-theory-of-the-world' },
+            { text: 'How DevTools Die', link: '/blog/how-devtools-die' },
+            { text: 'Friction Logs', link: '/blog/friction-logs' },
+            { text: 'Why Open Source', link: '/blog/why-open-source' },
+            { text: 'Profit Sharing', link: '/blog/profit-sharing' },
+            { text: 'Realtime User Store', link: '/blog/realtime-user-store' },
+            { text: 'Agile', link: '/blog/agile' },
+            { text: 'Design', link: '/blog/design' },
+            { text: 'How to Learn', link: '/blog/how-to-learn' },
+            { text: 'Nimbus Tech 2019-04', link: '/blog/nimbus-tech-2019-04' },
+            { text: 'Augmented Reality', link: '/blog/augmented-reality' },
+            { text: 'Email to a Friend', link: '/blog/email-to-a-friend' },
+            { text: 'Dividing Equity', link: '/blog/dividing-equity' }
+          ]
+        }
+      ],
+      '/knowledge/': [
+        {
+          text: 'Miscellaneous',
+          collapsed: false,
+          items: [
+            { text: 'Chess', link: '/knowledge/chess' },
+            { text: 'Climbing', link: '/knowledge/climbing' },
+            { text: 'Consciousness', link: '/knowledge/consciousness' },
+            // ... add remaining items
+          ]
+        },
+        {
+          text: 'Tech',
+          collapsed: false,
+          items: [
+            { text: 'Awesome List', link: '/knowledge/tech/awesome-list' },
+            { text: 'Bash Profile', link: '/knowledge/tech/bash-profile' },
+            // ... add remaining items
+          ]
+        },
+        {
+          text: 'Business',
+          collapsed: false,
+          items: [
+            { text: 'Hiring', link: '/knowledge/business/hiring' },
+            { text: 'Management', link: '/knowledge/business/management' },
+            // ... add remaining items
+          ]
+        },
+        {
+          text: 'Philosophy',
+          collapsed: false,
+          items: [
+            { text: 'Ethics', link: '/knowledge/philosophy/ethics' },
+            { text: 'Buddhism', link: '/knowledge/philosophy/buddhism' },
+            // ... add remaining items
+          ]
+        },
+        {
+          text: 'People',
+          collapsed: false,
+          items: [
+            { text: 'Overview', link: '/knowledge/people' },
+            { text: 'Lee Kuan Yew', link: '/knowledge/people/lee-kuan-yew' },
+            // ... add remaining items
+          ]
+        }
+      ]
+    },
+
+    editLink: {
+      pattern: 'https://github.com/kiwicopple/paul.copplest.one/edit/main/docs/:path'
+    },
+
+    search: {
+      provider: 'local'
+    },
+
+    socialLinks: [
+      { icon: 'twitter', link: 'https://twitter.com/kiwicopple' },
+      { icon: 'github', link: 'https://github.com/kiwicopple' }
+    ]
+  }
+})
+```
+
+### 2.2 Config Key Differences
+
+| VuePress 1 | VitePress |
+|------------|-----------|
+| `module.exports = {}` | `export default defineConfig({})` |
+| `themeConfig.sidebar[].children` | `themeConfig.sidebar[].items` |
+| `collapsable: false` | `collapsed: false` |
+| `dest: 'public'` | `outDir: '../public'` |
+| Plugin-based search | Built-in `search: { provider: 'local' }` |
+
+---
+
+## Phase 3: Component Migration
+
+### 3.1 Migrate Custom Components
+
+Current components in `docs/.vuepress/components/`:
+- `Mermaid.vue` → Use VitePress Mermaid plugin instead
+- `SectionContents.vue` → Update to Vue 3 Composition API
+- `PageDetails.vue` → Update to Vue 3 Composition API
+
+### 3.2 Mermaid Support (Built-in)
+
+VitePress has native Mermaid support. Install the plugin:
+
+```bash
+npm add -D vitepress-plugin-mermaid mermaid
+```
+
+Update config:
+
+```typescript
+import { defineConfig } from 'vitepress'
+import { withMermaid } from 'vitepress-plugin-mermaid'
+
+export default withMermaid(
+  defineConfig({
+    // ... your config
+  })
+)
+```
+
+Then use in markdown:
+
+~~~markdown
+```mermaid
+graph TD
+    A[Start] --> B[End]
+```
+~~~
+
+### 3.3 Vue 3 Component Example
+
+Convert components from Options API to Composition API:
+
+```vue
+<!-- Old (Vue 2 Options API) -->
+<script>
+export default {
+  data() {
+    return { count: 0 }
+  },
+  mounted() {
+    console.log('mounted')
+  }
+}
+</script>
+
+<!-- New (Vue 3 Composition API) -->
+<script setup>
+import { ref, onMounted } from 'vue'
+
+const count = ref(0)
+
+onMounted(() => {
+  console.log('mounted')
+})
+</script>
+```
+
+### 3.4 Register Custom Components
+
+Create `docs/.vitepress/theme/index.ts`:
+
+```typescript
+import DefaultTheme from 'vitepress/theme'
+import SectionContents from '../components/SectionContents.vue'
+import PageDetails from '../components/PageDetails.vue'
+
+export default {
+  extends: DefaultTheme,
+  enhanceApp({ app }) {
+    app.component('SectionContents', SectionContents)
+    app.component('PageDetails', PageDetails)
+  }
+}
+```
+
+---
+
+## Phase 4: Content Migration
+
+### 4.1 Frontmatter Updates
+
+VitePress frontmatter is mostly compatible. Check for:
+
+```yaml
+---
+# VuePress 1 specific (remove or update)
+meta:
+  - name: description
+    content: ...
+
+# VitePress format
+description: ...
+---
+```
+
+### 4.2 Markdown Syntax
+
+Most syntax is compatible. Watch for:
+
+- Custom containers: `:::` syntax works the same
+- Code blocks: Same syntax
+- Links: Relative links should work
+
+### 4.3 Remove VuePress-specific Files
+
+Delete after migration:
+- `docs/.vuepress/config.js`
+- `docs/.vuepress/styles/*.styl` (migrate to CSS if needed)
+- Old component files (after updating)
+
+---
+
+## Phase 5: Styling
+
+### 5.1 Migrate Styles
+
+Convert Stylus to CSS. Create `docs/.vitepress/theme/custom.css`:
+
+```css
+:root {
+  --vp-c-brand-1: #0000ee;
+  --vp-c-brand-2: #0000cc;
+  --vp-c-brand-3: #0000aa;
+}
+
+/* Custom styles from old index.styl */
+```
+
+Import in theme:
+
+```typescript
+// docs/.vitepress/theme/index.ts
+import DefaultTheme from 'vitepress/theme'
+import './custom.css'
+
+export default {
+  extends: DefaultTheme
+}
+```
+
+---
+
+## Phase 6: Analytics & Deployment
+
+### 6.1 Google Analytics
+
+VitePress doesn't have a built-in GA plugin. Options:
+
+**Option A: Use gtag.js directly**
+
+```typescript
+// config.mts
+export default defineConfig({
+  head: [
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=UA-93673521-3' }],
+    ['script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-93673521-3');
+    `]
+  ]
+})
+```
+
+**Option B: Consider migrating to GA4** (UA is deprecated)
+
+### 6.2 Update Build Scripts
+
+```json
+{
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "deploy:ipfs": "npm run build && ipd public/"
+  }
+}
+```
+
+### 6.3 IPFS Deployment
+
+If still using IPFS deployment, verify `ipfs-deploy` compatibility with new output structure.
 
 ---
 
 ## Testing Checklist
 
-After each phase, verify:
+After migration, verify:
 
 - [ ] `npm run dev` starts without errors
-- [ ] All pages render correctly
-- [ ] Navigation works (sidebar, navbar)
+- [ ] Home page renders correctly
+- [ ] All blog posts accessible and formatted
+- [ ] All knowledge base articles accessible
+- [ ] Navigation (navbar, sidebar) works
 - [ ] Mermaid diagrams render
-- [ ] Blog posts display correctly
-- [ ] Knowledge base sections work
-- [ ] Google Analytics tracking (if still desired)
 - [ ] Search functionality works
+- [ ] Edit links work
 - [ ] Mobile responsiveness
-- [ ] `npm run build` completes successfully
-- [ ] IPFS deployment (if still used)
+- [ ] `npm run build` completes
+- [ ] `npm run preview` serves correctly
+- [ ] Analytics tracking (if configured)
 
 ---
 
-## Recommended Order of Operations
+## Migration Order
 
-1. **Backup**: Create a new branch for the upgrade
-2. **Phase 1**: VuePress 2 migration (most impactful)
-3. **Test thoroughly**
-4. **Phase 2**: Mermaid upgrade
-5. **Test thoroughly**
-6. **Phase 3**: Cleanup and minor updates
-7. **Final testing and deployment**
+1. **Setup**: Install VitePress, create new config structure
+2. **Config**: Migrate config.js to config.mts
+3. **Content**: Update frontmatter if needed
+4. **Components**: Migrate to Vue 3 or use built-in alternatives
+5. **Styles**: Convert Stylus to CSS
+6. **Test**: Run dev server, check all pages
+7. **Analytics**: Configure tracking
+8. **Build**: Test production build
+9. **Deploy**: Update deployment pipeline
+10. **Cleanup**: Remove old VuePress files
 
 ---
 
 ## Resources
 
-- [VuePress 1 to 2 Migration Guide](https://v2.vuepress.vuejs.org/guide/migration.html)
-- [VuePress 2 Documentation](https://v2.vuepress.vuejs.org/)
-- [Mermaid v10 Breaking Changes](https://mermaid.js.org/intro/getting-started.html)
-- [VitePress Documentation](https://vitepress.dev/) (if considering alternative)
+- [VitePress Documentation](https://vitepress.dev/)
+- [VitePress Mermaid Plugin](https://github.com/emersonbottero/vitepress-plugin-mermaid)
 - [Vue 3 Migration Guide](https://v3-migration.vuejs.org/)
+- [VitePress Default Theme Reference](https://vitepress.dev/reference/default-theme-config)
