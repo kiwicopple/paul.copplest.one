@@ -13,3 +13,7 @@
 - [Temporal circuit of brain activity supports human consciousness](https://hn.premii.com/#/article/22823981)
 - [Electrons May Well Be Conscious](https://hn.premii.com/#/article/23215877)
 - How Did Consciousness Evolve? (2016) [https://hn.premii.com/#/comments/24604061](https://hn.premii.com/#/comments/24604061)
+
+
+https://www.reddit.com/r/likeus/comments/1my5whe/the_strange_world_of_animal_consciousness_alex/
+https://www.youtube.com/watch?v=hVQIrVPkEM8&t=13s
