@@ -13,6 +13,10 @@ export default withMermaid(
         { text: 'Knowledge', link: '/knowledge/' },
       ],
 
+      outline: {
+        level: [2, 3],
+      },
+
       sidebar: {
         '/blog/': [
           {
