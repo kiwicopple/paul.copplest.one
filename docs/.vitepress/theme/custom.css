@@ -4,8 +4,6 @@
   --vp-c-brand-1: #0000ee;
   --vp-c-brand-2: #0000cc;
   --vp-c-brand-3: #0000aa;
-  --vp-c-text-1: #222;
-  --vp-c-border: #eee;
   --vp-font-family-base: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
@@ -25,14 +23,14 @@
 /* Images */
 .vp-doc img {
   border-radius: 5px;
-  border: 1px solid #eee;
+  border: 1px solid var(--vp-c-border);
   max-width: 100%;
 }
 
 /* Blockquotes */
 .vp-doc blockquote {
-  color: #444;
-  background: #fafafa;
+  color: var(--vp-c-text-2);
+  background: var(--vp-c-bg-soft);
   font-size: 0.9rem;
   border: none;
   padding: 10px;
@@ -43,8 +41,8 @@
 
 /* Inline code */
 .vp-doc :not(pre) > code {
-  color: #444;
-  background: #efefef;
+  color: var(--vp-c-text-2);
+  background: var(--vp-c-bg-mute);
   font-size: 0.8rem;
   padding: 0.2rem;
   border-radius: 3px;
