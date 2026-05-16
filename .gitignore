@@ -1,6 +1,7 @@
 .idea
 node_modules
-public
-!docs/.vuepress/public
+/public
 .DS_Store
 .obsidian
+docs/.vitepress/cache
+docs/.vitepress/dist

@@ -1,0 +1,129 @@
+/* VitePress theme customization */
+
+:root {
+  --vp-c-brand-1: #0000ee;
+  --vp-c-brand-2: #0000cc;
+  --vp-c-brand-3: #0000aa;
+  --vp-c-text-1: #222;
+  --vp-c-border: #eee;
+  --vp-font-family-base: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+/* Base styles */
+.VPDoc {
+  font-size: 0.9rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Content area */
+.vp-doc {
+  max-width: 740px;
+}
+
+/* Images */
+.vp-doc img {
+  border-radius: 5px;
+  border: 1px solid #eee;
+  max-width: 100%;
+}
+
+/* Blockquotes */
+.vp-doc blockquote {
+  color: #444;
+  background: #fafafa;
+  font-size: 0.9rem;
+  border: none;
+  padding: 10px;
+  margin-left: 0;
+  margin-right: 0;
+  border-left: 4px solid var(--vp-c-brand-1);
+}
+
+/* Inline code */
+.vp-doc :not(pre) > code {
+  color: #444;
+  background: #efefef;
+  font-size: 0.8rem;
+  padding: 0.2rem;
+  border-radius: 3px;
+}
+
+/* Code blocks */
+.vp-doc pre code {
+  color: #ffffff;
+  background: transparent;
+  padding-left: 0;
+}
+
+/* Links with underline effect */
+.vp-doc a {
+  color: var(--vp-c-text-1);
+  box-shadow: inset 0 -3px 0 -1px var(--vp-c-brand-1);
+  transition: box-shadow 0.15s ease-in-out, color 0.15s ease-in-out;
+  padding-bottom: 2px;
+  text-decoration: none;
+}
+
+.vp-doc a:hover {
+  color: #fff;
+  box-shadow: inset 0 -30px 0 -1px var(--vp-c-brand-1);
+}
+
+/* Header links - remove the underline effect */
+.vp-doc h1 a,
+.vp-doc h2 a,
+.vp-doc h3 a,
+.vp-doc h4 a,
+.vp-doc h5 a,
+.vp-doc h6 a {
+  box-shadow: none;
+}
+
+.vp-doc h1 a:hover,
+.vp-doc h2 a:hover,
+.vp-doc h3 a:hover,
+.vp-doc h4 a:hover,
+.vp-doc h5 a:hover,
+.vp-doc h6 a:hover {
+  box-shadow: none;
+  color: var(--vp-c-brand-1);
+}
+
+/* Lists */
+.vp-doc ol,
+.vp-doc ul {
+  padding-left: 1.7em;
+}
+
+/* Mermaid diagrams */
+.mermaid {
+  text-align: center;
+}
+
+/* Hide outbound link icon */
+.vp-doc a[target="_blank"]::after {
+  display: none !important;
+}
+
+/* Collapsible sections */
+.vp-doc details summary:hover {
+  cursor: pointer;
+}
+
+/* Video container for responsive embeds */
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
