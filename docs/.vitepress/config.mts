@@ -1,11 +1,18 @@
 import { defineConfig } from 'vitepress'
 import { withMermaid } from 'vitepress-plugin-mermaid'
+import footnote from 'markdown-it-footnote'
 
 export default withMermaid(
   defineConfig({
     title: 'Paul Copplestone',
     description: 'Techie and entrepreneur',
     outDir: '../public',
+
+    markdown: {
+      config: (md) => {
+        md.use(footnote)
+      },
+    },
 
     themeConfig: {
       nav: [
