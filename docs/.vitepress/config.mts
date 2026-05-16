@@ -10,9 +10,7 @@ export default withMermaid(
     themeConfig: {
       nav: [
         { text: 'Blog', link: '/blog/' },
-        { text: 'Knowledge', link: '/knowledge/' },
-        { text: 'Subscribe', link: 'http://eepurl.com/dE68jj' },
-        { text: 'Twitter', link: 'https://twitter.com/kiwicopple' }
+        { text: 'Knowledge', link: '/knowledge/' }
       ],
 
       sidebar: {
