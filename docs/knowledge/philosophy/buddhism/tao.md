@@ -455,213 +455,235 @@ When male and female combine, all things achieve harmony. Ordinary men hate soli
 
 ## 43 The Gentlest Thing in the World
 
-The Gentlest Thing in the World Overcomes the Hardest Thing in the World, That Which Has no Substance, Enters Where There Is No Space, This Shows the Value of Non-Action, Teaching Without Words, Performing Without Actions, That Is the Master's Way.
+The gentlest thing in the world overcomes the hardest thing in the world. That which has no substance enters where there is no space. This shows the value of non-action. Teaching without words, performing without actions, that is the Master's Way.
 
 ---
 
 ## 44 Fame or Integrity
 
-Fame or Integrity, Which Is More Important, Money or Happiness, Which Is More Valuable, Success or Failure,
-Which Is More Destructive, If You Look to Others for Fulfillment,
-You Will Never Truly Be Fulfilled,
-If Your Happiness Depends on Money,
-You Will Never Be Happy With Yourself, Be Content With What You Have, Rejoice in the Way Things Are, When You Realize There Is Nothing Lacking,
-The Whole World Belongs To You.
+Fame or integrity, which is more important? Money or happiness, which is more valuable? Success or failure, which is more destructive? If you look to others for fulfillment, you will never truly be fulfilled. If your happiness depends on money, you will never be happy with yourself. Be content with what you have. Rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.
 
 ---
 
 ## 45 True Perfection
 
-True Perfection Seems Imperfect Yet It Is Perfectly Itself True Fullness Seems Empty Yet It Is Fully Present, True Straightness Seems Crooked True Wisdom Seems Foolish True Art Seems Artless, The Master Allows Things to Happen. She Shapes Events as They Come, She Steps Out of the Way And Lets The Tao Speak For Itself.
+True perfection seems imperfect, yet it is perfectly itself. True fullness seems empty, yet it is fully present. True straightness seems crooked. True wisdom seems foolish. True art seems artless. The Master allows things to happen. She shapes events as they come. She steps out of the way and lets the Tao speak for itself.
 
 ---
 
 ## 46 When a Country Is in Harmony
 
-When a Country is in Harmony with the Tao, the Factories Make Trucks and Tractors When a Country Goes Counter to the Tao, Warheads are stockpiled outside the cities, there is no greater illusion than fear, no greater wrong than preparing to defend yourself, no greater misfortune than having an enemy, whoever can see through all fear, will always be safe.
+When a country is in harmony with the Tao, the factories make trucks and tractors. When a country goes counter to the Tao, warheads are stockpiled outside the cities. There is no greater illusion than fear, no greater wrong than preparing to defend yourself, no greater misfortune than having an enemy. Whoever can see through all fear will always be safe.
 
 ---
 
 ## 47 Without Opening Your Door
 
-Without opening your door, you can open your heart to the World, without looking out your window, you can see the Essence of the Tao, the more you know, the less you understand, the Master arrives without leaving, sees the Light without looking, achieves without doing a thing.
+Without opening your door, you can open your heart to the World. Without looking out your window, you can see the essence of the Tao. The more you know, the less you understand. The Master arrives without leaving, sees the Light without looking, achieves without doing a thing.
 
 ---
 
 ## 48 In the Pursuit of Knowledge
 
-In the Pursuit of Knowledge, every Day, Something Is Added, in the Practice of the Tao, every Day, Something Is Dropped, Less and Less Do You Need to Force Things, until Finally, You Arrive at Non-Action, When Nothing Is Done, Nothing Is Left Undone,
-True Mastery Can Be Gained,
-By Letting Things Go Their Own Way,
-It Can't Be Gained by Interfering.
+In the pursuit of knowledge, every day, something is added. In the practice of the Tao, every day, something is dropped. Less and less do you need to force things, until finally, you arrive at non-action. When nothing is done, nothing is left undone. True mastery can be gained by letting things go their own way. It can't be gained by interfering.
 
 ---
 
 ## 49 The Master Has No Mind of Her Own
 
-The Master Has no Mind of Her Own, She Works with the Mind of the People. She is Good to People Who Are Good. She is Also Good to People Who Aren't Good. This is True Goodness. She Trusts People Who Are Trustworthy. She Also Trusts People Who Aren't Trustworthy. This is True Trust. The Master's Mind is Like Space. People Don't Understand Her. They Look to Her & Wait She Treats Them Like Her Own Children.
+The Master has no mind of her own; she works with the mind of the people. She is good to people who are good. She is also good to people who aren't good. This is true goodness. She trusts people who are trustworthy. She also trusts people who aren't trustworthy. This is true trust. The Master's mind is like space. People don't understand her. They look to her and wait. She treats them like her own children.
 
 ---
 
 ## 50 The Master Gives Himself Up
 
-The Master Gives Himself Up To Whatever The Moment Brings.
-He Knows That He Is Going to Die.
-And He Has Nothing Left to Hold On To.
-No Illusions in His Mind, No Resistances in His Body.
-He Doesn't Think About His Actions.
-They Flow from the Core of His Being.
-He Holds Nothing Back from Life.
-Therefore, He Is Ready for Death.
-As a Man Is Ready for Sleep,
-After a Good Day's Work.
+The Master gives himself up to whatever the moment brings. He knows that he is going to die, and he has nothing left to hold on to: no illusions in his mind, no resistances in his body. He doesn't think about his actions; they flow from the core of his being. He holds nothing back from life. Therefore, he is ready for death, as a man is ready for sleep after a good day's work.
 
 ---
 
 ## 51 Every Being in the Universe
 
-Every Being in the Universe is an Expression of the Tao.
-It Springs into Existence. Unconscious, Perfect, Free. Takes On a Physical Body. Lets Circumstances Complete It.
-That Is Why Every Being Spontaneously Honours the Tao.
-The Tao Gives Birth to All Beings.
-Nourishes Them, maintains Them.
-Cares For Them, comforts Them, protects Them.
-Takes Them Back to Itself, creating Without Possessing, Acting Without Expecting, Guiding Without Interfering.
-That Is Why Love of the Tao Is in the Very Nature of Things.
+Every being in the universe is an expression of the Tao. It springs into existence—unconscious, perfect, free. It takes on a physical body, lets circumstances complete it. That is why every being spontaneously honors the Tao. The Tao gives birth to all beings, nourishes them, maintains them, cares for them, comforts them, protects them, takes them back to itself, creating without possessing, acting without expecting, guiding without interfering. That is why love of the Tao is in the very nature of things.
 
 ---
 
 ## 52 In The Beginning Was The Tao
 
-In The Beginning, Was The Tao. All Things Issue From It. All Things Return to It. To Find The Origin. Trace Back the Manifestations.
-When You Recognize The Children, And Find The Mother.
-You Will Be Free Of Sorrow.
-If You Close Your Mind to Judgments, And Traffic With Desires, Your Heart Will Be Troubled.
-If You Keep Your Mind From Judging, And Aren't Led By The Senses, Your Heart Will Find Peace.
-Seeing Into Darkness Is Clarity.
-Knowing How To Yield Is Strength.
-Use Your Own Light. And Return To The Source Of Light.
-This Is Called Practicing Eternity.
+In the beginning was the Tao. All things issue from it. All things return to it. To find the origin, trace back the manifestations. When you recognize the children and find the Mother, you will be free of sorrow. If you close your mind to judgments and traffic with desires, your heart will be troubled. If you keep your mind from judging and aren't led by the senses, your heart will find peace. Seeing into darkness is clarity. Knowing how to yield is strength. Use your own light and return to the source of light. This is called practicing eternity.
 
 ---
 
 ## 53 The Great Way Is Easy
 
-The Great Way Is Easy.
-Yet People Prefer The Side Paths. Be Aware When Things Are Out Of Balance.
-Stay Centered Within The Tao.
-When Rich Speculators Prosper. While Farmers Lose Their Land.
-When Government Officials Spend Money On Weapons Instead Of Cures.
-When The Upper Class Is Extravagant And Irresponsible.
-While The Poor Have No Where To Turn. All This Is Robbery. And Chaos. It Is Not In Keeping With The Tao.
+The Great Way is easy, yet people prefer the side paths. Be aware when things are out of balance. Stay centered within the Tao. When rich speculators prosper while farmers lose their land; when government officials spend money on weapons instead of cures; when the upper class is extravagant and irresponsible while the poor have nowhere to turn—all this is robbery and chaos. It is not in keeping with the Tao.
 
 ---
 
 ## 54 Whoever Is Planted in the Tao
 
-Whoever is planted in the Tao, will not be rooted up, whoever embraces the Tao, will not slip away. Her name will be held in honor from generation to generation. Let the Tao be present in your life, and you will become genuine.
-Let it be present in your family, and your family will flourish.
-Let it be present in your country, and your country will be an example to all countries in the world.
-Let it be present in the universe, and the universe will sing.
-How do I know this is true? By looking inside myself.
+Whoever is planted in the Tao will not be rooted up. Whoever embraces the Tao will not slip away. Her name will be held in honor from generation to generation. Let the Tao be present in your life, and you will become genuine. Let it be present in your family, and your family will flourish. Let it be present in your country, and your country will be an example to all countries in the world. Let it be present in the universe, and the universe will sing. How do I know this is true? By looking inside myself.
 
 ---
 
 ## 55 He Who Is in Harmony with the Tao
 
-He Who Is in Harmony with the Tao Is Like a Newborn Child Its Bones are Soft, Its Muscles are Weak But Its Grip is Powerful, It Doesn't Know About the Union of Male and Female Yet And Its Penis Can Stand erect, So Intense Is Its Vital Power, It Can Scream Its Head Off All Day Yet It Never Becomes Hoarse, So Complete Is Its Harmony, The Master's Power Is Like This, He Lets All Things Come & Go, Effortlessly Without Desire, He Never Expects Results, Thus He Is Never Disappointed, He Is Never Disappointed, Thus His Spirit Never Grows Old.
+He who is in harmony with the Tao is like a newborn child. Its bones are soft, its muscles are weak, but its grip is powerful. It doesn't know about the union of male and female yet, and its penis can stand erect; so intense is its vital power. It can scream its head off all day, yet it never becomes hoarse; so complete is its harmony. The Master's power is like this. He lets all things come and go, effortlessly, without desire. He never expects results. Thus he is never disappointed. He is never disappointed, thus his spirit never grows old.
 
 ---
 
 ## 56 Those Who Know
 
-Those Who Know, Don't Talk, Those Who Talk, Don't Know, Close Your Mouth, Block Off Your Senses, Blunt Your Sharpness, Untie Your Knots, Soften Your Glare, Settle Your Dust,
-This is the Primal Identity,
-Be Like The Tao,
-It Can't Be Approached, Or Withdrawn From, Benefitted, Or Harmed, Honored, Or Brought Into Disgrace,
-It Gives Itself Up Continually,
-That Is Why It Endures.
+Those who know don't talk. Those who talk don't know. Close your mouth, block off your senses, blunt your sharpness, untie your knots, soften your glare, settle your dust. This is the Primal Identity. Be like the Tao. It can't be approached or withdrawn from, benefitted or harmed, honored or brought into disgrace. It gives itself up continually. That is why it endures.
 
 ---
 
 ## 57 If You Want to Be a Great Leader
 
-If You Want to Be a Great Leader, You must learn to follow the Tao, stop trying to control, let go of fixed plans and concepts, and the world will govern itself, the more prohibitions you have, the less virtuous people will be, the more weapons you have, the less secure people will be, the more subsidies you have, the less self-reliant people will be, therefore, the Master Says, I let go of the Law, and people become honest, I let go of economics, and people become prosperous, I let go of religion, and people become serene, I let go of all desire for the common good, and the good becomes common as grass.
+If you want to be a great leader, you must learn to follow the Tao. Stop trying to control. Let go of fixed plans and concepts, and the world will govern itself. The more prohibitions you have, the less virtuous people will be. The more weapons you have, the less secure people will be. The more subsidies you have, the less self-reliant people will be. Therefore, the Master says, "I let go of the law, and people become honest. I let go of economics, and people become prosperous. I let go of religion, and people become serene. I let go of all desire for the common good, and the good becomes common as grass."
 
 ---
 
 ## 58 If a Country Is Governing with Tolerance
 
-If a Country is Governing with Tolerance, the People are Comfortable and Honest, If a Country is Governing with Repression, the People are Depressed and Crafty, when the Will to Power is in Charge, the Higher the Ideals, the Lower the Results, try to Make People Happy, and You Lay the Groundwork for Misery, try to Make People Moral, and You Lay the Groundwork for Vice, thus the Master is content to serve as an Example, and not to impose her will, she is pointed but doesn't pierce, straightforward but supple, radiant, but easy on the Eyes.
+If a country is governing with tolerance, the people are comfortable and honest. If a country is governing with repression, the people are depressed and crafty. When the will to power is in charge, the higher the ideals, the lower the results. Try to make people happy, and you lay the groundwork for misery. Try to make people moral, and you lay the groundwork for vice. Thus the Master is content to serve as an example and not to impose her will. She is pointed but doesn't pierce, straightforward but supple, radiant but easy on the eyes.
 
 ---
 
 ## 59 For Governing a Country
 
-For Governing a Country Well, There Is Nothing Better Than Moderation, The Mark of a Moderate Man, Is Freedom from His Own Ideas, Tolerant Like the Sky, All Pervading Like Sunlight, Firm Like a Mountain, Supple Like a Tree in the Wind, He Has No Destination in View, And Makes Use of Anything Life Happens to Bring His Way, Nothing Is Impossible for Him, Because He Has Let Go, He Can Care for the People's Welfare, As a Mother Cares For Her Child.
+For governing a country well, there is nothing better than moderation. The mark of a moderate man is freedom from his own ideas. Tolerant like the sky, all-pervading like sunlight, firm like a mountain, supple like a tree in the wind, he has no destination in view and makes use of anything life happens to bring his way. Nothing is impossible for him because he has let go. He can care for the people's welfare as a mother cares for her child.
 
 ---
 
 ## 60 Governing a Large Country
 
-Governing a Large Country is like frying a small fish. You spoil it with too much poking. Center your country in the Tao, and evil will have no power. Not that it isn't there, but you'll be able to step out of its way. Give evil nothing to oppose, and it will disappear by itself.
+Governing a large country is like frying a small fish; you spoil it with too much poking. Center your country in the Tao, and evil will have no power. Not that it isn't there, but you'll be able to step out of its way. Give evil nothing to oppose, and it will disappear by itself.
 
 ---
 
 ## 61 When A Country Obtains Great Power
 
-When A Country Obtains Great Power, It Becomes Like The Sea All Streams Run Downward Into It. When He Makes A Mistake, He Realizes It, Having Realized It, He Admits It, Having Admitted It,
-He Corrects It, He Considers Those Who Point Out His Faults,
-As His Most Benevolent Teachers, He Thinks Of His Enemy,
-As The Shadow, That He Himself Casts, If A Nation Is Centered In The Tao,
-If It Nourishes Its Own People, And Doesn't Meddle In The Affairs Of Others,
-It Will Be A Light To All Nations In The World.
+When a country obtains great power, it becomes like the sea; all streams run downward into it. When he makes a mistake, he realizes it. Having realized it, he admits it. Having admitted it, he corrects it. He considers those who point out his faults as his most benevolent teachers. He thinks of his enemy as the shadow that he himself casts. If a nation is centered in the Tao, if it nourishes its own people and doesn't meddle in the affairs of others, it will be a light to all nations in the world.
 
 ---
 
 ## 62 The Tao Is The Center Of The Universe
 
-The Tao Is The Center Of The Universe,
-The Good Man's Treasure,
-The Bad Man's Refuge, Honours Can Be Bought With Fine Words,
-Respect Can Be Won With Good Deeds,
-But The Tao Is Beyond All Value,
-And No One Can Achieve It,
-Thus When A New Leader Is Chosen,
-Don't Offer To Help Him With Your Wealth Or Your Expertise, Offer Instead To Teach Him About The Tao,
-Why Did The Ancient Masters Esteem The Tao? Because Being One With The Tao, When You Seek, You Find, And When You Make A Mistake, You Are Forgiven, That Is Why Everybody Loves It.
+The Tao is the center of the universe, the good man's treasure, the bad man's refuge. Honors can be bought with fine words; respect can be won with good deeds. But the Tao is beyond all value, and no one can achieve it. Thus, when a new leader is chosen, don't offer to help him with your wealth or your expertise. Offer instead to teach him about the Tao. Why did the ancient Masters esteem the Tao? Because being one with the Tao, when you seek, you find, and when you make a mistake, you are forgiven. That is why everybody loves it.
 
 ---
 
-## 63 Act Without Doing
+## 63 Act Without Doing, Work Without Effort
 
-Act without doing.
-Work without effort.
-Think of the small as large and the few as many.
-Confront the difficult while it is still easy.
-Accomplish the great task by a series of small acts.
-The master never reaches for the great; thus she achieves greatness.
-When she runs into a difficulty, she stops and gives herself to it.
-She doesn't cling to her own comfort; thus problems are no problem for her.
+Act without doing, work without effort. Think of the small as large and the few as many. Confront the difficult while it is still easy. Accomplish the great task by a series of small acts. The Master never reaches for the great; thus, she achieves greatness. When she runs into a difficulty, she stops and gives herself to it. She doesn't cling to her own comfort; thus, problems are no problem for her.
 
 ---
 
 ## 64 What Is Rooted Is Easy to Nourish
 
-What is rooted is easy to nourish.
-What is recent is easy to correct.
-What is brittle is easy to break.
-What is small is easy to scatter.
-Prevent trouble before it arises.
-Put things in order before they exist.
-The giant pine tree grows from a tiny sprout.
-The journey of a thousand miles starts from beneath your feet.
-Rushing into action, you fail.
-Trying to grasp things, you lose them.
-Forcing a project to completion, you ruin what was almost ripe.
-Therefore the master takes action by letting things take their course.
-He remains as calm at the end as at the beginning.
-He has nothing; thus has nothing to lose.
-What he desires is non-desire.
-What he learns is to unlearn.
-He simply reminds people of who they have always been.
+What is rooted is easy to nourish. What is recent is easy to correct. What is brittle is easy to break. What is small is easy to scatter. Prevent trouble before it arises. Put things in order before they exist. The giant pine tree grows from a tiny sprout. The journey of a thousand miles starts from beneath your feet. Rushing into action, you fail. Trying to grasp things, you lose them. Forcing a project to completion, you ruin what was almost ripe. Therefore, the Master takes action by letting things take their course. He remains as calm at the end as at the beginning. He has nothing; thus, has nothing to lose. What he desires is non-desire. What he learns is to unlearn. He simply reminds people of who they have always been. He cares about nothing but the Tao; thus, he can care for all things.
+
+---
+
+## 65
+
+The ancient Masters didn't try to educate the people but kindly taught them not to know. When they think that they know the answers, people are difficult to guide. When they know that they don't know, people can find their own way. If you want to learn how to govern, avoid being clever or rich. The simplest pattern is the clearest. Content with an ordinary life, you can show all people the way back to their own true nature.
+
+---
+
+## 66 All Streams Flow to the Sea
+
+All streams flow to the sea because it is lower than they are; humility gives it its power. If you want to govern the people, you must place yourself below them. If you want to lead the people, you must learn how to follow them. The Master is above the people, and no one feels oppressed. She goes ahead of the people, and no one feels manipulated. The whole world is grateful to her because she competes with no one; no one can compete with her.
+
+---
+
+## 67
+
+Some say that my teaching is nonsense; others call it lofty but impractical. But to those who have looked inside themselves, this nonsense makes perfect sense, and to those who put it into practice, this loftiness has roots that go deep. I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures. Simple in actions and in thoughts, you return to the source of being. Patient with both friends and enemies, you accord with the way things are. Compassionate toward yourself, you reconcile all beings in the world.
+
+---
+
+## 68 The Best Athlete Wants His Opponent at His Best
+
+The best athlete wants his opponent at his best. The best general enters the mind of his enemy. The best businessman serves the communal good. The best leader follows the will of the people. All of them embody the virtue of non-competition. Not that they don't love to compete, but they do it in the spirit of play. In this, they are like children in harmony with the Tao.
+
+---
+
+## 69
+
+The generals have a saying: "Rather than make the first move, it is better to wait and see."
+
+---
+
+## 70
+
+My teachings are easy to understand and easy to put into practice, yet your intellect will never grasp them. And if you try to practice them, you'll fail. My teachings are older than the world. How can you grasp their meaning? If you want to know me, look inside your heart.
+
+---
+
+## 71 Not Knowing Is True Knowledge
+
+Not knowing is true knowledge. Presuming to know is a disease. First realize that you are sick; then you can move toward health. The Master is her own physician; she has healed herself of all knowing. Thus, she is truly whole.
+
+---
+
+## 72
+
+When they lose their sense of awe, people turn to religion. When they no longer trust themselves, they begin to depend upon authority. Therefore, the Master steps back so that people won't be confused. He teaches without a teaching, so that people will have nothing to learn.
+
+---
+
+## 73 The Tao Is Always at Ease
+
+The Tao is always at ease. It overcomes without competing, answers without speaking a word, arrives without being summoned, accomplishes without a plan. Its net covers the whole universe, and its meshes are wide; it doesn't let a thing slip through.
+
+---
+
+## 74
+
+If you realize that all things change, there is nothing you will try to hold on to. If you aren't afraid of dying, there is nothing you can't achieve. Trying to control the future is like trying to take the Master Carpenter's place. When you handle the Master Carpenter's tools, chances are that you'll cut your hand.
+
+---
+
+## 75
+
+When taxes are too high, people go hungry. When the government is too intrusive, people lose their spirit. Act for the people's benefit, trust them, leave them alone.
+
+---
+
+## 76
+
+Men are born soft and supple; dead, they are stiff and hard. Plants are born tender and pliant; dead, they are brittle and dry. Thus, whoever is stiff and inflexible is a disciple of death. Whoever is soft and yielding is a disciple of life. The hard and stiff will be broken; the soft and supple will prevail.
+
+---
+
+## 77
+
+As it acts in the world, the Tao is like the bending of a bow: the top is bent downward, the bottom is bent up. It adjusts excess and deficiency so that there is perfect balance. It takes from what is too much and gives to what isn't enough. Those who try to control, who use force to protect their power, go against the direction of the Tao. They take from those who don't have enough and give to those who have far too much. The Master can keep giving because there is no end to her wealth. She acts without expectation, succeeds without taking credit, and doesn't think that she is better than anyone else.
+
+---
+
+## 78
+
+Nothing in the world is as soft and yielding as water, yet for dissolving the hard and inflexible, nothing can surpass it. The soft overcomes the hard; the gentle overcomes the rigid. Everyone knows this is true, but few can put it into practice. Therefore, the Master remains serene in the midst of sorrow; evil cannot enter his heart. Because he has given up helping, he is people's greatest help. True words seem paradoxical.
+
+---
+
+## 79 Failure
+
+Failure is an opportunity. If you blame someone else, there is no end to the blame. Therefore, the Master fulfills her own obligations and corrects her own mistakes. She does what she needs to do and demands nothing of others.
+
+---
+
+## 80
+
+If a country is governed wisely, its inhabitants will be content. They enjoy the labor of their hands and don't waste time inventing labor-saving machines. Since they dearly love their homes, they aren't interested in travel. There may be a few wagons and boats, but these don't go anywhere. There may be an arsenal of weapons, but nobody ever uses them. People enjoy their food, take pleasure in being with their families, spend weekends working in their gardens, delight in the doings of the neighborhood. And even though the next country is so close that people can hear its roosters crowing and its dogs barking, they are content to die of old age without ever having gone to see it.
+
+---
+
+## 81
+
+True words aren't eloquent; eloquent words aren't true. Wise men don't need to prove their point; men who need to prove their point aren't wise. The Master has no possessions. The more he does for others, the happier he is. The more he gives to others, the wealthier he is. The Tao nourishes by not forcing; by not dominating, the Master leads.
+
+---
+
