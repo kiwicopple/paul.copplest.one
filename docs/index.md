@@ -2,14 +2,14 @@
 
 [Blog](/blog/) <br />General writing and opinions.
 
-[Knowledge](/knowledge/) <br />Personal Zettelkasten.
+[Knowledge](/knowledge/) <br />Personal dumping ground.
 
 **Online** <br />[Twitter](https://twitter.com/kiwicopple) | [GitHub](https://github.com/kiwicopple) | [LinkedIn](https://www.linkedin.com/in/paulcopplestone/)
 
 ## Startups
 
-[Supabase](https://supabase.io) - Co-Founder & CEO<br />
-The open source Firebase alternative.
+[Supabase](https://supabase.com) - Co-Founder & CEO<br />
+Postgres developer platform.
 
 [Nimbus For Work](https://nimbusforwork.com) - Co-Founder & CTO<br />
 Nimbus is an office management platform and service provider.
@@ -19,14 +19,14 @@ ServisHero is one of South-East Asia's largest marketplaces for service provider
 
 ## Projects
 
+[postgres.email](https://postgres.email)<br />
+PostgreSQL Email Lists, with a more readable interface.
+
 [Mental Models](https://mentalmodels.co)<br />
 Mental models are unchanging fundamentals for a particular subject, popularised by Charlie Munger.
 
 [Current Events](https://currentevents.email)<br />
 Wikipedia's current events, delivered daily to your inbox.
-
-[postgres.email](https://github.com/kiwicopple/postgres.email)<br />
-PostgreSQL Email Lists, with a more readable interface.
 
 ## Investments
 
