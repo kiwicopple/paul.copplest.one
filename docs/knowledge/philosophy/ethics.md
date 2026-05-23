@@ -1,11 +1,8 @@
 # Ethics
 
-> Status: DRAFT
+## About
 
-
-## About this article
-
-Most of this article was written when I was very young. I wanted to "go down the rabbit hole" of ethics without first reading about it. In doing so, I wanted to come up with a framework where society could judge the ethics of a person and of an action.
+This article was written when I was very young. It was written mostly from first principles and i've left it largely untouched as a way to reflect back on my younger self.
 
 ## Introduction
 
@@ -33,11 +30,7 @@ Wikipedia details 4 fields of ethics:
 1. **Normative (prescriptive) ethics**: How should people act?
 1. **Applied ethics**: How do we take moral knowledge and put it into practice? 
 
-
-
-
 ## The MACI Framework 
-
 
 > Motivation, Action, Consequence, Impact
 
@@ -249,4 +242,3 @@ Imagine the following people:
 - an elderly woman loses all her friends and family. Knowing she doesn't have a means to support herself she decides to commit suicide.
 
 Both of these situations appear to have only personal consequences (no impact on other people), however one seems obviously more ethical than the other. Why?
-

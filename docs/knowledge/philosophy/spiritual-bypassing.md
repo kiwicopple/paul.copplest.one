@@ -4,11 +4,11 @@ Spiritual Bypassing is a common pattern for those learning Buddhism. Put simply:
 
 _Spiritual bypassing means using spiritual ideas or practices to sidestep emotions you haven't actually worked through._
 
-It's very similar to the "positive mindset" pattern, wrapped up in a spiritual guise. This is a simple enough trap because there are so many "bumper sticker"-like platitudes that Buddhism offers: "there is no self" or "it's all an illusion". Whether these are true or not, the issue is whether we use these to avoid our direct experience. 
+It's very similar to the "positive mindset" pattern, wrapped up in a spiritual guise. This is a simple enough trap because there are so many "bumper sticker"-like platitudes that Buddhism offers: "there is no self" or "it's all an illusion". Whether these are true or not, the issue is whether we use them to avoid our direct experience.
 
-Take a relatable situation: you notice something about your body that you don't like - you have a pimple, or you are getting older, you think you're too fat. The bypassing that could come here is a thought like "everything is impermanent" or "the body doesn't matter". It's not too different from a the body positive movement, wrapped in a spiritual pretext.
+Take a relatable situation: you notice something about your body that you don't like — you have a pimple, you are getting older, you think you're too fat. The bypassing that could come here is a thought like "everything is impermanent" or "the body doesn't matter". It's not too different from the body positivity movement, wrapped in a spiritual pretext.
 
-The point is not whether the thought is correct or not. The thought itself is somewhat irrelevant. What matters is a complete understanding (and acknowledging) of the sequence that lead to the thought.
+The point is not whether the thought is correct or not. The thought itself is somewhat irrelevant. What matters is a complete understanding (and acknowledgement) of the sequence that led to the thought.
 
 ### Thoughts arising
 
@@ -27,7 +27,7 @@ The interaction between each stage is roughly:
 1. There is an initial contact with some sense (sight, sound, etc). This generates a feeling tone that is either pleasant, unpleasant, or neutral.
 2. The feeling tone constructs a mental state - something like anxiety, boredom, or excitement.
 3. Out of the mental state arises some thoughts, or mental objects. In our "I'm getting older" example above, those could be "I am running out of time" or "I haven't achieved anything important yet".
-4. These mental objects will similarly product a feeling tone and compound on themselves.
+4. These mental objects will similarly produce a feeling tone and compound on themselves.
 5. The overall loop can produce even more raw bodily sensations - increased heart rate, tightness, contraction, restricted breathing, etc.
 
 This framework should be loosely-held. These processes are more like a web than a perfect system.
@@ -36,11 +36,11 @@ Spiritual bypassing is the over-emphasis on the _mental objects_, without acknow
 
 ### Noticing
 
-No surprises, the way to resolve spiritual bypassing is through mindfulness. If you catch yourself "spiritualizing", look earlier in the loop: label the mental state underlying the thought and label the feeling tone(s) inside the body. 
+No surprises, the way to resolve spiritual bypassing is through mindfulness. If you catch yourself "spiritualizing", look earlier in the loop: label the mental state underlying the thought and label the feeling tone(s) inside the body.
 
-If possible, come back to the original sensory contact that triggered the chain. In Buddhism there are considered to be six sense bases rather than the tradition five we have in western cultures: eyes, ears, tongue, body, nose, and _mind_. 
+If possible, come back to the original sensory contact that triggered the chain. In Buddhism there are considered to be six sense bases rather than the traditional five we have in Western cultures: eyes, ears, tongue, body, nose, and _mind_.
 
-From the mind rises mental objects (thoughts, memories, images, concepts), similar to smell arising from the nose. This makes the diagram above incomplete - a thought isn't just something that arises *after* sensory contact, it is also a form of sensory contact. This is basically what's happening when you lie awake at 3am: no new sensory contact from the world, but the anxiety continues to compound in a way that doesn't allow you to fall asleep.
+From the mind rise mental objects (thoughts, memories, images, concepts), similar to smell arising from the nose. This makes the diagram above incomplete — a thought isn't just something that arises *after* sensory contact, it is also a form of sensory contact. This is basically what's happening when you lie awake at 3am: no new sensory contact from the world, but the anxiety continues to compound in a way that doesn't allow you to fall asleep.
 
 Mental objects should be treated no differently than any other sense: notice them as arising from the mind like smells from the nose, note their feeling tone, and refrain from proliferating them. 
 
@@ -48,7 +48,7 @@ For example, the thought "I said something embarrassing yesterday" is usually fo
 
 We can create a gap with a moment of recognition ("thinking is happening"). Then shift your focus to the feeling tone rather than allowing the mental objects to loop back on themselves, or - in the case of spiritual bypassing - simply ignoring that the feeling tone and mental states exist.
 
-### Persistant loops
+### Persistent loops
 
 If a memory keeps arising with high charge, simply noting "thinking, thinking" and returning to the breath might be bypassing something that actually needs attention. If you are "sitting" with a thought pattern, you can distinguish between:
 
@@ -63,11 +63,11 @@ The replay that proliferation produces is repetitive, it covers the same ground,
 
 ### Reducing reactivity vs resolving
 
-I'm starting to appreciate that too much faith in the mindfulness process is another form of spiritual bypassing. This is probably a Western thing, since the teaching of mindfulness is so introductory compared to the East. In Buddhism, mindfulness is almost never presented as a standalone practice and is only one part of eight (the Eightfold Path). In the West we learn the basics and a sort of [Dunning-Krueger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) effect sets in where we believe we have unlocked the keys to enlightenment. 
+I'm starting to appreciate that too much faith in the mindfulness process is another form of spiritual bypassing. This is probably a Western thing, since the teaching of mindfulness is so introductory compared to the East. In Buddhism, mindfulness is almost never presented as a standalone practice and is only one part of eight (the Eightfold Path). In the West we learn the basics and a sort of [Dunning-Kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) effect sets in where we believe we have unlocked the keys to enlightenment.
 
-Western Mindfulness is great for reducing reactivity. I'm skeptical at it's efficacy of *resolving* deep-seated issues ("saṅkhāra") - conditioned patterns that developed over years. In a busy world, where mindfulness is shallow, I suspect that structural issues require more direct work. 
+Western mindfulness is great for reducing reactivity. I'm skeptical of its efficacy at *resolving* deep-seated issues ("saṅkhāra") — conditioned patterns that developed over years. In a busy world, where mindfulness is shallow, I suspect that structural issues require more direct work.
 
-Structural issues are how the nervous system learned to orient to the world. Attachment theorists call them a [working model](https://en.wikipedia.org/wiki/Internal_working_model_of_attachment), and somatic therapists call them a held pattern. 
+Structural issues are how the nervous system learned to orient to the world. Attachment theorists call them a [working model](https://en.wikipedia.org/wiki/Internal_working_model_of_attachment), and somatic therapists call them a held pattern.
 
 In contemporary practices, what tends to shift structural issues is some combination of: experience that contradicts the original wound, working explicitly with memories and emotional content, and somatic work if the pattern is held in the body. Mindfulness is supportive of all of these but it's more like preparation for the work than the work itself.
 
@@ -81,7 +81,7 @@ The meditator learns to categorize the arising of the insecurity as "something t
 
 ### Wisdom
 
-This "mis-labelling" is described in Buddhism as "Perception" ("saññā") - the faculty that identifies and categorizes experience. This is where a lot of distortion happens. It's very hard to interpret everything from First Principles: you perceive through accumulated patterns, drawing on memory and conditioning. 
+This "mis-labelling" is described in Buddhism as "Perception" ("saññā") — the faculty that identifies and categorizes experience. This is where a lot of distortion happens. It's very hard to interpret everything from first principles: you perceive through accumulated patterns, drawing on memory and conditioning.
 
 Perception is largely invisible by design. It doesn't announce itself as a filter. The meditator sitting with insecurity, applying the "note and release" template - they are running that template completely transparently. It just feels like correct practice. To catch it, you need a quality of attention that turns back on the _act of perceiving itself_ - noticing not just what arises but how it's being categorized.
 
