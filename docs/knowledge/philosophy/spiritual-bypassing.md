@@ -4,15 +4,16 @@ Spiritual Bypassing is a common pattern for those learning Buddhism. Put simply:
 
 _Spiritual bypassing means using spiritual ideas or practices to sidestep emotions you haven't actually worked through._
 
-It's very similar to the "positive mindset" pattern, wrapped up in a spiritual guise. This is a simple enough trap because there are so many "bumper sticker"-like platitudes that Buddhism offers: "there is no self" or "it's all an illusion". Whether these are true or not, the issue is whether we use them to avoid our direct experience.
+It's very similar to the "positive mindset" pattern, wrapped up in a spiritual guise. This is a simple trap because there are so many "bumper sticker"-like platitudes that Buddhism offers: "there is no self" or "it's all an illusion". Whether these are true or not, the issue is whether we use them to avoid our direct experience.
 
-Take a relatable situation: you notice something about your body that you don't like — you have a pimple, you are getting older, you think you're too fat. The bypassing that could come here is a thought like "everything is impermanent" or "the body doesn't matter". It's not too different from the body positivity movement, wrapped in a spiritual pretext.
+Take a relatable situation: you notice something about your body that you don't like — you have a pimple, you are getting older, you think you're too fat. The bypassing that could come here is a thought like "everything is impermanent" or "the body doesn't matter".
 
 The point is not whether the thought is correct or not. The thought itself is somewhat irrelevant. What matters is a complete understanding (and acknowledgement) of the sequence that led to the thought.
 
 ### Thoughts arising
 
 The thoughts arrive through several stages:
+
 ```mermaid
 flowchart LR
     A["Sensory contact<br/><small>Phassa</small>"] -->|1| B["Feeling tone<br/><small>Vedanā</small>"]
@@ -114,7 +115,7 @@ The Bhuddhist practice of mindfulness covers this in the fourth foundation of mi
 
 Contemplating mental objects ("_dhammānupassanā_") includes observing the stories, beliefs, and causes of our experience. This is where Perceiving starts to become visible - when you're not just watching thoughts but watching the _categorizing process_ itself.
 
-Importantly you can't watch the categorizing process and be in raw pre-conceptual contact at the same time. The practice oscillates between these rather than holding both at once. In a single moment of experience you're either in raw contact or you're observing the structure. But across a sitting you're doing both. Sometimes dropping below the conceptual layer, sometimes stepping back to see the machinery[^1]. 
+Importantly you can't watch the categorizing process and be in raw pre-conceptual contact at the same time. The practice oscillates between these rather than holding both at once. In a single moment of experience you're either in raw contact or you're observing the structure. But across a sitting you're doing both. Sometimes dropping below the conceptual layer, sometimes stepping back to see the machinery[^1].
 
 ### Practical tests
 
